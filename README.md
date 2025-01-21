@@ -1,0 +1,1 @@
+# gloomhaven2e-faq
