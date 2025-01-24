@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **OFFICIAL FAQ FOR FROSTHAVEN**
+# **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-01-06*
+*Last Updated 2025-01-24*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -13,7 +13,7 @@
    1. <a href="#page_31">Masteries</a>
    1. <a href="#page_32">Personal Quests</a>
    1. <a href="#page_33">Events and Traits</a>
-1. <a href="#page_4">Outpost General Questions</a>
+1. <a href="#page_4">City General Questions</a>
    1. <a href="#page_41">Specific Building Questions</a>
    1. <a href="#page_42">Enhancements</a>
    1. <a href="#page_43">Building 81 Questions</a>
@@ -57,21 +57,19 @@
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
 
-This is the official FAQ for Frosthaven. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. The previous [FAQ on the BoardGameGeek Frosthaven forum](https://boardgamegeek.com/thread/3001013/official-faq-for-frosthaven-no-rules-questions-ple) will no longer be updated, but that thread can still be used to notify me of necessary FAQ entries. When possible or necessary, I will also post changelogs with explanations in that thread.
-
-Why github and not BoardGameGeek? Primarily, because github can be edited by multiple Cephalofair accounts, not just my personal forum account. Github also allows for features we've been sorely missing, like direct linking to sections, a clickable table of contents, richer formatting, and built-in version tracking. It has worked excellently for the [Buttons & Bugs Living Rules](https://cephalofairgames.github.io/bnb-rules/), and it seemed sensible to put Official FAQs here, as well.
+This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. 
 
 ![divider](/assets/images/divider2.png)
 
 ### 0.1 Spoilers
 
-I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope/building number, scenario number, or item number. Note that starting buildings, all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
+I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 ![divider](/assets/images/divider2.png)
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74 in most places). I was a lead playtester for Frosthaven, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Frosthaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, and Nikki Valens for their help.
+I am Bill (or dwarf74 in most places). I also maintain the Frosthaven FAQ, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Gloomhaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, themris, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
@@ -81,74 +79,11 @@ Most of these questions were asked by the community. If you have a question that
 
 - [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
 - [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
-- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions for all Haven games. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
 
 ![divider](/assets/images/divider.png)
 
 ##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
-
-- Envelopes 24, 37, 44, 85, and 90 have the wrong rule sticker numbers printed inside the flap of the envelope.
-  - Envelope 24 should list sticker 10
-  - Envelope 37 should list stickers 11 and 13
-  - Envelope 44 should list stickers 12 and 14
-  - Envelope 85 should list sticker 15
-  - Envelope 90 should list stickers 1, 5, 8, and 9
-- There is a deck of cards in envelope 81 whose order should be reversed. If you pull it out and the visible card is titled "T___ of W___", reverse the order of the deck so that card is the first drawn when the deck is face-down.
-- Town Guard Cards 1451 and 1452 should be "+2 material resources"
-- Winter road event WR-47 (back) - In the first A outcome, "winter road deck" should be "summer road deck". In the B outcome, "Remove event WR-47 from the winter road deck" should be "Remove event SR-49 from the summer road deck".
-- Three monster cards have misprints: 
-  - Chaos Demon’s “Chilling Breath” is missing the Retaliate value on elemental consumption. It should be Retaliate 2, Range 2.
-  - Savvas Icestorm’s “Frozen Shell” has an incorrect Earth consumption. It should be Ice consumption.
-  - Elite Wind Demon Level 0 should have Move 3.
-- The flowcharts have some errors. In all cases, the Scenario Book’s requirements are correct and should be followed.
-  - On flowchart 1, scenario 10 should have a sled icon.
-  - On flowchart 2, scenario 22 should have a boat icon and scenario 42 should have a boat icon.
-  - On flowchart 3, scenarios 50, 54, 49, 53, and 60 are missing boat icons.
-  - On flowchart 5, scenario 132 should have a climbing gear icon.
-  - Scenarios 25 and 26 are exclusive but missing Lockout circles.
-- Many character sheets in early print runs have a weird typesetting issue with “fi” as in the beginning of “first”
-- Scenario 0, Section 197.1 has outdated descriptions and names of some cards. 
-- Scenario 17, Section 25.3  - instead of Door 3 opening Section 62.3, this should read Door 1.
-- Scenario 18 - Map layout and map: The right 11 tile should be 11-C.
-- Scenario 28 - Archers should spawn at **D** and Guards at **E**. The exit hexes are likewise swapped.
-- Scenario 36/37 - Add the blueprint for Item 067 to the Scenario Rewards
-- Scenario 37 - Treasure Chest should be 56
-- Scenario 60 should have Item 224 as a scenario reward
-- Scenario 70 has two Random Items on the Loot Deck. This is a typo; there should be 1.
-- Scenario 71, Section 111.2 - Map: Lurker Soldier should be Lurker Clawcrusher
-- Scenario 72, Section 132.2 - The snow rocks cannot be relocated or destroyed, except via the scenario mechanics.
-- Scenario 78 has a tricky map issue - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page).
-- Scenario 104 - Second to last line of the special rules: "Ice Wraith" should be "Savvas Icestorm"
-- Scenario 104, Section Book 14.2 - Map: Ice Wraith should be Frost Demon
-- Scenario 110 - the water hexes are difficult terrain, not corridor. 
-- Scenario 111 - The door positions from Section 182.2 are correct. Section 138.2 should link to Section 147.2.
-- Scenario 113, Section 154.1 - Map: Black Imp should be Forest Imp
-- Scenario 125 Door 2 is different in sections 158.4 and 108. Don't move it after opening. 
-- Scenario 130 Key - Shrike Fiend has an image of Night Demon
-- Section Book 137.3 - This should add Section 5.1, not 159.2
-- Solo Book p13 - Special rules: "Snowspeaker" should be "Icespeaker"
-- Rulebook p30 - add the following to the end of Active Bonuses - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting."
-- Rulebook p33 - Recover is not a targeted effect.
-- Rulebook Appendix F (pg 79) <span class="hidden">"Wealth" now costs 2 points, not 1.</span>
-- Boss Stat Card for Render - All instances of "totem" should be "carving". 
-- Puzzle Book p4 The 6th character on the bottom row is missing a dot. 
-- Puzzle Book p26 There is an extraneous dot on the letter to the lowest left. It's not a clue.
-- Item 049 - This item is missing a Spent symbol. 
-- Item 225 - This item is a 1-hand slot item, not a chest item.
-- Building 74 Level 3 <span class="hidden">This should have a requirement to build of already having 3 coins.</span>
-- The following scenarios are exceeding counts for some overlay tiles: Scenario 17 (needs 5 pressure plates), Scenario 45 (only 2 barrels in game), 52 (6 Snow Rocks, only 5 in the box), 83 (too many dungeon corridors), 109 (6 single debris tiles, only 5 in the box), and 120 (only 2 barrels in game). Thanks to waitepb for collecting these and sending them to me.
-
-**Bonus** - If you think you are missing **two boss standees, FF and SD**, you are probably not. It will become clear when you need them.
-
-![divider-narrow](/assets/images/divider2.png)
-
-### <a name="page_11" class="page-number">1.1</a> Second Printing Non-Errata Changes
-
-In addition to the errata fixes noted above, there are a few 2nd Printing changes which aren't the result of errata.
-
-- Blinkblade 3 Make It Count (bot) - the green box with Move 1 now has Move 2.
-- Shackles Level 8 <span class="hidden">"Wave of Anguish" card name has been changed to "Wave of Suffering" to resolve the card name duplication with Deathwalker.</span>
-- Building 74 Conclusion <span class="hidden">The solution to the Ancient Coin puzzle changed between printings. All references to the puzzle solution section were changed as well. It is solvable in both printings.</span>
 
 ![divider](/assets/images/divider.png)
 
@@ -156,31 +91,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
 
-**What should I do with the two weird coin cards (loot cards 1418 & 1419) with numbers and checkboxes?** They are related to an unlockable campaign mechanic and should not be used right now. If you wish, you can put them in Envelope 74; just don’t examine the other envelope contents. (Note - 2nd Printing moved these cards to their proper envelope.) 
+**How many of each Event deck do I use?** XXX
 
-**How many of each Event deck do I use?** You start each of the four Event decks with Cards 1-20 available, and shuffle those before beginning the game. See the Welcome to Frosthaven booklet for setup information like this.
-
-**What are all these stickers with rules for?** As a legacy game, you will unlock new rules when certain buildings are constructed. When instructed, these will go in your rulebook. Note the sticker number issues in the errata, above, if you have First Printing.
-
-**What are challenge cards for? Should I be using them?** No. They relate to an unlockable campaign mechanic. It will be clear when you should use them.
-
-**How do I get Town Guard perks? I see them on the Campaign Sheet.** These are related to an unlockable campaign mechanic and should not be used yet.
-
-**What’s a Brummix Sticker? Where are Coral Shard stickers?** (First Printing Only) - There are similarly-named stickers on the sticker sheets. 
-- Brummix = Brummix Tracks
-- Coral Shard = Coral Crown
-
-**What's my starting Morale?** You dont use the Morale track until after Scenario 1. At this point it will be 0, plus the bonus from completing Scenario 1.
-
-**What’s my starting Prosperity?** Your starting Prosperity is 1, with no checkmarks on the Prosperity track.
-
-**What’s Frosthaven’s starting Defense?** Your Defense is 0, modified by your Morale bonus/penalty after Scenario 1 is completed. Walls can eventually increase your Defense. (See Outpost Questions).
-
-**Do I start the game with any Soldiers?** Yes. When you begin the game, you add the Barracks to your building deck and process the Barracks’ one-time mandatory effect of +4 Soldiers.
-
-**I think I am missing two boss standees...** You are probably not. If those bosses are "FF" and "SD", it will become clear when you need them.
-
-**There's a blank spot on the flowchart. Is this an easter egg? Should I open it?** No. Leave it alone.
+**What are all these stickers with rules for?** XXX
 
 ![divider](/assets/images/divider.png)
 
@@ -188,9 +101,9 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### <a name="page_31" class="page-number">3.1</a> Masteries
 
-**Can I complete my Mastery in Scenario 0?** No. Scenario 0 is intentionally easy. This was added to the scenario rules in the second printing. 
+**Can I complete my Mastery in Scenario 0?** No. Scenario 0 is intentionally easy.
 
-**Do I need to complete a Mastery within a single scenario?** Yes, the entire mastery must be completed within one scenario, and the scenario must have been won. It’s fine if you yourself exhausted, so long as the scenario was successfully completed. (Note that Gloomhaven Second Edition has different Mastery rules here.)
+**Do I need to complete a Mastery within a single scenario?** Sometimes; the Mastery itself will let you know if it needs to be completed in a single scenario. By default, most Masteries can be done over multiple scenarios. *This is a change from Frosthaven*
 
 **If I need to do something every round, do I still get my Mastery if I exhaust before the end of the scenario?** Yes. Any mastery which requires you to do something "every round" should be read as "every round in which you perform a turn."
 
@@ -200,174 +113,37 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 ### <a name="page_32" class="page-number">3.2</a> Personal Quests
 
-**My Personal Quest gives me a scenario and says to 'follow it to its conclusion.' What does that mean? Do I retire after the scenario?** You keep going until the game explicitly tells you that your quest is complete in a gold Scenario Rewards box. A general rule is that these take more than one scenario and involve calendar entries and delays between scenarios. The character who owns the PQ must participate in these quest scenarios. It is recommended you complete any scenarios unlocked by your Personal Quest as early as possible, because there are unavoidable calendar-based delays between them.
+**My Personal Quest gives me a scenario and says to 'follow it to its conclusion.' What does that mean? Do I retire after the scenario?** You keep going until the game explicitly tells you that your quest is complete in a Scenario Rewards box.
 
-**If my PQ asks me to collect a number of herbs or resources, do I need to win a scenario for my loot to count towards the goal?** You need to either win or choose to return to Frosthaven after a loss. Only resources you get to keep count towards goal progress. 
-
-**If, during an Outpost Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
+**If, during a City Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
 
 **If I abandon a character in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests and looted random items from the loot deck remain looted. 
-
-**PQ 02 Searching for the Oak** - <span class="hidden">**Scenario 69 has a prerequisite of "Into the Forest." How do I get that?** This campaign banner is usually earned by successfully completing a specific scenario. If you are unsure which one, it's </span><span class="hidden">Scenario 32</span>
-
-**PQ 05 Build, Not Destroy - Does a Workshop Upgrade count as experiencing a building upgrade?** Yes, they are Building Upgrades in every respect including this one.
-
-**PQ 06 Team Building** - There have been several questions on this one. (1) It should be read as "experience" 8 outpost events or sections; you don't need to be the one reading them, just participate in that outpost phase. (2) You only count outpost phases with at least one name, not the number of names. (3) They don't need to be different names.
-
-**PQ 07 Aesther Outpost - Do I retire as soon as I finish Scenario 65?** No. This is the first scenario in a chain of four, total. It is recommended to complete Scenario 65 as soon as possible, because there are calendar-based delays between them.
-**Can I do Scenario 65 before completing Scenario 1?** No. Scenario 1 must be successfully completed first for both narrative and mechanical reasons.
-
-**PQ 10 Explore the Reaches - I need to finish 5 scenarios that require Workshop Upgrades. What counts for that?**  Only scenarios that have those upgrades specifically listed in their scenario page count for this quest.
-
-**PQ 11** <span class="hidden">You only count the 'item ingredients' of items you currently own. If those item ingredients themselves had other items as ingredients, those don't count. Item recipes don't have a 'memory' like that.</span>
-
-**PQ 19** <span class="hidden">"Gain the blueprint for the Abyss Axe" is an instruction for the player, not a PQ requirement. You gain this blueprint in your Craftable Supply (not the item itself) upon starting the quest, regardless of the level of your Craftsman. The activated ability of the Axe must be used on the hit that kills the enemy for it to count.</span>
-
-**PQ 21** <span class="hidden">If another player already has the Trainer's Net (Item 247), they will need to sell it, and you will need to buy it from the shop.</span>
-
-**PQ 23** <span class="hidden">When you complete this quest and open Envelope A, </span><span class="hidden">immediately upgrade Building 81 to Level 2 at no cost.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_33" class="page-number">3.3</a> Events and Traits
 **Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. 
 
-**Which Road or Outpost Event deck do I draw from?** Draw from the Season indicated by the *next unmarked box* on the campaign calendar.
+**If our City Event gives us a negative (or positive) condition in our next scenario, would a new character who came in during that City Phase's Downtime be subject to it?** No. If a character was not present for a City Event, they don't suffer its negative or benefit from its positive effects.
 
-**During an Outpost Attack, what happens if there are no more valid targets for the Attack?** The Attack ends.
-
-**After a scenario, I was told to remove all cards with a certain symbol from the deck. Later, it looks like I'm supposed to add similar cards with the same symbol in. Do I add these?** When you remove all cards with a symbol from event decks, you should remove them from **both** the Active and Inactive Decks. They are completely removed from the game. 
-
-**Can I use resources in the Frosthaven Supply to pay for event card costs?** Yes, as long as the cost is "collective" you can use resources on the campaign sheet. This can be done for both Road and Outpost events. 
-
-**If our Outpost Event gives us a negative (or positive) condition in our next scenario, would a new character who came in during that Outpost Phase's Downtime be subject to it?** No. If a character was not present for an Outpost Event, they don't suffer its negative or benefit from its positive effects.
-
-**If we fail a scenario but immediately re-try it, do we suffer the effects of our previous Road or Outpost Events?** No; if you re-try, you disregard previous event outcomes.
+**If we fail a scenario but immediately re-try it, do we suffer the effects of our previous Road or City Events?** No; if you re-try, you disregard previous event outcomes.
 
 **If an event has us losing XP, can we go below a level threshold?** No. You cannot lose XP beyond the minimum for your current level.
 
-**SR-19** <span class="hidden">Just as with all events, you must pay the cost if you are able; the "otherwise" only applies when you cannot fulfill the condition.</span>
-
-**SO-63** <span class="hidden">If you choose to abandon a quest which unlocks scenarios, those scenarios become locked and are considered incomplete. The next character to pursue that PQ (if any) would need to do them again.</span>
-
-**WO-43** <span class="hidden">Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they are not applied.</span>
-
-**WO-52** <span class="hidden">Buildings are only wrecked if your negative modifier draw is actually applied; negative modifiers drawn in an Advantaged attack will not result in a wreck if they aren't applied.</span>
-
-**WO-81** <span class="hidden">X is set, first, by the number of Coral Shards / Coral Crown stickers you have. Once X is determined, Attack the same building up to X times. If it gets damaged, it's wrecked instead and the next building gets targeted for the remaining attacks. Once X attacks are resolved, in total, the event concludes. There's no option here for the building to get merely damaged - it's Wrecked if you fail any of the Attacks. It will be Wrecked for building operations this outpost phase, and can't be rebuilt until the Build/Upgrade phase.</span>
-
 ![divider](/assets/images/divider.png)
 
-## <a name="page_4" class="page-number">4.0</a> Outpost General Questions
+## <a name="page_4" class="page-number">4.0</a> City General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
-
-**Does increasing my Prosperity add more items to the Craftsman?** Kind of - it opens up new levels of the Craftsman and maybe other shops you've unlocked. When you improve those, you add more items to the available pool.
-
-**What happens if I gain Morale as a reward but I'm already at 20 Morale?** Nothing. Morale is capped at 20. 
-
-**How does the Calendar work? What week am I on?** It's not really helpful to think in terms of where you "are." There's basically three rules - 
-1. When adding a section number to the calendar, count from the *last marked box*, whether it's at the end of a scenario, another section, or an event card. (So, for example, if you mark 'in one week' at the end of a scenario, the section will be read on returning to Frosthaven.)
-1. When you X out a box during Passage of Time, read the section numbers from that box. 
-1. Draw from the season corresponding to the *next unmarked box* when drawing event cards. 
-
-**Does this mean I only have 9 summer outpost events during Year 1?** Yes. You actually only get 9 summer road events during Year 1, too. 
-
-**Do I need to return to Frosthaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Frosthaven, and links are only one-way.
-
-**What’s Frosthaven’s starting Defense?** Your Defense is 0, modified by your Morale track bonus (or penalty) after Scenario 1 is completed. It will change as your morale increases or decreases, and as walls are built. 
-
-**What do the symbols for building and upgrading mean?** They are, in order Prosperity Required (which is not a cost), Lumber, Metal, Hide, and Gold.
-
-**What buildings are available to me at the start of the game?** You start with the Barracks, the Alchemist, the Craftsman, and the Workshop, all at Level 1. 
-
-**What can I build at the start of the game?**
-- You have foundations for a Logging Camp, a Mining Camp, and a Hunter’s Lodge, which can be built to Level 1 by paying the cost on the map. 
-- You can build Wall Section J at Prosperity 1, like you’re at now, using the cost on the map.
-- You can Upgrade the Craftsman and Alchemist, using the costs on their building cards.
-- You can build any of the three Travel Tools as a Workshop upgrade, using the cost on its building card.
-
-**Can I build the Walls? There’s no building cards for them.** There are no building cards for the walls, just map stickers. They have a permanent effect when built, which is a +5 to Frosthaven’s Defense. Only one Wall can be built at Prosperity 1; the others are available at higher Prosperity levels, as indicated on the map. They count as a build/upgrade during your Outpost Phase, and do not increase Prosperity when built.
-
-**What happens when I unlock a building envelope?** You immediately place the Level 0 sticker, which represents the foundations being laid. This sticker will show you the costs to build Level 1 of the building, at which point you'd include the Level 1 card for the building in your building deck. You can look at all the envelope contents *(except for the decks of cards in Envelope B and Envelope 81)* immediately.
-
-**What do the Sun and the Moon mean on the building cards?** The Sun effect happens during Building Operations (Step 3 of the Outpost Phase), when you sequentially go through the building card deck in order. Most operations here are optional, but any Wrecked building effects are mandatory.  The Moon effects are ways to interact with the building during Downtime (Step 4 of the Outpost Phase).
-
-**If a character did not participate in a scenario, can they participate in the outpost phase afterwards? Will their traits count for event resolution?** Because the Outpost Phase follows the Scenario Phase, only those who participated in the previous scenario can participate in the Outpost Phase before Downtime. New characters created during Downtime can participate in that week's Downtime and Construction phases.
-
-**If I spend the Morale cost for an extra build/upgrade, can I upgrade the same building twice?** Yes; just make sure you meet all Prosperity requirements and then upgrade it once, and then a second time to trigger any mandatory one-time effects.
-
-**I covered up the build costs for a building on the map. How much did it cost to build?** 
-- Mining Camp - 4 wood, 2 metal, 1 hide, 10 gold 
-- Hunting Lodge - 4 wood, 1 metal, 2 hide, 10 gold
-- Logging Camp - 2 wood, 3 metal, 2 hide, 10 gold
-- Wall J - 1 Prosperity, 4 wood, 10 gold
-- Wall K - 2 Prosperity, 3 wood, 2 metal, 2 hide, 10 gold
-- Wall L - 3 Prosperity, 5 wood, 2 metal, 1 hide, 10 gold
-- Wall M - 4 Prosperity, 4 wood, 3 metal, 3 hide, 10 gold
-- Wall N - 6 Prosperity, 6 wood, 3 metal 2 hide, 10 gold
-
-![divider-narrow](/assets/images/divider2.png)
-
-### <a name="page_41" class="page-number">4.1</a> Specific Building Questions
-
-*For questions about Solo Scenarios and specific Buildings, please see section <a href="#page_72">Section 7.2</a>*
-
-**How do the Workshop Upgrades work?** The three methods of transportation - Climbing Tools, Sled, and Boat - are all considered Building Upgrades. They are constrained by the 1 per Construction Phase build/upgrade limit, and count towards any relevant retirement goals.
-
-**Is there a way to upgrade the Barracks?** The barracks can only be upgraded under specific circumstances. You will know if you can. If you want specifics, <span class="hidden">they are made available through Outpost Events.</span>
-
-**What happens if I gain Soldiers as a reward but I'm already at the Barracks maximum capacity?** Nothing. You don't gain the Soldiers. 
-
-**Resource Buildings - How many times can we use these per outpost phase?** You can collectively use each building once per outpost phase, and purchase up to as many materials as the building allows. This is once per party per outpost phase, not once per character. This means a Level 1 Mining Camp (for example) can provide only 1 metal total per outpost phase. 
-
-**Resource Buildings - Who gets the resource? Who pays for it?** Whenever you ‘collectively’ gain one or more resources, they can be taken by any active player or placed into the Frosthaven supply. The costs can likewise be paid by any active player. The player paying the cost does not need to be the player who receives the resource. 
-
-**Building 44**
-- Level 2 - <span class="hidden">**When does the 10g discount apply? Before or after modifiers for mutli-target, lost card, etc.?**  This cost reduction happens after all other modifiers are applied.</span>
-- Level 3 - <span class="hidden">This building effect reduces the level penalties by 10 each, so each one is 15 gold instead of 25 gold. There's no level penalty for Level 1/X cards, so the building can't reduce its level penalty.</span>
-- Level 4 - <span class="hidden">This building effect reduces the additional enhancement penalties by 25 each, so each penalty is 50 gold instead of 75 gold. There's no additional enhancement penalty for actions getting their first enhancement, so those costs can't be reduced.</span>
-
-**Building 74** <span class="hidden">The Ancient Coins are gained one at a time through the special loot cards and other events. They give you only the amount of gold dictated by the section you read when you find one. The Ancient Coins should be considered party items, don't belong to individual characters, and never return to any Supply. Level 3 should have a building prerequisite of already owning the first three Ancient Coins. It cannot be upgraded to this level until that prerequisite is met.</span>
-
-**Building 81** - See section <a href="#page_43">4.3</a> for all questions related to this building.
-
-**Building 88** - <span class="hidden">You keep any Pets captured even if you lose a scenario.</span>
-
-**Building 88 - Mechanic** <span class="hidden"></b>Lightning Eel Pet - Is this effect mandatory for all players when this pet used?<b> No. While the Eel is still only used once per scenario, by unanimous consent of the party, a player is free to 'opt out' of the damage and therefore skip recovering a card.</span>
-
-**Building 90** - <span class="hidden">See <a href="#page_510">Section 5.10</a> for Challenge-specific questions. **Timing Note** - When you get 3 checks and read a section, you can read it immediately after you complete the scenario. Yes, this makes the narrative timing a bit weird, but it's good to have the town guard perk available for your next Outpost Phase.
-</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_42" class="page-number">4.2</a> Enhancements
-*Note: for questions about the building effects at each level, see its building number, above. This section is for general questions about enhancements. This section will not be spoiler-tagged.*
 
-**Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven.
+**Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven 1st Edition.
 
-**If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven.*
+**If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven 1st Edition.*
 
 **My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
-
-![divider-narrow](/assets/images/divider2.png)
-
-### <a name="page_43" class="page-number">4.3</a> Building 81 Questions
-
-<details>
-<summary><b>Spoilers for Building 81</b></summary>
-
-<p>Do not look through or shuffle the deck that is included in this envelope. If you have a first printing copy of Frosthaven, you will need to reverse the order of this deck. You can quickly check this by looking at the bottom card. If it says "T___ of W______", you need to reverse the order.</p>
-
-<p><b>Building 81, Envelope A</b> <span class="hidden">Upon opening this envelope, you should immediately build Level 2 of Building 81 at no cost.</span></p>
-
-<p><b>Building 81 Completion Rewards, Errata</b> - <span class="hidden">Rulebook Appendix F - "Wealth" costs 2 points, not 1.</span></p>
-
-<h4>Specific Trial Questions</h4>
-<p>Trials are referred to here by their Card Number, which is in the lower left hand corner.</p>
-<p><b>Trial 0355</b> <span class="hidden">The standee number here is for enemies only. It does not include scenario allies or summons. If a boss has no standee number, it can't be attacked unless you also include the lowest-numbered standee in the attack (or it's the only remaining enemy).</span></p>
-<p><b>Trial 0359</b> <span class="hidden">You get the check marks for any battle goal you pass while you have this Trial, potentially multiple goals per scenario.</span></p>
-</details>
-<br>
 
 ![divider](/assets/images/divider.png)
 
@@ -376,12 +152,6 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 ### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
-
-**I have a question about Icy Terrain...** The general rule on Icy Terrain is that its extra involuntary movement inherits the kind of movement that got you onto it in the first place. If you are Pushed onto Icy Terrain, it stays a Push and follows all Push rules; it just adds hexes. If you Move onto Icy Terrain, it remains a Move Ability and follows all those rules.
-
-**Can Icy Terrain slide me into a door, thereby opening it?** If you were Pushed into Icy Terrain, you cannot open a door because it's still forced movement. If you Moved onto Icy Terrain, you *must* open a door that you slide into.
-
-**If Icy Terrain would slide me into an invisible enemy, do I keep moving or do I stop the slide?** An invisible figure is still a figure, and it would stop the icy terrain movement effect.
 
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
@@ -393,29 +163,23 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **Do I need Line of Sight to every hex I push an enemy into?** No. While your Push target needs to be within line of sight to start the Push, it can push the target out of line of sight, and even around doors.
 
-**Can I forced move an enemy into hazardous terrain occupied by their ally, if it's the last hex of that movement, and if the moved enemy would be killed by it?** Yes, just like in Gloomhaven, this is valid as long as only one figure would be left in that hex afterwards.
+**Can I forced move an enemy into hazardous terrain occupied by their ally, if it's the last hex of that movement, and if the moved enemy would be killed by it?** Yes, this is valid as long as only one figure would be left in that hex afterwards.
 
 **Can I Push or Pull allies?** Because Forced Movement is a ‘negative ability’ you can only do so if the specific ability specifies you can.
 
 **Is it possible to Push or Pull 0? Is that still considered forced movement?** No. You must move the target at least 1 hex for it to be considered a forced move, or a Push/Pull ability. If a main-line forced move ability has added effects on it, you must move the target at least 1 hex for those to take effect.
 
-**Does moving back and forth between two hexes count as moving?** Yes. While there is no such thing as a Move 0 in Frosthaven, you can still end up in your origin hex if you have sufficient movement.
+**Does moving back and forth between two hexes count as moving?** Yes. While there is no such thing as a Move 0, you can still end up in your origin hex if you have sufficient movement.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_52" class="page-number">5.2</a> Damage, Shield, Ward, and Brittle
+### <a name="page_52" class="page-number">5.2</a> Damage, Shield, and Ward
 
-**When I lose a card to avoid all damage, do I lose Ward and/or Brittle?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
+**When I lose a card to avoid all damage, do I lose Ward?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
 
-**If I lose a card to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage in Frosthaven means that mandatory items get used before you negate it by losing a card. 
+**If I lose a card to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage means that mandatory items get used before you negate it by losing a card. 
 
-**How does Shield interact with Ward and Brittle?** Shield reduces damage before Ward or Brittle are applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.
-
-**Does Brittle get removed if damage is reduced to zero by shield before the Brittle step on page 25?** No. Brittle will not be removed unless at least 1 damage remains before its step.
-
-**If I have both Ward and Brittle, will they both be removed if the damage is reduced to zero by shield before the Brittle/Ward step on page 25?** No. Both will remain unless at least 1 damage remains before this step.
-
-**Does causing damage to myself or a Brittle ally count as removing a negative condition?** Yes.
+**How does Shield interact with Ward?** Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.
 
 **I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?** No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.
 
@@ -427,13 +191,15 @@ In addition to the errata fixes noted above, there are a few 2nd Printing change
 
 **What is the order of operations if I draw a x2 or Null on a draw with rolling modifiers?** If a Null (x0) is included in the final attack modifier draws, no matter where, the final damage will always be 0. If you draw a x2, it can be inserted at any time during attack modification including at the very end. (For example, if I have an Attack 3, draw a rolling +1, and finally a x2, I can decide if my final damage is 7 (3x2) + 1 or 8 (3+1) x2.)
 
-**Which deck do my summons (like Boneshaper skeletons) draw from?** All summons draw from their summoner's deck.
+**Which deck do my summons draw from?** All summons draw from their summoner's deck.
 
 **If I draw multiple Heal Ally (or Heal Self) modifier draws, do they combine into one heal, or is each one separate?** They all combine into one heal ability, but you can either combine them to heal one target, or split them up to heal two or more. All heals to one target are combined into a single heal, and are not treated as multiple Heal 1’s.
 
 **If I draw an attack modifier for a summon's attack that refers to something that doesn't make sense for it, for example gaining one of my tokens or a reference to one of my summons, how is this resolved?** All class-specific mechanics are controlled by the summoner, even when drawn by a summon. You gain the benefits of these attack modifier cards.
 
-**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Banner Spear's "Add +1 for each ally adjacent to the target" modifier cards) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Crude Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
+**I Controlled an enemy to attack, but they drew a positive condition that would apply to them - like a Heal or Invisible Self. Who benefits from this? Can I decide not to allow it?** Anything like "Invisible Self" will apply to the enemy who drew the modifier card. You can decide whether or not any added effect is applied from their modifier draw, however.
+
+**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Banner Spear's "Add +1 for each ally adjacent to the target" modifier cards) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Iron Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
 
 No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage.
 
@@ -455,15 +221,11 @@ Examples:
 
 ### <a name="page_54" class="page-number">5.4</a> Negative Conditions
 
-(For Brittle, see <a href="#page_52">Section 5.2</a>; Brittle is often more a question for damage resolution.)
-
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
 
-**What happens if I get Bane on my turn while I already have Bane?** While this should be rare, any new condition overwrites the old condition; Bane will now trigger at the end of your next turn. This can happen to monsters, as well.
+**Can I target a figure with a condition they're immune to?** Yes. It still won't put the condition on the figure, but this may be important for some effects. *This is a change from Gloomhaven 1e* 
 
-**Can I target an enemy with a condition they're immune to?** Yes. It still won't put the condition on the enemy, but this may be important for effects like Boneshaper's Bone Dagger. *This is a change from Gloomhaven 1e* 
-
-**Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item like Crude Shield, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to your remaining attack modifier deck. Once the Curse card is in an attack modifier deck, the Curse is no longer considered a negative condition.
+**Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item or Safeguard, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to your remaining attack modifier deck. Once the Curse card is in an attack modifier deck, the Curse is no longer considered a negative condition.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -473,7 +235,7 @@ Examples:
 
 **Can I skip targets in a red hex AoE attack?** Yes; a red hex AoE just determines the hexes where your potential targets are. *Note - this is a change from the Gloomhaven 1e FAQ, and is to make it consistent with all other non-mandatory targeting.*
 
-**Can I skip the heal ability from long resting or the Regenerate condition?** Yes.
+**Can I skip the heal ability from long resting?** Yes.
 
 **If I am making a Red Hex AoE attack, and an enemy spawns in the middle of my attack ability within the red hexes, can I attack them?** No, the enemy needs to have been present at the start of the red hex attack ability. 
 
@@ -483,7 +245,7 @@ Examples:
 
 **Is Loot a "ranged ability"?** No.
 
-**I have an ability that says "all enemies and allies take damage" but it's not in a Mandatory bubble. Can I decide not to affect my allies?** There is a relevant GH2e rulebook change here that should be considered as a Frosthaven ruling. You can't perform just part of a "sentence." Because this ability is not mandatory, it can be skipped entirely - but if you perform it, it affects all allies and all enemies.
+**I have an ability that says "all enemies and allies take damage" but it's not in a Mandatory bubble. Can I decide not to affect my allies?** If an ability is not mandatory, it can be skipped entirely - but if you perform it, it affects all allies and all enemies.
 
 **I have an attack modifier that references the position of an enemy. Does the enemy need to survive for this to function?** If the modifier is part of the attack ability (that is, a modifier draw or a rider on an attack without an ability separator line), it functions even if the enemy is killed by the attack.
 
@@ -506,26 +268,15 @@ Examples:
 
 **I have a Grant ability with an elemental consumption, for example [Boneshaper's Level 1 Dark Tidings](https://github.com/any2cards/frosthaven/blob/master/images/character-ability-cards/frosthaven/BO/fh-dark-tidings.png?raw=true). Who consumes this element? The Boneshaper or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption.
 
-
-**Errata for Active Bonuses and Resting** - "Cards without lost icons in your active area count as being in your discard pile for the purposes of whether you can long rest and what is eligible to lose during a long rest, but don't have to be returned to your hand when resting." For example, if a Boneshaper has two skeleton cards active and zero cards in their discard pile, they can still declare a Long Rest. At the end of this Long Rest, they must Lose one of their active summons.
-
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_56" class="page-number">5.6</a> Loot Deck Questions
+### <a name="page_56" class="page-number">5.6</a> Coin and Loot Questions
 
-**What should I do with the two weird coin cards (loot cards 1418 & 1419) with numbers and checkboxes?** They are related to an unlockable campaign mechanic and should not be used right now. If you wish, you can put them in Envelope 74; just don’t examine the other envelope contents. (Note - 2nd Printing moved these cards to their proper envelope; This is repeated from <a href="#page_2">Section 2.0</a>)
+**What happens if I run out coin tokens?** There are no more coins in the scenario. Coins in Gloomhaven 2e are intentionally component-limited.
 
-**How do I read the loot cards? What do the text and symbols mean?** Resource cards, by default, give you 1 or 2 total resources of their type. Some give 2 for 2 players only. Some give 2 for 2 players or 3 players. At 4 players, they always give 1 unless the card is somehow modified.
+**If a chest reward item has -1's, would I have to add them for the rest of the scenario?** You can choose not to equip it. If you do equip it and don't have a perk to ignore negative item effects, you'll have to add the -1's.
 
-**What happens if I run out of cards in the loot deck?** There is no more loot in the scenario. The loot deck represents a cap on total loot available. This is important because spawned and summoned monsters drop loot tokens in Frosthaven.
-
-**What deck should I be using if I draw a loot card with a Random Item on it?** These have a purple back and a gold cost, and are numbered 168-192. The blue deck contains random blueprints, which have different uses. 
-
-**If a random item or chest reward item has -1's, would I have to add them for the rest of the scenario?** You can choose not to equip it. If you do equip it and don't have a perk to ignore negative item effects, you'll have to add the -1's.
-
-**If I replay a scenario in Campaign Mode but I have already looted the random item, do I keep the random item card in the deck anyway?** No. If the random item has been looted already, just leave this card out of the deck. 
-
-**Do my summons drop loot tokens when they are killed?** No. Only enemy monsters can drop loot tokens. 
+**Do my summons drop coins when they are killed?** No. Only enemy monsters can drop coins. 
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -535,11 +286,11 @@ Examples:
 
 **Can an allied Objective be healed?** Yes.
 
-**Can I move through an allied Objective?** Not without Jump or Fly. (Note - this is covered under Move abilities in the rulebook on page 24, not under Objectives.) 
+**Can I move through an allied Objective?** Not without Jump or Fly.
 
 **If an Objective occupies more than one hex, can I attack it more than once with a red hex AoE pattern that targets more than one of its hexes?** No. No matter how many hexes an Objective occupies, it's still just one figure.
 
-**If an Objective occupies more than one hex, can I target the hex furthest from me? Say, if I'm adjacent to one hex, can I target my ranged attack at a non-adjacent one to avoid disadvantage? Or to avoid melee Retaliate?** Yes and No. Even though the Objective occupies more than one hex, it's still just one figure, so if you are adjacent to it you'll still have Disadvantage and/or suffer Retaliate. But, with that said, all hexes of the Objective are targetable, for red hex patterns or (e.g.) Geminate's precise ranges. 
+**If an Objective occupies more than one hex, can I target the hex furthest from me? Say, if I'm adjacent to one hex, can I target my ranged attack at a non-adjacent one to avoid disadvantage? Or to avoid melee Retaliate?** Yes and No. Even though the Objective occupies more than one hex, it's still just one figure, so if you are adjacent to it you'll still have Disadvantage and/or suffer Retaliate. But, with that said, all hexes of the Objective are targetable, for red hex patterns or other purposes. 
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -551,25 +302,21 @@ Examples:
 
 **If an enemy must move through a choice of traps, will it consider the strength of those traps when determining which one to move through?**  No, monsters will take into account the *number* of negative hexes, but not the *strength or effects* of them. When it's otherwise ambiguous, you can resolve ambiguity in your favor. Note that they will always prefer a path with zero negative hexes, regardless of length, just like normal.
 
-**Will enemies also avoid difficult terrain or icy terrain?** Not necessarily. Difficult and icy terrain are not considered "negative hexes."
-
-**Are monsters aware of the effects of difficult and icy terrain? Can icy terrain be used to "trick" monsters?** Monsters are aware of the effects of both icy and difficult terrain, and take their effects into account when making their focus determinations and selecting their movement paths. They will not slide into a negative hex "accidentally." It's possible that icy terrain could make a path to a seemingly-distant enemy shorter than a closer one; the monster will, as always, focus first on the enemy they can attack with the least movement spent.
+**Will enemies also avoid difficult terrain?** Not necessarily. Difficult terrain is not considered a negative hex, but its effect is considered for monster focus decisions.
 
 **If a monster is trying to make a multi-target attack this turn, but does not have enough movement to attack any targets, will it move towards its primary focus or towards a position to potentially maximize the attack?** It will move towards its primary focus.
 
-**How does a monster with a multi-target attack choose its destination hex and its additional targets? Do you use focus rules to determine targets other than the primary focus?** As long as a monster is (a) still attacking their primary focus, (b) avoiding additional negative hexes, (c) attacking as many additional targets as possible, (d) minimizing the amount of disadvantage, and (e) minimizing move distance (in that order), players can choose the final destination hex and secondary, tertiary, etc. targets. Unlike Gloomhaven, monsters do not use a focus process for finding additional targets, and players have a lot of latitude in choosing their additional targets. *This is a change from Gloomhaven*
+**How does a monster with a multi-target attack choose its destination hex and its additional targets? Do you use focus rules to determine targets other than the primary focus?** As long as a monster is (a) still attacking their primary focus, (b) avoiding additional negative hexes, (c) attacking as many additional targets as possible, (d) minimizing the amount of disadvantage, and (e) minimizing move distance (in that order), players can choose the final destination hex and secondary, tertiary, etc. targets. Unlike Gloomhaven, monsters do not use a focus process for finding additional targets, and players have a lot of latitude in choosing their additional targets. *This is a change from Gloomhaven 1st Edition*
 
 **When a monster is attacking more than one target, what order are those attacks made in?** The actual order of attacks is ambiguous. Players can determine the attack order once all targets are determined. The primary focus does not need to be attacked first. If a target has a Retaliate value, it's possible to kill a monster before all its attacks are made. This applies to both Target X and red hex AoE attack abilities.
 
 **How does a monster move if it has a move but no attacks on its action card this turn?** It finds focus and moves as if it were making a melee attack, even if this takes it out of range for its non-attack abilities. 
 
-**How do monster Pushes and Pulls work? Can I choose a path which prevents them from pushing or pulling me less than the maximum amount?** A path must be chosen that pushes or pulls you the maximum amount possible, considering the whole path. You cannot, for example, choose a hex that would stop a push by a wall or obstacle if there’s another valid path which avoids it. If there is nearby Icy Terrain, monsters will consider its effect while trying to maximize their forced movement abilities. *This is a change from Gloomhaven.* 
+**How do monster Pushes and Pulls work? Can I choose a path which prevents them from pushing or pulling me less than the maximum amount?** A path must be chosen that pushes or pulls you the maximum amount possible, considering the whole path. You cannot, for example, choose a hex that would stop a push by a wall or obstacle if there’s another valid path which avoids it. If there is nearby Icy Terrain, monsters will consider its effect while trying to maximize their forced movement abilities. *This is a change from Gloomhaven 1st Edition.* 
 
-**If a monster is attacking me and the attack will Impair me, can I use my shield or armor against this attack?** Yes, as long as you’re not already Impaired. You will gain the condition when the attack concludes, just like any other negative condition.
-
-**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. Note that some abilities - like "suffer damage" - are not targeted, and will be performed even if no enemies are in range.
+**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven 1st Edition, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. Note that some abilities - like "suffer damage" - are not targeted, and will be performed even if no enemies are in range.
 - Example 1 - Earth Demons' Nothing Special says "Move +0 Attack +0, Infuse Earth." If they can neither move nor attack this round, Earth will not be infused.
-- Example 2 - The Earth Demons' Ground Slam says, "Move -1, Attack -1 target all adjacent; consume earth to add Push 1". Even if no Earth Demons can attack, they will still consume the Earth as long as at least 1 of them moves, because they are still performing an ability on the card. This is a change from Gloomhaven.
+- Example 2 - The Earth Demons' Ground Slam says, "Move -1, Attack -1 target all adjacent; consume earth to add Push 1". Even if no Earth Demons can attack, they will still consume the Earth as long as at least 1 of them moves, because they are still performing an ability on the card.
 
 **Does this apply to "standalone" abilities tied to elemental consumption? For example, if a Night Demon can consume dark to perform Invisible Self, does it need to also move or attack?** If an elemental consumption would enable a standalone ability, the monster set will consume it to perform the ability even if it is performing no other abilities on its card. In this specific case, all Night Demons would consume dark to turn Invisible even if none also move or attack. 
 
@@ -583,76 +330,10 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_510" class="page-number">5.10</a> Challenges
-
-*Note that each Challenge card has a name. For lack of a clear better option, I am using these names to identify which one a FAQ entry refers to. There are, I suppose, minor spoilers in this section as a necessity.*
-
-**What are Challenges? Should I be using them?** While you shuffle the Challenge deck during game setup, they are not supposed to be used until the mechanic for them is unlocked. You will know when you're able to start including them in your game, and what they do. While their existence is not a spoiler, their purpose and contents are.
-
-**General note on single vs. multi-target attacks** - <span class="hidden">**If a Challenge refers to single-target attacks, but a monster consumes an element to make them AoE or multi-target, what happens?** The timing of monsters' elemental consumption (specifically, before the first monster's turn) means their attack abilities all become multi-target or AoE before any of them can take their turn. They are no longer valid for modification by the Challenge.</span>
-
-**Barbed** - <span class="hidden">The "undamaged" condition is evaluated at the start of the attack.</span>
-
-**Keep Watch** - <span class="hidden">This is intended to affect both players and summons. Objectives do not take turns, and therefore all your attacks against them would be at Disadvantage.</span>
-
-![divider](/assets/images/divider.png)
-
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
-**What are the little symbols on some monster stat cards for?** These are for locked campaign mechanics. You will know what they mean when it’s time.
 
-### Algox Priests 
-**How do Algox Priests move if they draw a card which has them just moving and healing?** Any time a monster has a non-attacking turn, they focus and move like they are making a melee attack. You don't consider the Heal ability for their movement; it's possible moving towards an enemy may even take them out of range for their healing ability. If there are monsters in range after this move (including the priest itself), it will heal the monster in range with the most damage tokens on it. If there is a tie, players can choose which enemy is healed. Conditions aren't considered when picking a Heal target.
+### Monster Names 
 
-### Burrowing Blades 
-**Is the movement path for Tunneling Slices chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
-
-**Will the Blades attack with Tunneling Slices if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move means no attack. 
-
-**How is focus determined for Tunneling Slices?** Basically - it is completely analogous to normal focus rules, except the Burrowing Blades is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a (preferably) safe and legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible, and potentially choosing another focus if all available hexes around the furthest enemy are negative. 
-
-### Chaos Demon
-**What is the Retaliate value on Chilling Breath?** It is Retaliate 2, Range 2. This was a production error (see Section 2 of the FAQ).
-
-### Flaming Bladespinner
-**Is the movement path for Spinning Charge chosen to maximize targets?** In this case and all similar ones, the attack is a rider on the move, and a move ability doesn't have multi-target. A player can resolve ambiguity among multiple equal paths to minimize targets.
-
-**Will the Bladespinner attack with Spinning Charge if they are already adjacent to the furthest enemy?** No. The attack is a rider on the move. No move means no attack. 
-
-**How is focus determined for Spinning Charge?** Basically - it is completely analogous to normal focus rules, except the Bladespinner is focusing on the farthest enemy instead of the closest ("farthest" being defined first by longest jump movement distance to reach a (preferably) safe and legal attack hex assuming infinite movement, and then tiebroken by longest range). The enemy must still be a valid target - not invisible, and with at least one open hex from which the Blades could attack. It will still tiebreak by initiative just like normal, and will still move like any other monster once focus is determined. All other normal focus considerations still apply, like avoiding negative destination hexes when possible, and potentially choosing another focus if all available hexes around the furthest enemy are negative.
-
-### Frozen Corpse
-**How does the elemental consumption on Thawed Strike work?** This card was written before the FH elemental consumption rules were finalized. If any Corpse performs any ability, they will consume Fire. Any Corpse performing a Move ability (keeping in mind this has to be 1 or more hexes) during their turn will take 2 damage. 
-
-### Ice Wraith
-**If an Ice Wraith is Stunned during a turn when it would switch forms, does it switch forms?** No, a stunned ice wraith will not switch forms.
-
-**What's the timing for changing forms? Do Ice Wraiths all change at once, or one at a time?** One at a time. Each will activate and change on their own turn.
-
-**How do summons focus on a round where Ice Wraiths have changed forms?**  Summons will focus on Ice Wraiths based on the current state of the board, and prioritize the new Elites over the former Elites.
-
-**How does a Named Ice Wraith work? Are they elite? Normal? Change form?** Isaac: "The intention was that named Ice Wraiths would switch forms (this is the main reason normals and elites always have the same hit point value). That is on pretty shaky ground with the rules, though, because they're explicitly called out as not elite, and because the red bases are used, it is even difficult to track. Gonna be messy either way, but I would say to go with the intent, have them switch, and recommend using normal white/yellow bases (or white/red bases) in those cases."
-
-### Lightning Eel
-**What happens if I destroy or relocate a water tile an eel is currently occupying?** The eel treats non-water hexes as obstacles, so will immediately relocate to the closest water hex. (Note that, unlike Gloomhaven, there is no damage caused by this movement in Frosthaven.) In the event there's no unoccupied water tiles, they just remain in the hex they're in until able to legally move elsewhere. 
-
-**Can Lightning Eels be force moved out of water?** No. Non-water hexes are obstacles to Lightning Eels. 
-
-### Living Doom
-**Is it possible for Call for Souls to summon zero Living Spirits?** Yes. 
-
-### Lurker Soldier
-**How does Berserk Rage work?** The Soldier can target its normal amount of enemies (note the lack of 'all' here), but can target enemies within 2 hexes for this attack. These remain melee attacks. 
-
-### Lurker Mindsnipper
-**How does Turn the Weak work?** First, the Mindsnipper finds focus, moves, and attacks as any multi-target enemy will. Then, it makes the listed attacks against its targets. Note, if it has innate Muddle, it will muddle the targets at this point. After those attacks resolve, any enemy that was targeted will be forced to attack an adjacent ally using standard focus priority rules. The enemy will draw from its own modifier deck for this attack. Because this is specifically an Attack 3, this will always be a melee attack, even if this targets one of your Summons with an inherent range. If this targets a Summon or scenario ally with special attack characteristics (like adding Wound to all attacks), those will apply, here.
-
-### Lurker Wavethrower
-**If we run out of water tiles, can the Wavethrower make more?** Yes. Overlay tiles are not supposed to be component-limited. Use a proxy tile.
-
-**What kind of terrain do the Wavethrower's water tiles count as?** They count as whatever Water is defined as in the scenario key - or, in absence of that, as Difficult Terrain.
-
-### Wind Demon
-**Should Level 0 Elites have more movement than Level 1 Elites?** Level 0 Elites should have Move 3. This is errata.
 
 ![divider](/assets/images/divider.png)
 
@@ -662,8 +343,8 @@ Examples:
 
 **I don’t understand the difference between Campaign and Casual mode. What does all this mean?** 
 Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for re-playing already played scenarios, but with zero game impacts.
-- Casual Mode: You get no resources, XP, quest progression, etc. You don’t draw any events, and there's no Outpost Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
-- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn resources, XP, any unlooted treasure chests, and random items from the loot deck if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have an Outpost Phase, where time will pass.
+- Casual Mode: You get no resources, XP, quest progression, etc. You don’t draw any events, and there's no City Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
+- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn resources, XP, any unlooted treasure chests, and random items from the loot deck if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have a City Phase, where time will pass.
 
 **Can I replay a scenario to loot an unlooted treasure chest? Isn’t that Casual Mode?** In Frosthaven, if you want to loot an unlooted chest, you would have to replay the scenario in Campaign Mode. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the loot, chests, xp, etc.)
 
@@ -830,7 +511,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Do I need to kill enemies that have not yet spawned in order to beat this solo scenario?** Many solo scenarios have a win condition of "when all enemies in it are dead" along with set spawns for specific rounds. (See: Banner Spear, Geminate, Deathwalker, etc.)  Spawns that haven't appeared yet are still considered part of the scenario, and must be defeated.
 
-**Can I level up, craft, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/Outpost flow, and those activities are limited to Downtime.
+**Can I level up, craft, purchase items, or purchase enhancements after my solo scenario is complete?** These activities need to wait until the next campaign Downtime phase, whenever that happens over the normal course of play. Solo scenarios take place outside of the normal Scenario/City flow, and those activities are limited to Downtime.
 
 **Building 42 Mechanic and Solo Scenarios** <span class="hidden"><b>Can I buy Blessings before a solo scenario?</b> No.</span>
 
@@ -1380,7 +1061,7 @@ Items are listed by their item number.
 
 **Item 034** - <span class="hidden">**Shrapnel Bomb** - Use of this item is declared "after your ranged attack" and can therefore be declared after the modifier is drawn. Its effect happens after all steps of the attack, including forced movement, but before the next attack if you have multiple targets in your attack ability. You can still use this if your target dies; it should then be read as "adjacent to the hex the target occupied."</span>
 
-**Item 044** - <span class="hidden">**Sword of Absolution - Can I use this for conditions I gained from an Outpost or Road Event? What about a Scenario Effect?** You select your gear for a scenario before applying the consequences of events and scenario effects. Yes, it can be used in response to any (one) of the above and begins the scenario Spent.</span>
+**Item 044** - <span class="hidden">**Sword of Absolution - Can I use this for conditions I gained from a City or Road Event? What about a Scenario Effect?** You select your gear for a scenario before applying the consequences of events and scenario effects. Yes, it can be used in response to any (one) of the above and begins the scenario Spent.</span>
 
 **Item 046** - <span class="hidden">**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
 
