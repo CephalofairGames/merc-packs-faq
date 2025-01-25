@@ -21,7 +21,7 @@
    1. <a href="#page_51">Rooms, Movement, Forced Movement, and Overlays</a>
    1. <a href="#page_52">Damage, Shield, Ward, and Brittle</a>
    1. <a href="#page_53">Attack Modifier Draws, Advantage, and Disadvantage</a>
-   1. <a href="#page_54">Negative Conditions</a>
+   1. <a href="#page_54">Conditions</a>
    1. <a href="#page_55">General Player Ability Questions and Clarifications</a>
    1. <a href="#page_56">Loot Deck Questions</a>
    1. <a href="#page_57">Objectives</a>
@@ -70,17 +70,17 @@ I follow official spoiler rules in this FAQ. I will spoiler-tag all locked conte
 
 ### 0.2 About Me
 
-I am Bill (or dwarf74 in most places). I also maintain the Frosthaven FAQ, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Gloomhaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to bring me on to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, themris, and Nikki Valens for their help.
+I am Bill (or dwarf74 in most places). I also maintain the Frosthaven FAQ, and am currently a moderator of Reddit’s /r/Gloomhaven. I am altogether too active in Gloomhaven fan communities, and I am kind of obsessive about writing guides and making lists for games I love, so Cephalofair decided to contract me to maintain this FAQ. I'd like to give special thanks to general_cgo, gripeaway, themris, and Nikki Valens for their help.
 
 ![divider](/assets/images/divider2.png)
 
 ### 0.3 How to Ask Questions, and Helpful Links
 
-Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there. Frosthaven has an active, knowledgable, and passionate group of fans who will be happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
+Most of these questions were asked by the community. If you have a question that you can't find the answer to, I recommend starting there! Gloomhaven has an active, knowledgable, and passionate group of fans who will be happy to help you out. While none of these communities are directly affiliated with Cephalofair, I am active on all three and will be notified when something needs added. Any of the three can work; use whichever is most appealing to you.
 
-- [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for Gloomhaven, Frosthaven, and Jaws of the Lion. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
-- [BoardGameGeek Frosthaven Forums](https://boardgamegeek.com/boardgame/295770/frosthaven/forums/0) - Another active forum, and the previous home of this FAQ. Spoiler tags are appreciated, but are completely unmoderated.
-- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Frosthaven Outpost is very active, and a great place to get quick responses to questions for all Haven games. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for both editions of Gloomhaven, Frosthaven, Jaws of the Lion, and the Gloomhaven RPG. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
+- [BoardGameGeek Gloomhaven Second Edition Forums](https://boardgamegeek.com/boardgame/390478/gloomhaven-second-edition/forums/0) - Another active forum. Spoiler tags are appreciated, but are completely unmoderated.
+- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - Despite its name, the Frosthaven Outpost is for all Cephalofair games. The Outpost is very active, and a great place to get quick responses to questions for all Haven games. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
 
 ![divider](/assets/images/divider.png)
 
@@ -92,13 +92,15 @@ Most of these questions were asked by the community. If you have a question that
 
 ## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
 
-**General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
+**General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
 **I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized in Frosthaven. Gloomhaven 2e uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven Second Edition, and these tiles aren't needed for any scenaarios.
 
 **How many of each Event deck do I use?** XXX
 
-**What are all these stickers with rules for?** XXX
+**What are all these stickers with rules for?** Rules stickers are added to the ruleb
+
+**How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled in a deck. The remainder will become available, later. 
 
 ![divider](/assets/images/divider.png)
 
@@ -224,7 +226,11 @@ Examples:
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_54" class="page-number">5.4</a> Negative Conditions
+### <a name="page_54" class="page-number">5.4</a> Conditions
+
+**Note - Questions about Ward are answered in Section 5.2**
+
+**I have Safeguard, but will receive two curses from an incoming attack. How many does Safeguard block?** Just one. Everything is sequential in Gloomhaven, and the curses are timed one after the other.
 
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
 
@@ -472,6 +478,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I use a Tear that's occupied by an enemy?</b> Yes, but you cannot end your movement in an occupied hex. Remember - you don't lose Invisible until the end of your Move ability.</p>
 
+<p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
+
 </details>
 <br>
 
@@ -538,6 +546,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <summary><b>Saw Spoilers</b></summary>
 
 <p><b>What happens to an active Prescription if Saw exhausts?</b> Even though Prescriptions are in your allies' active areas, the card is still owned by you. If you exhaust, they will be lost.</p>
+
+<p><b>When do I evaluate if a monster is damaged for my abilities?</b> Whether a monster is damaged or not is always evaluated before you begin performing your attack ability.</p>
 
 </details>
 <br>
