@@ -397,7 +397,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Tinkerer Icon](/assets/images/02_tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
 
-**I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the weird and broken shenanigans you can get up to with Chimeric Formula, especially if you are bringing in characters from other games, like Frosthaven. Your group is empowered to interpret ambiguity for your own table.
+**I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the potential interactions with this card, and will not even try. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on easier cards.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -468,7 +468,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Eclipse Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>Can I place a Tear under my figure?</b> Yes, if it's allowed by the ability. You will not, however, lose Invisible, unless you exit that hex and re-enter it - you need to enter a hex with a Tear to do so.</p>
+
+<p><b>Can I use a Tear that's occupied by an enemy?</b> Yes, but you cannot end your movement in an occupied hex. Remember - you don't lose Invisible until the end of your Move ability.</p>
 
 </details>
 <br>
@@ -482,7 +484,12 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Do I still get the bonuses from poisoning one of my allies if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
-<p><b>I have questions about the two check perk, Xorn's Propogation...</b> (1) Yes, you can control the monster even if it has already acted in the round. This happens out of turn. (2) If the ability has bonuses for elemental consumption, it can consume elements to improve it, and won't benefit from any previous elemental consumptions. (2a) It will repeat any elemental infusions, as well. (3) The monster would still have any conditions it had; this happens before it actually dies. (4) If the monster enters any traps or hazards while being controlled, it will remove any traps, and suffer any conditions from them, but can't take further damage. (5) If the monster dies during its own turn, it will still have its full ability card to use, and will need its own, individual interactions with elements. It would need to consume its own element to gain any benefits, and would infuse its own when it's finished.</p>
+<p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
+<p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
+<p>(2) Its elemental interactions are completely separate from the other monsters of its kind. If the ability card has bonuses for elemental consumption, it can consume elements to improve it - and won't benefit from any previous elemental consumptions. It will repeat any elemental infusions, as well. If the element is wild, it can be different from the rest of the monster set.</p>
+<p>(3) The monster would still have any conditions it had; this happens before it actually dies, when it would lose those.</p>
+<p>(4) If the monster enters any traps or hazards while being controlled, it will remove any traps, and suffer any conditions from them, but can't take further damage.</p>
+<p>(5) If the monster dies during its own turn, it will still have its full ability card to use - and will start fresh on elemental interactions. It would need to consume its own element to gain any benefits, and would infuse its own when it's finished - even if it's acting in the middle of the rest of its monster set.</p>
 
 </details>
 <br>
@@ -530,7 +537,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Saw Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>What happens to an active Prescription if Saw exhausts?</b> Even though Prescriptions are in your allies' active areas, the card is still owned by you. If you exhaust, they will be lost.</p>
 
 </details>
 <br>
@@ -554,7 +561,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Two Minis Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>Who does 'you' refer to on a Command action?</b> Everything on a Command action is written from the Bear's perspective. 'You' refers to the Bear.</p>
+
+<p><b>Concentrated Rage (1, bot)</b> If the Bear attacks an enemy with Retaliate, do I add one token or two?</p> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.
 
 </details>
 <br>
@@ -566,7 +575,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Two Minis Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>How many hand slot items can I bring into a scenario if I take the Armed and Dangerous perk?</b> It's "additional" - you can bring four more hands' worth of items in addition to your normal two.</p>
 
 </details>
 <br>
