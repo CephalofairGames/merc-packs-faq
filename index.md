@@ -389,7 +389,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Bruiser Icon](/assets/images/01_bruiser.png) <a name="page_801" class="page-number">8.1</a> Bruiser
 
+**Defensive Tactics (5, top) - Does this replace my original Shield or Retaliate ability?** No, Defensive Tactics adds to the first Shield or Retaliate you gain each round. If you use Shield Bash (1, bot) while Defensive Tactics is active, you will gain a total of Shield 2, Retaliate 1.
 
+**Defensive Tactics (5, top) - Does this also apply when I gain Retaliate from a modifier card, or from a persistent effect like Warding Strength (1, bot)?** Yes, it adds to the first Shield or Retaliate you gain each round from your ability or attack modifier cards. A persistent effect is still on one of your cards.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -401,13 +403,13 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Spellweaver Icon](/assets/images/03_spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
 
-
+**How does my first Mastery (consume Fire and Ice 6 times) work?** Over the course of a single scenario, in at least six different turns, you must consume both Fire and Ice.
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Silent Knife Icon](/assets/images/04_silent_knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
 
-
+**Hired Help (9, top) - If I duplicate a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them).
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -419,6 +421,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Mindthief Icon](/assets/images/06_mindthief.png) <a name="page_806" class="page-number">8.6</a> Mindthief
 
+**If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
+
+**Does my 'Lying Low' (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -475,7 +480,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>Do I still get the bonuses from poisoning one of my allies if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
+
+<p><b>I have questions about the two check perk, Xorn's Propogation...</b> (1) Yes, you can control the monster even if it has already acted in the round. This happens out of turn. (2) If the ability has bonuses for elemental consumption, it can consume elements to improve it, and won't benefit from any previous elemental consumptions. (2a) It will repeat any elemental infusions, as well. (3) The monster would still have any conditions it had; this happens before it actually dies. (4) If the monster enters any traps or hazards while being controlled, it will remove any traps, and suffer any conditions from them, but can't take further damage.</p>
 
 </details>
 <br>
@@ -569,19 +576,15 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
-**Can potions be sold, or only distilled?** Potions can be sold for 4 or 6 gold, depending on how many herbs were used to brew them.
+**What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** When a character gains an item they cannot gain (for any reason), they must sell it immediately/
 
-**What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** The rule about duplicate item sales has been expanded to cover this situation. Instead of "When a character gains another copy of an item they already own, they must sell it immediately" it's expanded to, "When a character gains an item they cannot gain (for any reason), they must sell it immediately."
-
-**I have an item that allows me to gain a Resource during a scenario. Do I get to keep this even if we lose the scenario?** Only if you return to Frosthaven. If you retry the scenario, they are lost like other Resources.
-
-**I have an item (such as a Crude Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
+**I have an item (such as an Iron Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
 **Will my Spent item with use slots recover its uses if I Long Rest before all of the charges are expended?** Yes, Spent items recover all their use slots whenever they are recovered, whether as part of a long rest or an item recovery ability. A Lost item will not recover its charges on a long rest; it would only recover its charges when you use an ability that can recover Lost items. *This is a change from Gloomhaven 1e.*
 
 **Can I use an item in the middle of my move or attack ability?** Only if it is not itself an ability, and it says something like "during your move ability." If an item allows you to perform another ability (like healing, damaging, destroying an obstacle, etc.), you need to finish your ability first. See below for a more detailed answer. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
-**When is item usage an ability?** The following are Abilities as defined in the Frosthaven rulebook - Move, Teleport, Attack, Conditions (positive or negative), Heal, Forced Movement, Loot, Suffer Damage (self, allies, or enemies), Recover (cards or items), Commanding Figures, Manipulating Tiles, and Active Bonuses. Active Bonuses take some interpretation for items because there's not always a Round or Persistent icon, but this was largely for graphic design reasons - making it less clear, which is why this is complicated. If an Item gives a turn-long, round-long, or persistent bonus such as "add Jump to all your move abilities", it is itself an ability. If it says something more along the lines of "during your attack" or "during your move" or "on the next attacks targeting you" it's not an active bonus with any kind of duration, and therefore not an ability. This distinction is important because you generally can't interrupt your ability with another ability.
+**When is item usage an ability?** The following are Abilities as defined in the Gloomhaven rulebook - Move, Teleport, Attack, Conditions (positive or negative), Heal, Forced Movement, Loot, Suffer Damage (self, allies, or enemies), Recover (cards or items), Commanding Figures, Manipulating Tiles, and Active Bonuses. Active Bonuses take some interpretation for items because there's not always a Round or Persistent icon, but this was largely for graphic design reasons - making it less clear, which is why this is complicated. If an Item gives a turn-long, round-long, or persistent bonus such as "add Jump to all your move abilities", it is itself an ability. If it says something more along the lines of "during your attack" or "during your move" or "on the next attacks targeting you" it's not an active bonus with any kind of duration, and therefore not an ability. This distinction is important because you generally can't interrupt your ability with another ability.
 
 Basically, if an item only makes sense if used within another ability or in reaction to one, that's how it's supposed to work and it's not an ability. If it makes sense used independently, it probably is an ability.
 
@@ -593,98 +596,7 @@ Basically, if an item only makes sense if used within another ability or in reac
 
 Items are listed by their item number.
 
-**Item 004 Crude Hide Armor - Will this armor influence monster behavior? For example, if an adjacent monster makes a ranged attack against me, will it stay adjacent instead of moving away?** No. The Armor gives the attack disadvantage after the attack is initiated, so it is not considered for monster behavior at all. The same logic holds when it is selecting targets on a multi-target attack.
 
-**Item 005 Crude Boots - Can I use these to improve a Move ability I grant to my summon or another ally?** No. Granted abilities are performed by the ally you grant them to. This holds for all similar items.
-
-**Item 006 Flexible Slippers - Can I use these to "loot" an adjacent hex without loot tokens or treasure instead of my own hex that does?** Yes; Loot isn't a targeted ability, and end-of-turn looting isn't an ability at all.
-**If I still have Flexible Slippers available when I take a Long Rest, can I use them and immediately recover them to have them available after my rest?** No. End-of-turn looting happens after refreshing items.
-
-**If I am Impaired or Stunned, will the condition expire before end-of-turn looting?** As long as you were impaired or stunned before your turn, it expires at ambiguous timing with end-of-turn looting. So, you can choose for the condition to expire first. 
-
-**Item 013** - <span class="hidden"><b>Dancing Slippers - How does this interact with Retaliate and conditions from the attack?</b> This move happens before Retaliate, but after any added conditions or forced movement from the attack. So, for example, if an attack would Immobilize you, you would not be able to use these in response.</span>
-
-**Item 026** - <span class="hidden">**Truesight Lenses  - Do I need to use these before drawing a modifier?** Yes. These must be used before drawing a card.
-**What happens if I draw a negative modifier with added effects, like "-1 Add Time Token?"** The extra effects are kept but the attack modifier value changes from -1 to +0. In this example, it changes to a +0 Add Time Token.</span>
-
-**Item 033** - <span class="hidden">**Volatile Boots** - This item can be used in moves granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically the other side could be used like this too.</span>
-
-**Item 034** - <span class="hidden">**Shrapnel Bomb** - Use of this item is declared "after your ranged attack" and can therefore be declared after the modifier is drawn. Its effect happens after all steps of the attack, including forced movement, but before the next attack if you have multiple targets in your attack ability. You can still use this if your target dies; it should then be read as "adjacent to the hex the target occupied."</span>
-
-**Item 044** - <span class="hidden">**Sword of Absolution - Can I use this for conditions I gained from a City or Road Event? What about a Scenario Effect?** You select your gear for a scenario before applying the consequences of events and scenario effects. Yes, it can be used in response to any (one) of the above and begins the scenario Spent.</span>
-
-**Item 046** - <span class="hidden">**Double-Lens Goggles - How do these work if I have, for example, a -1 Add Time Token modifier drawn?** The numeric value of the modifier card changes but all the extra effects are retained. In this example, it changes to a +1 Add Time Token.</span>
-
-**Item 047** - <span class="hidden">**Robes of Doom - What is the timing on this effect? Does this happen before or after my Retaliate?** It is ambiguous. You decide the order whenever it would happen. **Is this item mandatory to use? Can I choose not to use this effect?** This item's effect, like all items with use slots, is mandatory. It will damage you and brittle the attacker the first on the next two sources of damage from attacks.</span> 
-
-**Item 049, 1st Printing Errata** - <span class="hidden">**Cruel Dagger** This item is missing a Spent symbol.</span> 
-
-**Item 076** - <span class="hidden">**Horn of Command - Can I change the order of my summon's action so it attacks and then moves?** No. You determine how it uses its abilities, but the ordering stays the same.</span>
-
-**Item 077** - <span class="hidden">**Chaos Cannon** - If you create a Water hex with this item, it is always Difficult Terrain unless the scenario specifies otherwise.</span> 
-
-**Item 078** - <span class="hidden">**Balanced Scales** - This item can be used on attacks granted to you on others' turns. If so, it is still available for use on your turn. Either way, it will be flipped (once) at the end of your turn. Technically, the other side could be used like this too.</span>
-
-**Item 084** - <span class="hidden">**Stamina Potion** - Level X cards are Level 1 cards for all purposes.</span>
-
-**Item 093** - <span class="hidden">**Glancing Potion** - You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.
-This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
-
-<details>
-<summary><b>Item 098 Spoilers</b></summary>
-
-<p><b>Unhealthy Mixture - If I have the Level 2 Alchemist, can I distill the Unhealthy Mixture? What happens?</b> For the Unhealthy Mixture, you can distill it into any herb of a type whose window for this potion has been revealed.  If you’ve only combined two Rockroots and two Snowthistles, you can only distill it into one of those two ingredients. While the game does not 'remember' which specific ingredients your original potion was made from, the alchemy board does.</p>
-<p><b>This item has no cost in the card. Can I just take it whenever I want for free?</b> No. Potion costs are set by the alchemy board, not the item card.</p>
-<p><b>I don't get it, this item is terrible.</b> This can be used for crafting certain items, and has a few other uses. It can also be distilled to 'transform' herbs as described above.</p>
-
-</details>
-<br>
-**Item 109** - <span class="hidden">**Major Renewing Potion - Can I use the same potion twice in one turn with this?**  Sometimes. If a potion does not have a round bonus icon (like a healing potion), you can refresh it and use it again during your turn.  If a potion has a round bonus (like Item 088), it cannot be; round bonuses can't be dismissed, and even if you could, dismissing it would end the first potion's effect.</span>
-
-**Item 110** - <span class="hidden">**Precision Potion** - You use this potion after a Null modifier is drawn. You do not need to announce it beforehand.  
-This potion <i>can</i> be used if the modifier is flipped for a Summon's attack.</span>
-
-**Item 113** - <span class="hidden">**Expertise Potion** - If the card chosen has one Lost action and one non-loss persistent, the persistent effectively becomes a Persistent Loss. It will go to the lost pile, not discard, when the persistent is removed.</span>
-
-**Item 115** - <span class="hidden">**Infusion Potion - How does this work for effects that require multiple elements to be consumed?** You still need to consume any other elements needed. This only lets you ignore one.</span>
-
-**Item 119** - <span class="hidden">**Deadly Mixture - Can I distill the Deadly Mixture? What happens?** No, it is forbidden per the Level 3 Alchemist rules. It can be sold for 6 gold.</span>
-
-**Item 124 Winged Shoes - Can I use this in the middle of a move if I suddenly need or want to jump?** No; using Winged Shoes is an ability, and therefore can't be performed in the middle of another ability. Please see the general item rules, above.
-
-**Item 180** - <span class="hidden"><b>Boots of Greed - do Loot abilities I grant to my Summons count for this item?</b> Yes. Your summons' loot abilities are considered your loot abilities for all purposes.</span>
-
-**Item 188** - <span class="hidden">**Freezing Crystal** - The Water hex this item can create is considered Difficult Terrain.</span>
-
-**Item 192** - <span class="hidden">**Enticing Bell** - If you attempt to use this item while Invisible, the target monster will be unable to focus on you, which is a required part of its function. The item will, as a result,  do nothing.</span>
-
-**Item 209** - <span class="hidden">**Sword of Mastery** - You can pick +1 twice, if you wish.</span>
-
-**Item 218** - <span class="hidden">**Tome of Life** - The benefits to enemies are considered "negative effects" from the player perspective, and are not skippable.</span>
-
-**Item 219** - <span class="hidden">**Tome of Conflict** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards (unless you have a way to mitigate this via other items or abilities).</span>
-
-**Item 225, 1st Printing Errata** <span class="hidden">**Algox Carving** - This is a one-handed item, not a chest item.</span>
-
-**Item 226** - <span class="hidden">**Unfettered Arm** The "numeric value" referred to here is only the actual attack modification value, such as the "+1", and not to anything else, like shield values.</span>
-
-**Item 242** - <span class="hidden">**Lucky Dice** - A rolling x2 can be inserted into the current calculated damage at any time, while a rolling Null will always reduce it to zero. With disadvantage, all rolling modifiers are still discarded. With advantage, a rolling Null will reduce the total to zero no matter the final two cards.</span>
-
-<details>
-<summary><b>Item 244 Spoilers</b></summary>
-
-<p><b>Ember Energy Source - I have an action that lets me repeat one or several abilities multiple times. Will this modify all instances of these, or just one?</b> Just one. This item affects one ability, not the entire action - even if an ability gets repeated.</p>
-<p><b>Can this apply to modifications to abilities, or only the base values?</b> This can only apply to the base values of an ability; it will not apply to anything with "+x." An example would be something like Deathwalker (1) Anger of the Dead. You could not change the conditional text so it adds +2 attack for each Shadow removed.</p>
-
-</details>
-<br>
-**Item 245** - <span class="hidden">**Ancient Coin(s)** These should be considered collectively owned by the party as a whole, and never return to any item supply. When you gain one, you can pick any of them.</span>
-
-**Item 246** - <span class="hidden">**Key Card** This should be considered collectively owned by the party as a whole, and never returns to any item supply.</span>
-
-**Item 253** - <span class="hidden">**Mask of Duality** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
-
-**Item 259** - <span class="hidden">**Storm Carving** - This item starts on the side which does NOT have the item number on it. Item numbers are on the backs of cards.</span>
 
 
 <script>
