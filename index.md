@@ -142,6 +142,8 @@ Most of these questions were asked by the community. If you have a question that
 ## <a name="page_4" class="page-number">4.0</a> City General Questions
 **How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
 
+**What is Imbuement on the campaign sheet? Should I use the Imbuement track?** Ignore it until you're instructed otherwise.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_42" class="page-number">4.2</a> Enhancements
