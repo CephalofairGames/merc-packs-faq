@@ -387,42 +387,42 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ## <a name="page_8" class="page-number">8.0</a> Characters
 
-### ![Bruiser Icon](/assets/images/01 bruiser.png) <a name="page_801" class="page-number">8.1</a> Bruiser
+### ![Bruiser Icon](/assets/images/01_bruiser.png) <a name="page_801" class="page-number">8.1</a> Bruiser
 
 
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Tinkerer Icon](/assets/images/02 tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
+### ![Tinkerer Icon](/assets/images/02_tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
 
 **I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the weird and broken shenanigans you can get up to with Chimeric Formula, especially if you are bringing in characters from other games, like Frosthaven. Your group is empowered to interpret ambiguity for your own table.
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Spellweaver Icon](/assets/images/03 spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
+### ![Spellweaver Icon](/assets/images/03_spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
 
 
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Silent Knife Icon](/assets/images/04 silent knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
+### ![Silent Knife Icon](/assets/images/04_silent_knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
 
 
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Cragheart Icon](/assets/images/05 cragheart.png) <a name="page_805" class="page-number">8.5</a> Cragheart
+### ![Cragheart Icon](/assets/images/05_cragheart.png) <a name="page_805" class="page-number">8.5</a> Cragheart
 
 
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Mindthief Icon](/assets/images/06 mindthief.png) <a name="page_806" class="page-number">8.6</a> Mindthief
+### ![Mindthief Icon](/assets/images/06_mindthief.png) <a name="page_806" class="page-number">8.6</a> Mindthief
 
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Sun](/assets/images/07 sun.png) <a name="page_807" class="page-number">8.7</a> "Sun"
+### ![Sun](/assets/images/07_sun.png) <a name="page_807" class="page-number">8.7</a> "Sun"
 
 <details>
 <summary><b>Sun Spoilers</b></summary>
@@ -434,7 +434,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Three Spears Icon](/assets/images/08 three spears.png) <a name="page_808" class="page-number">8.8</a> "Three Spears"
+### ![Three Spears Icon](/assets/images/08_three_spears.png) <a name="page_808" class="page-number">8.8</a> "Three Spears"
 
 <details>
 <summary><b>Three Spears Spoilers</b></summary>
@@ -446,7 +446,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Circles Icon](/assets/images/09 circles.png) <a name="page_809" class="page-number">8.9</a> "Circles"
+### ![Circles Icon](/assets/images/09_circles.png) <a name="page_809" class="page-number">8.9</a> "Circles"
 
 <details>
 <summary><b>Circles Spoilers</b></summary>
@@ -458,7 +458,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Eclipse Icon](/assets/images/10 eclipse.png) <a name="page_810" class="page-number">8.10</a> "Eclipse"
+### ![Eclipse Icon](/assets/images/10_eclipse.png) <a name="page_810" class="page-number">8.10</a> "Eclipse"
 
 <details>
 <summary><b>Eclipse Spoilers</b></summary>
@@ -470,7 +470,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Cthulhu Icon](/assets/images/11 cthulhu.png) <a name="page_811" class="page-number">8.11</a> "Cthulhu" or "Squid Face" or "Bug Face"
+### ![Cthulhu Icon](/assets/images/11_cthulhu.png) <a name="page_811" class="page-number">8.11</a> "Cthulhu" or "Squid Face" or "Bug Face"
 
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
@@ -482,7 +482,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Lightning Bolts Icon](/assets/images/12 lightning bolts.png) <a name="page_812" class="page-number">8.12</a> "Lightning Bolts"
+### ![Lightning Bolts Icon](/assets/images/12_lightning_bolts.png) <a name="page_812" class="page-number">8.12</a> "Lightning Bolts"
 
 <details>
 <summary><b>Lightning Bolts Spoilers</b></summary>
@@ -494,7 +494,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Music Note Icon](/assets/images/13 music note.png) <a name="page_813" class="page-number">8.13</a> "Music Note"
+### ![Music Note Icon](/assets/images/13_music_note.png) <a name="page_813" class="page-number">8.13</a> "Music Note"
 
 <details>
 <summary><b>Music Note Spoilers</b></summary>
@@ -506,7 +506,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Angry Face Icon](/assets/images/14 angry face.png) <a name="page_814" class="page-number">8.14</a> "Angry Face"
+### ![Angry Face Icon](/assets/images/14_angry_face.png) <a name="page_814" class="page-number">8.14</a> "Angry Face"
 
 <details>
 <summary><b>Angry Face Spoilers</b></summary>
@@ -518,7 +518,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Saw Icon](/assets/images/15 saw.png) <a name="page_815" class="page-number">8.15</a> "Saw"
+### ![Saw Icon](/assets/images/15_saw.png) <a name="page_815" class="page-number">8.15</a> "Saw"
 
 <details>
 <summary><b>Saw Spoilers</b></summary>
@@ -530,7 +530,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Triangles Icon](/assets/images/16 triangles.png) <a name="page_816" class="page-number">8.16</a> "Triangles"
+### ![Triangles Icon](/assets/images/16_triangles.png) <a name="page_816" class="page-number">8.16</a> "Triangles"
 
 <details>
 <summary><b>Triangles Spoilers</b></summary>
@@ -542,7 +542,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Two Minis Icon](/assets/images/17 two minis.png) <a name="page_817" class="page-number">8.17</a> "Two Minis"
+### ![Two Minis Icon](/assets/images/17_two_minis.png) <a name="page_817" class="page-number">8.17</a> "Two Minis"
 
 <details>
 <summary><b>Two Minis Spoilers</b></summary>
@@ -554,7 +554,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### ![Crossed Swords Icon](/assets/images/18 crossed swords.png) <a name="page_818" class="page-number">8.18</a> "Crossed Swords"
+### ![Crossed Swords Icon](/assets/images/18_crossed_swords.png) <a name="page_818" class="page-number">8.18</a> "Crossed Swords"
 
 <details>
 <summary><b>Two Minis Spoilers</b></summary>
