@@ -85,11 +85,15 @@ Most of these questions were asked by the community. If you have a question that
 
 ##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
 
+**Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
+
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
 
 **General -** As a legacy game, the general rule is that if you don’t see something referenced in the rules, it probably relates to unlockable content. Check this FAQ if you are unsure.
+
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized in Frosthaven. Gloomhaven 2e uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven Second Edition, and these tiles aren't needed for any scenaarios.
 
 **How many of each Event deck do I use?** XXX
 
@@ -339,18 +343,18 @@ Examples:
 
 ## <a name="page_7" class="page-number">7.0</a> General Scenario Questions
 
-**Do I need to return to Frosthaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Frosthaven, and links are only one-way.
+**Do I need to return to Gloomhaven after every successful scenario?** Yes, unless the scenario you just completed is Linked or Force-Linked to another scenario. This is indicated by a chain link icon with a red or yellow exclamation point in the Scenario Rewards when a new scenario is first unlocked. You cannot replay a scenario you've successfully completed without returning to Gloomhaven, and links are only one-way.
 
 **I don’t understand the difference between Campaign and Casual mode. What does all this mean?** 
 Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for re-playing already played scenarios, but with zero game impacts.
-- Casual Mode: You get no resources, XP, quest progression, etc. You don’t draw any events, and there's no City Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
-- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn resources, XP, any unlooted treasure chests, and random items from the loot deck if you didn’t already get them. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Frosthaven. After the scenario, you will have a City Phase, where time will pass.
+- Casual Mode: You get no coins, XP, quest progression, etc. You don’t draw any events, and there's no City Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
+- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn coins, XP, quest progress, and any unlooted treasure chests. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Gloomhaven. After the scenario, you will have a City Phase, where time will pass.
 
-**Can I replay a scenario to loot an unlooted treasure chest? Isn’t that Casual Mode?** In Frosthaven, if you want to loot an unlooted chest, you would have to replay the scenario in Campaign Mode. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the loot, chests, xp, etc.)
+**Can I replay a scenario to loot an unlooted treasure chest?** Yes, but it must be replayed in Campaign Mode. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the coins, chests, xp, etc.)
 
 **What about a random scenario from the random dungeon deck? How do those fit in?** Random scenarios can be played in either Casual Mode or Campaign Mode; it is up to you. See above for the differences. Random scenarios do not require a Road Event.
 
-**If I lose a scenario but we choose to replay it, do I keep any Random Items we found? What about gold from loot cards?** You keep all gold (including that gained from loot cards), anything gained from treasure chests (even if it contained Resources), random items from the loot deck, and XP earned from your action cards. You do not keep any other Resources, including those gained via item usage.
+**If I lose a scenario but we choose to replay it, do I keep anything?** You keep all gold (including that gained from loot cards), anything gained from treasure chests, and XP earned from your action cards.
 
 **Why are some scenario markers in grey and some in green?** All are considered to share the same marker, but there's only enough physical markers for the green ones. 
 
@@ -366,142 +370,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
-**Scenario 0** - Masteries cannot be completed in this scenario. This is a printed rule in the second printing.
 
-**Scenario 1** - Although the City Guards don't take turns, they expire "end of next turn" conditions (such as Disarm and Immobilize) on Initiative 50.
-
-**Scenario 2** - <span class="hidden">The door is placed incorrectly after opening the final section. Don’t move the door.</span>
-
-
-<details>
-<summary><b>Scenario 4</b></summary>
-<p>The special rules should not mention Priests. There are no Priests in this scenario.</p>
-<p><b>Scenario 4, Section 75.1</b> - <span class="hidden">The references to other monsters in the narrative are from earlier versions of the scenario. Likewise, the narrative about an audience are just flavor text. As for the bosses - The intent is you should use the minis from the boxes on the board, not the boxes themselves.</span></p>
-<p><b>Scenario 4, Conclusion</b> - <span class="hidden">Like all other scenarios, you <strong>cannot</strong> replay this to get the other unlock reward. You will eventually unlock all characters during the course of the campaign.</span></p>
-</details>
-<br>
-
-**Scenario 7 (conclusion)** - <span class="hidden">The campaign sticker is labeled "Coral Crown" on the 1st Printing sticker sheet</span>
-
-**Scenario 9, Section 26.1** - <span class="hidden">The switches are the wall hexes. They are targetable in melee by standing in the adjacent hex, or ranged by targeting that wall hex.</span>
-
-**Scenario 10, Section 65.3** - <span class="hidden">Deathwalker shadows will move to the new room with you. See <a href="#page_84">8.4 Deathwalker</a> for discussion.</span>
-
-**Scenario 11** - <span class="hidden"><b>Does Boss Special 2 affect invisible characters</b>? Yes</span>
-
-**Scenario 13** - <span class="hidden">The monsters will not target the scenario as a secondary target for multi-target attacks. Remember that direct damage abilities are not attacks, and so will never go to the scenario.</span>
-
-**Scenario 15** - <span class="hidden">The special targeting rules are easier to understand if you picture it as the chaos demon on some scaffolding above the ground floor where the characters enter. Note - The special rules have a small error. The first sentence in paragraph 3 should specify <b>ranged</b> abilities instead of just abilities. The chaos demon will focus on an enemy on 1-B and 6-B over enemies in 15-D, provided no extra movement is required to target them.</span>
-
-**Scenario 16 - Section 27.2** <span class="hidden">If player-created overlays are in any "a" hex, the new rubble will replace them. This applies to any future player-created overlays for this scenario, as well.</span>
-
-**Scenario 17 - Section 25.3** <span class="hidden">First Printing Errata - Instead of "When Door 3 is opened read 62.3," it should refer to Door 1 to open that section</span>
-
-**Scenario 21 - Section 51.1** <span class="hidden">The special rules should include ‘character tokens’ here to specifically include the Deathwalker’s shadow tokens. The rules text regarding the door unlocking is correct. It does not open as the narrative text would indicate; it just becomes unlocked.</span>
-
-**Scenario 22 - Section 41.2** <span class="hidden">1. The water tiles on the border hexes (the half-hexes on the edge of the map tile) count towards the fail state for the scenario. 2. Note that a monster who attacks the boat instead of any characters will only attack ONE hex even if they have drawn an AoE attack or multitarget attack this turn. 3. If a Wavethrower creates water, it counts towards the scenario's fail state just like any other water.</span>
-
-**Scenario 24** - <span class="hidden">Character summons do not treat the special corridor hexes as negative. Also, it is possible to end up in a situation where the scenario becomes unwinnable based on random chance. To avoid this, 83.2: Section Links, should read "When all enemies on tile 8-A are dead..." and 74.2: Section Links should read "When all enemies on tile 4-B are dead...</span>
-
-**Scenario 28** - <span class="hidden">First printing only - Note in the errata - the guard and archer spawns are reversed, as are the exit hexes. Guards should spawn at E and Archers should spawn at D. <i>Note - the second printing corrected this issue by changing the location of letter tokens on the map.</i></span>
-
-**Scenario 29 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks</span>
-
-**Scenario 30 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
-
-**Scenario 34** - <span class="hidden">The Chaos Beam effects happen even if you are jumping or flying.</span>
-
-**Scenario 36 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
-
-**Scenario 37 (conclusion)** - <span class="hidden">First Printing Only: Add blueprints for Item 067 to the scenario reward.</span>
-
-**Scenario 38, Section 23.1** - <span class="hidden">The "at each" is unnecessary at 3p spawns. Both 2p and 3p spawn a total of two normal hounds, one at each. Character tokens are considered figures and occupy their hex adjacent to the altar.</span>
-
-**Scenario 39** - <span class="hidden">If you cannot replace a dead ally standee with a Frozen Corpse because all Frozen Corpses are on the board, they remain until Frozen Corpse standees become available and they can be replaced.</span>
-
-**Scenario 40 (conclusion)** - <span class="hidden">First Printing Only: Section 71.2 indicates you open 47 Blizzard Island. Blizzard Island is correct but the number is 48.</span>
-
-**Scenario 45** - <span class="hidden">The requirement of Climbing Gear is correct. Narratively, it could have been either climbing gear, boat, or both - but this is not an error.</span>
-
-**Scenario 49** - <span class="hidden">You can refill your oxygen by just passing through an (a) air pocket hex; you do not need to end a movement or an action in one.</span>
-
-**Scenario 50** - <span class="hidden">Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</span>
-
-**Scenario 54** - <span class="hidden">Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</span>
-
-**Scenario 55 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
-
-**Scenario 56 - Section 3.2** <span class="hidden">Even if the Harbinger is reduced to 0 health directly from above 2/3 its maximum health, you must resolve section 21.2, and the Harbinger is not considered dead unless it is still at 0 hp even after that section resolves. The same holds for any similar sections in this scenario that are resolved based on the boss's health thresholds.</span>
-
-**Scenario 58 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
-
-**Scenario 59 (conclusion)** - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks.</span>
-
-<details>
-<summary><b>Scenario 60</b></summary>
-<p>Scenario hexes are only treated as water hexes for Lightning Eel summoning and movement, and not for any other purpose. You can place water hexes in the scenario as normal with relevant items and abilities.</p>
-<p>Boss Special Rules: The intent for 'everlasting' elements is that they become Strong at the start of every figure's turn. Even with this special, a single element cannot be consumed twice in a single turn.</p>
-<p>Section 115.4 - <span class="hidden">Only a character with the Shards can damage the Fracture, and only in the ways specified. Their summons, if any, still cannot focus on or damage the boss.</span></p>
-<p>Conclusion - <span class="hidden">Remove the cards you're directed to remove from both Available <i>and</i> Unavailable Event Decks. First Printing Only - Add Item 224 to Scenario Rewards</span></p>
-</details>
-<br>
-**Scenario 62** - <span class="hidden">This scenario uses "a" tokens for both Crain's present location and his starting location, and it doesn't fully distinguish between the two. It's recommended to use a mini or some other distinct token for Crain himself as he moves around the map. The scenario instructions to add damage tokens refer to the map locations and not to Crain himself. Damage tokens are used as time trackers here; there is no way for players to add damage to Crain's goals. Monsters <b>will</b> enter negative hexes to attack Crain, if they must in order to attack this round, but will enter as few as possible.</span>
-
-**Scenario 65 - Section 89.1** - <span class="hidden">The Named Ice Wraith starts on "elite" stats, and switches forms like other ice wraiths. Just use normal white and yellow (or white and red) bases for it, but it's still considered a named monster.</span>
-
-**Scenario 70** - <span class="hidden">As mentioned in the Errata, there is only one random item in the loot deck.</span>
-
-**Scenario 71 - Section 111.2** - <span class="hidden">One piranha pig spawns at <i>each</i> F</span>
-
-**Scenario 72 - Section 132.2** - <span class="hidden">The metal cabinets (or snow rocks, in some versions) cannot be relocated or destroyed, except via the scenario mechanics.</span>
-
-**Scenario 73 and Coral Class (Spoilers for both)** - <span class="hidden">Yes, these hexes also count as Water for your abilities and perks.</span>
-
-**Scenario 77** <span class="hidden">Even if the Fish King is reduced to 0 hp in a single attack, you must resolve section 131.2, and he is not considered dead unless he is still at 0 hp after that section resolves. Do not resolve other sections based on the boss's health unless it is still under those thresholds after the section resolves. The same holds for all similar sections in this scenario that are resolved based on the boss's health thresholds; you cannot trigger more than one at a time, and you cannot skip any.</span>
-
-**Scenario 78** - <span class="hidden">First Printing Errata repeated here - Change the Map Layout image, flipping 13-D and 13-B in that image (and also flipping 13-B in the map depiction on the intro page). Do not change the door positions on entering new rooms.</span>
-
-**Scenario 81** - <span class="hidden">Aesther Ashblades cannot teleport to a room unless all doors between their current room and their destination room have been opened.</span>
-
-**Scenario 82** - If you have questions on how some aspects of this scenario operate, please reference [this thread](https://boardgamegeek.com/thread/3070490/)
-
-**Scenario 83** - <span class="hidden">(1) The giant piranha pig still acts like a normal piranha pig, using the piranha pig ability deck. The boss deck is <i>only</i> used to determine how the water moves up and if more pigs are spawned. So if you draw a non-special card from the boss deck, the giant pig doesn't get an extra action from that. (2) The scenario's water tiles cannot be removed, replaced, or relocated except by the scenario's mechanics. "Left" here refers to the horizontal row of hexes a water tile is on.</span>
-
-**Scenario 83 and Building 88** - <span class="hidden"><b>Can I capture the Giant Piranha Pig?</b> Isaac: "Yeah, I don't see a problem with this. Maybe the rules should specify normal or elite, but they don't, so enjoy your giant piranha pig pet!" (Note that this is, functionally, still just a normal piranha pig pet.) Capturing the Giant Piranha Pig is, for this scenario, an acceptable substitute for killing it for the scenario goal.</span>
-
-**Scenario 84** - <span class="hidden"><b>What is meant by, "If the Elder Ooze would ever suffer damage greater than a normal ooze's hp..."</b> Effectively, the Elder Ooze can only suffer as much damage as a normal ooze's hp from one source. Anything above this is lost.</span>
-
-**Scenario 90** - <span class="hidden">This scenario does not require the boat to be built at the workshop. It's not necessarily <i>your</i> boat.</span>
-
-**Scenario 92** - <span class="hidden">See <a href="#page_59">Section 5.9</a> if you're wondering how your scenario ally works.</span>
-
-**Scenario 96** - <span class="hidden">The stairs are there for aesthetic reasons. The platform follows all normal corridor rules, and you can move on or off as you see fit. When the platform opens doors at the end of the round, newly revealed enemies do not activate.</span>
-
-**Scenario 97** - <span class="hidden">Notes - (1) Boss Special 2 triggers on its initiative, so the Program Director will not become an ally to the monsters until its turn. (2) If you play a monster ability card, only you, personally, become an ally to that monster. Other players (and the Program Director) are still its enemies for the turn.</span>
-
-**Scenario 99** - <span class="hidden">The enemies will always stay on the "1" tiles they are on, and will not move off of them, even to another "1" tile, unless forced.</span>
-
-**Scenario 101** - <span class="hidden">The "goal treasure tiles" have been replaced by numbered tokens due to component count issues. References to goal tiles refer to the numbered tokens.</span>
-
-**Scenario 104** - <span class="hidden">The special rule should include "Each element can be consumed only once per turn."</span>
-
-**Scenario 107 - Section 168.4** - <span class="hidden">Treat the new monsters as spawns. If the space they are supposed to appear in is not empty, place them in the nearest empty hex possible.</span>
-
-**Scenario 109** - <span class="hidden">The special rule should reference Initiative 52, not 54.</span>
-
-**Scenario 110** - <span class="hidden">The water hexes are difficult terrain, not corridor, as First Printing erroneously indicates. If you move or destroy the water hexes, or put other overlays into the corridor hexes, the electrification hexes are not affected. Just keep the electrification pattern as it was at the start of the scenario.</span>
-
-**Scenario 111** - <span class="hidden">The door positions in Section 182.2 are correct. On 138.2 the section link should be to 147.2.</span>
-
-**Scenario 117** - <span class="hidden">First Printing Only: This scenario setup requires 5 Polar bears but there are only 4 standees. A fifth Polar bear should be 'proxied' from other available standees or minis</span>
-
-**Scenario 118** - <span class="hidden">Letter tokens don't have an 'upside down'; just ignore this instruction. The specific letter isn't relevant to the scenario rules.</span>
-
-**Scenario 120** - <span class="hidden">If there is a Geminate in the party, they should split their hand into two piles based on form. If you lose a card to damage, you can lose a card of your choice from your set-aside hand.</span>
-
-**Scenario 122, Section 98.1** <span class="hidden">Even if the Hungry Maw is reduced from above half to 0 health in a single hit, you need to process the results of section 151.1, and he is not considered dead unless he is still at 0 hp after that section resolves.</span>
-
-**Scenario 134** - <span class="hidden">A jump or ranged attack between the "balconies" requires counting the distance. You can use extra corridor hexes to measure.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
