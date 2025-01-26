@@ -96,11 +96,9 @@ Most of these questions were asked by the community. If you have a question that
 
 **I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized in Frosthaven. Gloomhaven 2e uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven Second Edition, and these tiles aren't needed for any scenaarios.
 
-**How many of each Event deck do I use?** XXX
+**How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
-**What are all these stickers with rules for?** Rules stickers are added to the ruleb
-
-**How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled in a deck. The remainder will become available, later. 
+**How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled in the Available deck. The remainder will become available, later, or used for Inspiration retirements.
 
 ![divider](/assets/images/divider.png)
 
