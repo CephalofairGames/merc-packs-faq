@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-01-24*
+*Last Updated 2025-01-26*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -399,6 +399,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Defensive Tactics (5, top) - Does this also apply when I gain Retaliate from a modifier card, or from a persistent effect like Warding Strength (1, bot)?** Yes, it adds to the first Shield or Retaliate you gain each round from your ability or attack modifier cards. A persistent effect is still on one of your cards.
 
+**Immovable Phalanx (6, bot) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Tinkerer Icon](/assets/images/02_tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
@@ -509,7 +511,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Lightning Bolts Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>A general note on hit point conditional bonuses: </b> Your current hit points are always evaluated before performing an ability, or before suffering any damage. For example, for Numb the Pain (top), your hp are evaluated before you suffer any damage for the damage reduction ability.</p>
 
 </details>
 <br>
@@ -547,7 +549,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>What happens to an active Prescription if Saw exhausts?</b> Even though Prescriptions are in your allies' active areas, the card is still owned by you. If you exhaust, they will be lost.</p>
 
-<p><b>When do I evaluate if a monster is damaged for my abilities?</b> Whether a monster is damaged or not is always evaluated before you begin performing your attack ability.</p>
+<p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability.</p>
 
 </details>
 <br>
