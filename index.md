@@ -494,6 +494,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Do I still get the bonuses from poisoning one of my allies if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
+<p><b>Can I apply Plague to an enemy Objective?</b> Yes - Plague is not considered a condition.</p>
+
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
 <p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
 <p>(2) Its elemental interactions are completely separate from the other monsters of its kind. If the ability card has bonuses for elemental consumption, it can consume elements to improve it - and won't benefit from any previous elemental consumptions. It will repeat any elemental infusions, as well. If the element is wild, it can be different from the rest of the monster set.</p>
