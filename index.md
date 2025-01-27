@@ -452,7 +452,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Three Spears Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
 
 </details>
 <br>
@@ -492,9 +492,15 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
 
-<p><b>Do I still get the bonuses from poisoning one of my allies if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
+<p><b>Do I still get the bonuses from giving poison to one of my allies, if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
+
+<p><b>Can I give Poison to an allied Objective?</b> No - Objectives cannot ever gain Poison, so you cannot give it to them.</p>
+
+<p><b>Do I need Line of Sight to give poison to an ally?</b> No - "Give" is not in the list of targeted abilities, so would not require Line of Sight. Note, as always, that range cannot be counted through walls.</p>
 
 <p><b>Can I apply Plague to an enemy Objective?</b> Yes - Plague is not considered a condition.</p>
+
+<p><b>Do I need Line of Sight for a Plague ability?</p> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in GH2e, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
 <p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
@@ -537,7 +543,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Angry Face Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>A Moment's Peace (1, top) - Do I need line of sight to the enemy whose ability I am revealing?</b> No; "reveal" is not a targeted ability.</p>
 
 </details>
 <br>
@@ -554,6 +560,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability.</p>
 
 <p><b>Prep for Surgery (X, bot) - Can I improve attacks or moves before turning them into heals?</b> You must decide whether to convert a move or attack ability into a Heal before performing it; it cannot be improved except by effects that improve heals.</p>
+
+<p><b>Experimental Stimulants (4, top) - When do I evaluate if the target has an active Prescription? When I perform the ability, or when they would suffer damage?</b> This is evaluated when you play the ability. The damage negation effect works, even if they no longer have the Prescription when they would suffer their next damage.</p>
 
 </details>
 <br>
