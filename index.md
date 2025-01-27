@@ -553,6 +553,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability.</p>
 
+<p><b>Prep for Surgery (X, bot) - Can I improve attacks or moves before turning them into heals?</b> You must decide whether to convert a move or attack ability into a Heal before performing it; it cannot be improved except by effects that improve heals.</p>
+
 </details>
 <br>
 
