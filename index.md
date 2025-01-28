@@ -405,7 +405,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Tinkerer Icon](/assets/images/02_tinkerer.png) <a name="page_802" class="page-number">8.2</a> Tinkerer
 
-**I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the potential interactions with this card, and will not even try. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on easier cards.
+**I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the potential interactions with this card. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -423,7 +423,19 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Cragheart Icon](/assets/images/05_cragheart.png) <a name="page_805" class="page-number">8.5</a> Cragheart
 
+**Heaving Swing (X, top) - How does this interact with two- or three-hex obstacles?** The obstacle is completely destroyed when the target enters the first hex of the push.
 
+**Heaving Swing (X, top) - Would a flying enemy also destroy the obstacle and take damage?** Yes. This doesn't exclude flying enemies from the effect.
+
+**Petrify (X, top) - What happens if the obstacle created by killing an enemy would block off part of the scenario?** Just like with all obstacle placement, you cannot completely block off part of a scenario. Here, you would still get the XP but would not place any obstacle.
+
+**Burrow (X, bot) - Can I Immobilize enemies that are now outside of my Line of Sight?** No; the Immobilize is a separate, targeted ability performed after the Move is complete
+
+**Mud Eruption (2, top) - Can I create an obstacle tile in the same hex as a flying enemy, if I did not push them?** XXX
+
+**Sentient Growth (2, top) - Can I use this just to heal allies without attacking?** No; a red hex attack ability must be performed, in order to perform any subsequent abilities referencing the pattern.
+
+**Brutal Momentum (7, bot) - Do I get both the Move 3 and the attack bonus at the start of my next four turns, or just the move?** You get both at the start of your next four turns.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -440,7 +452,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Sun Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1 and doesn't have any round bonuses or persistent effects.</p>
 
 </details>
 <br>
@@ -464,7 +476,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Circles Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>Living Night (1, top) - If one of my Shadow Wolves is killed by an Area of Effect or multi-target effect, would the second become invisible immediately?</b> Yes; remember that all targeting in Gloomhaven is sequential. The first Wolf dies, and the second one would gain Invisible before the next target is chosen.</p>
+
+<p><b>Wild Animation (1, bot) - Does my Thorn Shooter rush into melee range, because it has no attack?</b> No; see the character board rules for your Summons. It will focus as a normal ranged attack, ignoring disadvantage, and ignoring enemies who already have the condition. <b>This holds for all similar summons, such as the Rift Spirit</b></p>
+
+<p><b>Planar Protection (1, bot) - I control the Grant Shield ability on this summon. Can it target only its own allies, or only my allies?</b> It is still performing the Grant. It can only target its allies.</p>
 
 </details>
 <br>
