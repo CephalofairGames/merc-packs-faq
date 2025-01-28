@@ -431,7 +431,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Burrow (X, bot) - Can I Immobilize enemies that are now outside of my Line of Sight?** No; the Immobilize is a separate, targeted ability performed after the Move is complete
 
-**Mud Eruption (2, top) - Can I create an obstacle tile in the same hex as a flying enemy, if I did not push them?** XXX
+**Mud Eruption (2, top) - Can I create an obstacle tile in the same hex as a flying enemy, if I did not push them?** No; obstacles may not be placed in occupied hexes.
 
 **Sentient Growth (2, top) - Can I use this just to heal allies without attacking?** No; a red hex attack ability must be performed, in order to perform any subsequent abilities referencing the pattern.
 
@@ -452,7 +452,18 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Sun Spoilers</b></summary>
 
+<p>(Repeated from Section 5.2) <b>How does Shield interact with Ward?</b> Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.</p>
+
+<p><b>Path of Glory (5, bot) - Can I Strengthen and Bless allies who are no longer in my Line of Sight after my Move?</b> No; the Strengthen, Bless is a separate ability performed after the Move is complete.</p>
+
+<p><b>Divine Intervention (6, top) - Is the damage I suffer capped by my ally's remaining hit points?</b> No; "would suffer" is not capped by a figure's remaining hit points.</p>
+
+<p><b>Scales of Justice (6, bot) - (1) Can I consume Light even if the attack would not normally consume Light? (2) Will the Null effect also apply to any Curses I draw?</b> (1) No - this only applies to attacks which you can already consume Light on. (2) Yes; this includes all Nulls, including Curses.
+
 <p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1 and doesn't have any round bonuses or persistent effects.</p>
+
+<p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
+<span class="hidden"><p><b>Divine Intervention (6, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</p></span>
 
 </details>
 <br>
