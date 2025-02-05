@@ -535,7 +535,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I apply Plague to an enemy Objective?</b> Yes - Plague is not considered a condition.</p>
 
-<p><b>Do I need Line of Sight for a Plague ability?</p> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in GH2e, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)
+<p><b>Do I need Line of Sight for a Plague ability?</b> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in GH2e, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)</p>
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
 <p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
