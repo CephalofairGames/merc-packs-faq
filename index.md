@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-01-26*
+*Last Updated 2025-03-04*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -543,7 +543,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
 <p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
-<p>(2) Its elemental interactions are completely separate from the other monsters of its kind. If the ability card has bonuses for elemental consumption, it can consume elements to improve it - and won't benefit from any previous elemental consumptions. It will repeat any elemental infusions, as well. If the element is wild, it can be different from the rest of the monster set.</p>
+<p>(2) Its elemental interactions are completely separate from the other monsters of its kind. If the ability card has bonuses for elemental consumption, it can consume elements to improve it - and won't benefit from any previous elemental consumptions. It will repeat any elemental infusions, as well. If the element is wild, it can be different from the rest of the monster set. If it infuses elements during your turn, elements still won't be available until after the end of your turn, like normal.</p>
 <p>(3) The monster would still have any conditions it had; this happens before it actually dies, when it would lose those.</p>
 <p>(4) If the monster enters any traps or hazards while being controlled, it will remove any traps, and suffer any conditions from them, but can't take further damage.</p>
 <p>(5) If the monster dies during its own turn, it will still have its full ability card to use - and will start fresh on elemental interactions. It would need to consume its own element to gain any benefits, and would infuse its own when it's finished - even if it's acting in the middle of the rest of its monster set.</p>
@@ -570,7 +570,16 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Music Note Spoilers</b></summary>
 
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p>A few quick reminders on core Note mechanics, that may be easily missed on the board. (1) You can only gain one Note per round from your Actions; some effects (like Increase Cadence, 1 bot) can exceed this. (2) Unlike elemental infusions, you gain Notes immediately when you perform an action with a Note. (3) When you play a Song action, you clear <i>all</i> your Notes, not just the ones that were needed for that specific Song; you can gain a Note with a subsequent action on the same turn, however. (4) All Songs move their use slot tokens at the end of every <i>round</i>, not the end of your turn.</p>
+
+<p><b>A reminder on ambiguity:</b> A lot of your Songs will look for the "closest ally" or other comparisons that can easily be tied. As always, you can resolve this ambiguity however you wish.</p>
+
+<p><b>Are you aware that clefs aren't notes?</b> Yes. If it helps, you can imagine they represent "high notes" and "low notes."</p>
+
+<p><b>Provoke Terror (X, top) - If I don't push an enemy, are they still stunned?<b> No; the stun is an added effect on the push, so each enemy must be pushed at least 1 hex in order to be stunned.</p>
+
+<p><b>Ode to the Gambler (3, top) - What happens if I draw a rolling Null (or Curse)?</b> A rolling null will always make an attack's final damage 0, unless you have a way to disregard or change it - like if you had Disadvantage for the attack.</p> 
+
 
 </details>
 <br>
