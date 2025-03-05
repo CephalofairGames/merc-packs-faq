@@ -88,6 +88,10 @@ Most of these questions were asked by the community. If you have a question that
 
 **Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
 
+**Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
+
+**Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
+
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_2" class="page-number">2.0</a> Component and First Time Setup Questions
