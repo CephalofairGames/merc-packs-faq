@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-03-04*
+*Last Updated 2025-03-07*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -58,7 +58,7 @@
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
 
-This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function to locate answers to specific questions. 
+This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function, or the Table of Contents (above) to locate answers to specific questions. 
 
 ![divider](/assets/images/divider2.png)
 
@@ -126,7 +126,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **If, during a City Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
 
-**If I abandon a character in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
+**If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -423,11 +423,23 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Spellweaver Icon](/assets/images/03_spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
 
+**Can Ice Armor (X, top) work for a summoned ally or a scenario ally?** Yes; Ice Armor remains your card, and stays in your active area. It can be applied to any ally.
+
+**Freezing Nova (2, top) - What if enemies are tied for furthest distance?** You can resolve ambiguity however you wish.
+
+**Etheric Echo (2, top) - Will this also work on X cards?** Yes; X cards are treated as Level 1 for all purposes, including this one.
+
+**Searing Glacier (6, top) - How does this AoE pattern work?** Only one of the hexes of the line pattern needs to be within Range 3 of you. It can be oriented in any direction.
+
+**Chromatic Explosion (7, top) - Can I just use this on my allies, or do I need to attack an enemy with this?** You need to have performed an attack on at least one enemy. While some red hex patterns can just give conditions to allies, the ally-affecting ability specifies that it applies to allies within the red hex pattern of the *attack* ability. 
+
 **How does my first Mastery (consume Fire and Ice 6 times) work?** Over the course of a single scenario, in at least six different turns, you must consume both Fire and Ice.
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Silent Knife Icon](/assets/images/04_silent_knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
+
+**Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, you can occupy the hex with a trap, and it would not spring unless you exited and re-entered the trapped hex.
 
 **Hired Help (9, top) - If I duplicate a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them).
 
@@ -453,9 +465,13 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Mindthief Icon](/assets/images/06_mindthief.png) <a name="page_806" class="page-number">8.6</a> Mindthief
 
+**Submissive Affliction (1, top) - Does a condition applied by this attack count for the attack bonus?** No; added effects, like conditions, are resolved after attack damage.
+
+**Hostile Takeover (2, bot) - If this enemy is summoning this round, will the summoned creature be on our side?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). You can, though, choose not to have this enemy perform their summon ability.
+
 **If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
 
-**Does my 'Lying Low' (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
+**Does my "Lying Low" (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
 
 ![divider-narrow](/assets/images/divider2.png)
 
