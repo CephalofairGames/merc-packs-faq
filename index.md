@@ -479,7 +479,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Sun Spoilers</b></summary>
-
+<br>
 <p>(Repeated from Section 5.2) <b>How does Shield interact with Ward?</b> Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.</p>
 
 <p><b>Path of Glory (5, bot) - Can I Strengthen and Bless allies who are no longer in my Line of Sight after my Move?</b> No; the Strengthen, Bless is a separate ability performed after the Move is complete.</p>
@@ -502,7 +502,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Three Spears Spoilers</b></summary>
-
+<br>
 <p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with actual gold costs printed on the item card can be refreshed with Supplies.</p>
 
 <p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
@@ -516,7 +516,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Circles Spoilers</b></summary>
-
+<br>
 <p><b>Living Night (1, top) - If one of my Shadow Wolves is killed by an Area of Effect or multi-target effect, would the second become invisible immediately?</b> Yes; remember that all targeting in Gloomhaven is sequential. The first Wolf dies, and the second one would gain Invisible before the next target is chosen.</p>
 
 <p><b>Wild Animation (1, bot) - Does my Thorn Shooter rush into melee range, because it has no attack?</b> No; see the character board rules for your Summons. It will focus as a normal ranged attack, ignoring disadvantage, and ignoring enemies who already have the condition. <b>This holds for all similar summons, such as the Rift Spirit</b></p>
@@ -538,7 +538,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Eclipse Spoilers</b></summary>
-
+<br>
 <p><b>Can I place a Tear under my figure?</b> Yes, if it's allowed by the ability. You will not, however, lose Invisible, unless you exit that hex and re-enter it - you need to enter a hex with a Tear to do so.</p>
 
 <p><b>Can I use a Tear that's occupied by an enemy?</b> Yes, but you cannot end your movement in an occupied hex. Remember - you don't lose Invisible until the end of your Move ability.</p>
@@ -554,7 +554,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
-
+<br>
 <p><b>Do I still get the bonuses from giving poison to one of my allies, if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
 <p><b>Can I give Poison to an allied Objective?</b> No - Objectives cannot ever gain Poison, so you cannot give it to them.</p>
@@ -581,7 +581,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Lightning Bolts Spoilers</b></summary>
-
+<br>
 <p><b>A general note on hit point conditional bonuses: </b> Your current hit points are always evaluated before performing an ability, or before suffering any damage. For example, for Numb the Pain (top), your hp are evaluated before you suffer any damage for the damage reduction ability.</p>
 
 </details>
@@ -593,7 +593,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Music Note Spoilers</b></summary>
-
+<br>
 <p>A few quick reminders on core Note mechanics, that may be easily missed on the board. (1) You can only gain one Note per round from your Actions; some effects (like Increase Cadence, 1 bot) can exceed this. (2) Unlike elemental infusions, you gain Notes immediately when you perform an action with a Note. (3) When you play a Song action, you clear <i>all</i> your Notes, not just the ones that were needed for that specific Song; you can gain a Note with a subsequent action on the same turn, however. (4) All Songs move their use slot tokens at the end of every <i>round</i>, not the end of your turn.</p>
 
 <p><b>A reminder on ambiguity:</b> A lot of your Songs will look for the "closest ally" or other comparisons that can easily be tied. As always, you can resolve this ambiguity however you wish.</p>
@@ -614,7 +614,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Angry Face Spoilers</b></summary>
-
+<br>
 <p><b>A Moment's Peace (1, top) - Do I need line of sight to the enemy whose ability I am revealing?</b> No; "reveal" is not a targeted ability.</p>
 
 </details>
@@ -626,7 +626,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Saw Spoilers</b></summary>
-
+<br>
 <p><b>What happens to an active Prescription if Saw exhausts?</b> Even though Prescriptions are in your allies' active areas, the card is still owned by you. If you exhaust, they will be lost.</p>
 
 <p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability.</p>
@@ -644,7 +644,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Triangles Spoilers</b></summary>
-
+<br>
 <p><b>Placeholder question?</b> placeholder answer.</p>
 
 </details>
@@ -656,7 +656,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Two Minis Spoilers</b></summary>
-
+<br>
 <p><b>Who does 'you' refer to on a Command action?</b> Everything on a Command action is written from the Bear's perspective. 'You' refers to the Bear.</p>
 
 <p><b>Concentrated Rage (1, bot)</b> If the Bear attacks an enemy with Retaliate, do I add one token or two?</p> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.
@@ -669,7 +669,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ### ![Crossed Swords Icon](/assets/images/18_crossed_swords.png) <a name="page_818" class="page-number">8.18</a> "Crossed Swords"
 
 <details>
-<summary><b>Two Minis Spoilers</b></summary>
+
+<summary><b>Crossed Swords Spoilers</b></summary>
 
 <p><b>How many hand slot items can I bring into a scenario if I take the Armed and Dangerous perk?</b> It's "additional" - you can bring four more hands' worth of items in addition to your normal two.</p>
 
