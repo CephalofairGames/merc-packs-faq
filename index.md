@@ -659,7 +659,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>Who does 'you' refer to on a Command action?</b> Everything on a Command action is written from the Bear's perspective. 'You' refers to the Bear.</p>
 
-<p><b>Concentrated Rage (1, bot)</b> If the Bear attacks an enemy with Retaliate, do I add one token or two?</p> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.
+<p><b>Concentrated Rage (1, bot)</b> If the Bear attacks an enemy with Retaliate, do I add one token or two?</p> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.</p>
 
 </details>
 <br>
@@ -671,7 +671,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 
 <summary><b>Crossed Swords Spoilers</b></summary>
-
+<br>
 <p><b>How many hand slot items can I bring into a scenario if I take the Armed and Dangerous perk?</b> It's "additional" - you can bring four more hands' worth of items in addition to your normal two.</p>
 
 </details>
