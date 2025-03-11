@@ -645,7 +645,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Triangles Spoilers</b></summary>
 <br>
-<p><b>Placeholder question?</b> placeholder answer.</p>
+<p><b>Placeholder</b> placeholder answer.</p>
 
 </details>
 <br>
