@@ -503,6 +503,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Three Spears Spoilers</b></summary>
 
+<p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with actual gold costs printed on the item card can be refreshed with Supplies.</p>
+
 <p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
 
 </details>
@@ -520,6 +522,12 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Wild Animation (1, bot) - Does my Thorn Shooter rush into melee range, because it has no attack?</b> No; see the character board rules for your Summons. It will focus as a normal ranged attack, ignoring disadvantage, and ignoring enemies who already have the condition. <b>This holds for all similar summons, such as the Rift Spirit</b></p>
 
 <p><b>Planar Protection (1, bot) - I control the Grant Shield ability on this summon. Can it target only its own allies, or only my allies?</b> It is still performing the Grant. It can only target its allies.</p>
+
+<p><b>Living Mountain (5, top) - Does the +1 to heals also affect the Heal 1 Self the Rock Colossus performs at the end of each of its turns?</b> Yes; it's still a heal targeting it.</p>
+
+<p><b>Oozing Manifestation (6, top) - What is going on here?</b> The Slime Spirit will not die from damage the first time it otherwise would. Instead, it will "split" by summoning another Slime Spirit in an adjacent hex. Once this happens, neither Slime Spirit has any protection from dying, because your character token is on the card.</p>
+
+<p><b>Interplanar Mastery (8, bot) - If Dark is consumed, will this affect enemies adjacent to me, or enemies adjacent to the teleported summon?</b> It will affect enemies adjacent to the summon; this is part of the granted abilities, and not a new ability.</p>
 
 </details>
 <br>
@@ -590,7 +598,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>A reminder on ambiguity:</b> A lot of your Songs will look for the "closest ally" or other comparisons that can easily be tied. As always, you can resolve this ambiguity however you wish.</p>
 
-<p><b>Are you aware that clefs aren't notes?</b> Yes. If it helps, you can imagine they represent "high notes" and "low notes."</p>
+<p><b>Are you aware that clefs aren't notes?</b> Yes.</p>
 
 <p><b>Provoke Terror (X, top) - If I don't push an enemy, are they still stunned?<b> No; the stun is an added effect on the push, so each enemy must be pushed at least 1 hex in order to be stunned.</p>
 
