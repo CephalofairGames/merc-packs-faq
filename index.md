@@ -413,7 +413,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 - An effect which says "Adjacent allies gain Shield 1," applies to allies who are adjacent to you, but is not kept when they move away. By the same token, an ally moving into range of the effect can gain it even if they weren't there when the ability was played. Colloquially, these are sometimes called "auras" by the community. Example: Tinkerer 1, Enhancement Field (bottom), "You and all adjacent allies add +1 to all attacks this round."
 - An effect which says "Grant all adjacent allies Shield 1" means they can immediately perform a Shield 1 (Self) ability (if able), and it lasts until the card is lost or discarded, even if they move away from you this round. Example: Tinkerer 1, Flamethrower (bottom): "Grant all adjacent allies and self: Shield 1
 
-**Reinvigorating Elixir (1, bot) - What happens if an ally is Long Resting when I use this?** They recover all their cards, but do not lose one during their Long Rest unless they have active persistent bonuses (which count as cards eligible to be lost during a Long Rest).
+**Reinvigorating Elixir (1, bot) - What happens if an ally is Long Resting when I use this?** They recover all their cards, but do not lose one during their Long Rest, unless they have active non-loss persistent bonuses (which count as cards eligible to be lost during a Long Rest).
 
 **Disintegration Beam (5, top) - Will this work on Objectives?** No; Objectives can only be destroyed, not killed.
 
