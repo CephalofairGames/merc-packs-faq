@@ -610,7 +610,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Are you aware that clefs aren't notes?</b> Yes.</p>
 
-<p><b>Provoke Terror (X, top) - If I don't push an enemy, are they still stunned?<b> No; the stun is an added effect on the push, so each enemy must be pushed at least 1 hex in order to be stunned.</p>
+<p><b>Provoke Terror (X, top) - If I don't push an enemy, are they still stunned?</b> No; the stun is an added effect on the push, so each enemy must be pushed at least 1 hex in order to be stunned.</p>
 
 <p><b>Ode to the Gambler (3, top) - What happens if I draw a rolling Null (or Curse)?</b> A rolling null will always make an attack's final damage 0, unless you have a way to disregard or change it - like if you had Disadvantage for the attack.</p> 
 
