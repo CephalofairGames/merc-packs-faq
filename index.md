@@ -627,6 +627,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>A Moment's Peace (1, top) - Do I need line of sight to the enemy whose ability I am revealing?</b> No; "reveal" is not a targeted ability.</p>
 
+<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> They are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack).
+
 </details>
 <br>
 
@@ -639,11 +641,15 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>What happens to an active Prescription if Saw exhausts?</b> Even though Prescriptions are in your allies' active areas, the card is still owned by you. If you exhaust, they will be lost.</p>
 
-<p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability.</p>
+<p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability. For Prep for Surgery (X, top), you would only add Stun if the enemy was damaged before the attack. And so on.</p>
 
 <p><b>Prep for Surgery (X, bot) - Can I improve attacks or moves before turning them into heals?</b> You must decide whether to convert a move or attack ability into a Heal before performing it; it cannot be improved except by effects that improve heals.</p>
 
+<p><b>Blood Transfusion (3, bot) - Can I use this on myself</b> Yes; it is not restricted to allies. You would get a Safeguard and one of your Medical Packs.</p>
+
 <p><b>Experimental Stimulants (4, top) - When do I evaluate if the target has an active Prescription? When I perform the ability, or when they would suffer damage?</b> This is evaluated when you play the ability. The damage negation effect works, even if they no longer have the Prescription when they would suffer their next damage.</p>
+
+<p><b>Do No Harm (4, top) - Am I disarmed until this persistent effect concludes?</b> No; the Disarm (self) is performed once, when the action is first played.</p>
 
 </details>
 <br>
@@ -655,6 +661,12 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Triangles Spoilers</b></summary>
 <br>
+<p><b>Magma Scales (1, top) - If Wind is consumed, who is doing the Disarm?</b> The Disarm is part of the Granted abilities. The ally you granted the Move to performs it.</p>
+
+<p><b>Malleable Evocation (1, bot) - What's the timing on this? Is this an infusion?</b> The Waning to Strong is done immediately when the ability is played. This is not an infusion.</p>
+
+<p><b>Pulsing Cores (1, bot) - What does this do?<b> This persistent cycles through the three element pairs twice. This turn, you infuse fire or ice at the end of your turn. Next turn, it's wind or earth. The one after that, it's light or dark. The cycle then repeats.</p>
+
 <p><b>Duskstorm (6, top) - Can I just use this to buff my allies without attacking?</b> No; any abilities referring to red hexes of an attack ability require the attack ability to have been performed.</p>
 
 <p><b>Elemental Juggernaut (7, top) - Can this summon still attack if there are zero strong or waning elements?</b> Yes; Attack 0 is still an attack.  <b>Does it get the element bonuses to Granted attacks?</b> Yes.</p>
@@ -670,7 +682,17 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>Who does 'you' refer to on a Command action?</b> Everything on a Command action is written from the Bear's perspective. 'You' refers to the Bear.</p>
 
-<p><b>Concentrated Rage (1, bot)</b> If the Bear attacks an enemy with Retaliate, do I add one token or two?</p> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.</p>
+<p><b>Concentrated Rage (1, bot) If the Bear attacks an enemy with Retaliate, do I add one token or two?</b> Two, if the Bear is damaged from the Retaliate. One for the attack, and one more if the Bear suffers Retaliate damage.</p>
+
+<p><b>Disorienting Roar (1, bot)</b> - Note that this Move 3 Jump triggers on attacks, not attack abilities. It cannot change the red hex pattern of an attack ability like Forceful Swipe (X, top) once the first attack is made, and the bear would need to remain in the grey hex. It could, however, add more potential targets for any Target 2+ attack abilities.</p>
+
+<p><b>Invocation of Spirit (X, top)</b> Who is performing these attacks? How does this interact with Retaliate?</b> This is the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses will be based on the bear's location. The vermling does not need line of sight for these attacks; only the bear does. Retaliate, however, is based on the vermling's *actual* position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
+
+<p><b>Unbreakable Bond (8, top)</b> Are both of these attack abilities performed from the bear's position or just the first? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack; only the bear does. Retaliate for both attacks is based on the vermling's *actual* position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
+
+<p><b>Unbreakable Bond (8, bot)</b> Do I still need to play cards over the next three turns? What does it mean that the bear is taking two turns?</b> You will not play any cards during card selection, or do anything that happens on your turn. Your wounds will not cause damage, and your 'end of turn' conditions will not expire. The bear, on the other hand, is taking two full turns. Conditions such as Disarm and Muddle would end at the end of their first turn; they would not have these for their second turn. Wound would also do damage twice to them - once per turn taken. Any other persistent abilities you have out will function as normal, but will not move their use slots.</p>
+
+<p><b>Jaws of Death (9, top)</b> Do I just repeat the attack ability, or does the bear also get to move again?</b> You are repeating the entire *action* - that is, the entire card half. There is no limit to the number of times you can repeat this action, as long as every attack is killing an enemy. (Note that objectives are destroyed, rather than killed.)</p>
 
 </details>
 <br>
@@ -683,7 +705,18 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <summary><b>Crossed Swords Spoilers</b></summary>
 <br>
+
+<p><b>Putrid Grubs (3, top) - Is the attack penalty cumulative?</b> Yes; if all three Bloat Maggots are adjacent to a single enemy, that enemy will have -3 to all of its attacks.</p>
+
+<p><b>Bioluminescence (5, bot) - Is the attack bonus cumulative? Can it apply to the other moth?</b> Yes to both.</p>
+
+<p><b>Fury of the Horde (7, top) - Is this referring to Crossed Swords' allies or to the Rage Hornets' allies?</b> It is referring to the hornets' allies. The Crossed Swords itself would qualify for this bonus.
+
 <p><b>How many hand slot items can I bring into a scenario if I take the Armed and Dangerous perk?</b> It's "additional" - you can bring four more hands' worth of items in addition to your normal two.</p>
+
+<p><b>Do I need line of sight to the summon I'm swapping with for my Disperse and Coalesce perk?</b> Yes; any time you're teleporting another figure, it follows the rules for forced movement, and is therefore targeted. As an additional note, you cannot swap with a flying summon that's occupying an obstacle hex you could not, yourself, occupy - teleporting requires valid destination hexes.</p>
+
+<p><b>Can I just start with my second Mastery already checked?</b> It's up to you - but do you *really* think you deserve it?</p>
 
 </details>
 <br>
