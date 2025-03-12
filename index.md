@@ -529,6 +529,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Interplanar Mastery (8, bot) - If Dark is consumed, will this affect enemies adjacent to me, or enemies adjacent to the teleported summon?</b> It will affect enemies adjacent to the summon; this is part of the granted abilities, and not a new ability.</p>
 
+<p><b>How should I read the second Mastery about six different Summon abilities?</b> In the first round of six different scenarios, you should perform a summon ability you didn't use in the first round of the other five. The six scenarios do not need to be consecutive.</p>
+
 </details>
 <br>
 
@@ -582,7 +584,15 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Lightning Bolts Spoilers</b></summary>
 <br>
-<p><b>A general note on hit point conditional bonuses: </b> Your current hit points are always evaluated before performing an ability, or before suffering any damage. For example, for Numb the Pain (top), your hp are evaluated before you suffer any damage for the damage reduction ability.</p>
+<p><b>A general note on hit point conditional bonuses: </b> Your current hit points are always evaluated before performing an ability, or before suffering any damage. For example, for Numb the Pain (1, top), your hp are evaluated before you suffer any damage for the damage reduction ability. Note that some actions, like Seeing Red (5, top) put an ability divider after self-damage. Anything following the self-damage will refer to your new HP value.</p>
+
+<p><b>Is half my maximum hit point value rounded up, or down?</b> While you should normally have an even number of hit points, if it doesn't specify, don't round it in either direction.</p>
+
+<p><b>Flurry of Axes (6, top) - Can I use range-increasing items on this action?</b> No; this is not a ranged attack, and has no range value.</p>
+
+<p><b>For my Just a Scratch (2-check) perk, does this Attack 2 need to be at melee?<b> No; it can target the attacker, even at range. It is still considered a melee attack.</p>
+
+<p><b>Can you explain Taunt, the three-check perk? Can I skip certain enemies when I use it?</b> The perk makes sure your Retaliate actions can only rarely be wasted, by forcing enemies you're adjacent to, to make Attack +0 (that is, a melee attack at their default attack value), targeting you. As with all instances of targeting "all", you can choose to target less than "all" enemies.</p>
 
 </details>
 <br>
@@ -645,8 +655,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Triangles Spoilers</b></summary>
 <br>
-<p><b>Placeholder</b> placeholder answer.</p>
+<p><b>Duskstorm (6, top) - Can I just use this to buff my allies without attacking?</b> No; any abilities referring to red hexes of an attack ability require the attack ability to have been performed.</p>
 
+<p><b>Elemental Juggernaut (7, top) - Can this summon still attack if there are zero strong or waning elements?</b> Yes; Attack 0 is still an attack.  <b>Does it get the element bonuses to Granted attacks?</b> Yes.</p>
 </details>
 <br>
 
