@@ -590,7 +590,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Flurry of Axes (6, top) - Can I use range-increasing items on this action?</b> No; this is not a ranged attack, and has no range value.</p>
 
-<p><b>For my Just a Scratch (2-check) perk, does this Attack 2 need to be at melee?<b> No; it can target the attacker, even at range. It is still considered a melee attack.</p>
+<p><b>For my Just a Scratch (2-check) perk, does this Attack 2 need to be at melee?</b> No; it can target the attacker, even at range. It is still considered a melee attack.</p>
 
 <p><b>Can you explain Taunt, the three-check perk? Can I skip certain enemies when I use it?</b> The perk makes sure your Retaliate actions can only rarely be wasted, by forcing enemies you're adjacent to, to make Attack +0 (that is, a melee attack at their default attack value), targeting you. As with all instances of targeting "all", you can choose to target less than "all" enemies.</p>
 
