@@ -686,13 +686,13 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Disorienting Roar (1, bot)</b> - Note that this Move 3 Jump triggers on attacks, not attack abilities. It cannot change the red hex pattern of an attack ability like Forceful Swipe (X, top) once the first attack is made, and the bear would need to remain in the grey hex. It could, however, add more potential targets for any Target 2+ attack abilities.</p>
 
-<p><b>Invocation of Spirit (X, top)</b> Who is performing these attacks? How does this interact with Retaliate?</b> This is the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses will be based on the bear's location. The vermling does not need line of sight for these attacks; only the bear does. Retaliate, however, is based on the vermling's *actual* position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
+<p><b>Invocation of Spirit (X, top)</b> Who is performing these attacks? How does this interact with Retaliate?</b> This is the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses will be based on the bear's location. The vermling does not need line of sight for these attacks; only the bear does. Retaliate, however, is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
 
-<p><b>Unbreakable Bond (8, top) Are both of these attack abilities performed from the bear's position or just the first? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack; only the bear does. Retaliate for both attacks is based on the vermling's *actual* position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
+<p><b>Unbreakable Bond (8, top) Are both of these attack abilities performed from the bear's position or just the first? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack; only the bear does. Retaliate for both attacks is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
 
 <p><b>Unbreakable Bond (8, bot) Do I still need to play cards over the next three turns? What does it mean that the bear is taking two turns?</b> You will not play any cards during card selection, or do anything that happens on your turn. Your wounds will not cause damage, and your 'end of turn' conditions will not expire. The bear, on the other hand, is taking two full turns. Conditions such as Disarm and Muddle would end at the end of their first turn; they would not have these for their second turn. Wound would also do damage twice to them - once per turn taken. Any other persistent abilities you have out will function as normal, but will not move their use slots.</p>
 
-<p><b>Jaws of Death (9, top) Do I just repeat the attack ability, or does the bear also get to move again?</b> You are repeating the entire *action* - that is, the entire card half. There is no limit to the number of times you can repeat this action, as long as every attack is killing an enemy. (Note that objectives are destroyed, rather than killed.)</p>
+<p><b>Jaws of Death (9, top) Do I just repeat the attack ability, or does the bear also get to move again?</b> You are repeating the entire <i>action</i> - that is, the entire card half. There is no limit to the number of times you can repeat this action, as long as every attack is killing an enemy. (Note that objectives are destroyed, rather than killed.)</p>
 
 </details>
 <br>
@@ -716,7 +716,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Do I need line of sight to the summon I'm swapping with for my Disperse and Coalesce perk?</b> Yes; any time you're teleporting another figure, it follows the rules for forced movement, and is therefore targeted. As an additional note, you cannot swap with a flying summon that's occupying an obstacle hex you could not, yourself, occupy - teleporting requires valid destination hexes.</p>
 
-<p><b>Can I just start with my second Mastery already checked?</b> It's up to you - but do you *really* think you deserve it?</p>
+<p><b>Can I just start with my second Mastery already checked?</b> It's up to you - but do you <i>really</i> think you deserve it?</p>
 
 </details>
 <br>
@@ -726,7 +726,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
-**What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** When a character gains an item they cannot gain (for any reason), they must sell it immediately/
+**Reminder on mandatory vs. voluntary item usage** Any items which have a use slot track (for example, Hide Armor) must be used when their conditions are met. Likewise, any passive items (items that last all scenario) always function. All other items are voluntary to use, and can be used when you wish (as long as the item's timing allows it).
+
+**What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** When a character gains an item they cannot gain (for any reason), they must sell it immediately.
+
+**What happens if I own a Reputation-based item but no longer have the Reputation to qualify for it?** You keep it. If you sell it, however, you cannot buy it back unless your faction reputation goes back up.
 
 **I have an item (such as an Iron Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
@@ -745,6 +749,10 @@ Basically, if an item only makes sense if used within another ability or in reac
 ### <a name="page_91" class="page-number">9.1</a> Items (Specific)
 
 Items are listed by their item number.
+
+**Stamina Potion - Can this recover X cards as well?** Yes; X cards are Level 1 cards for all purposes.
+
+**Item 018** <span class="hidden"><b>Heavy Basinet - </b> Note that this does not allow you to prevent self-inflicted conditions; it's only those applied by enemies.</span>
 
 
 
