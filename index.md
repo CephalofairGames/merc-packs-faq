@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-03-07*
+*Last Updated 2025-03-12*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -162,7 +162,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
 
-**What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, deathwalker shadows, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
+**What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, letter reminder tokens, Tinkerer devices, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
 
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
@@ -186,7 +186,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ### <a name="page_52" class="page-number">5.2</a> Damage, Shield, and Ward
 
-**When I lose a card to avoid all damage, do I lose Ward?** Yes. Ward's and Brittle's effects are considered before the Damage Negation step.
+**When I lose a card to avoid all damage, do I lose Ward?** Yes. Ward's effects are considered before the Damage Negation step.
 
 **If I lose a card to avoid all damage, do I still need to mark use slots on defensive items like armor?** Yes, unless you can bring the damage to 0 by other means. The order of operations for taking damage means that mandatory items get used before you negate it by losing a card. 
 
@@ -210,7 +210,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **I Controlled an enemy to attack, but they drew a positive condition that would apply to them - like a Heal or Invisible Self. Who benefits from this? Can I decide not to allow it?** Anything like "Invisible Self" will apply to the enemy who drew the modifier card. You can decide whether or not any added effect is applied from their modifier draw, however.
 
-**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Banner Spear's "Add +1 for each ally adjacent to the target" modifier cards) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Iron Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
+**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Spellweaver's "+2 if drawn during a Lost action" card) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Iron Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
 
 No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage.
 
@@ -274,14 +274,14 @@ Examples:
 
 **Is my Long Rest at Initiative 99, or is it always last in order?** Your Long Rest takes place at Initiative 99. It is not necessarily last in order; if a game effect pushes a figure's initiative above 99, it will act after your long rest. Your long rest will be performed before monster turns on Initiative 99, and is ambiguously timed with other players acting at 99. *This is a change from the Gloomhaven 1e FAQ*
 
-**What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate abilities (example: Geminate's "Harvest the Essence"). Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn. Some other effects, like a Geminate's form change, can also take place during this step, but no Abilities can be performed.
+**What does "end of turn" mean? If I have a persistent ability that lets me do things at the "end of my turn," how is that timed relative to elemental infusion, or losing a Stun?** While all of these say "end of turn," they're not all timed equally. There is an "end of player turn" phase of sorts, where players can still perform appropriate "end of turn" abilities. Then, once all abilities are complete, there's an "end of turn wrap-up," during which (1) infused elements are moved to Strong, (2) "end of turn" conditions expire, and (3) a character performs end of turn looting. These three wrap-up steps are ambiguously timed with one another, and can only start once a player formally concludes their turn.
 
 **Granted Attacks - Is there a difference between a Commanded or Granted Attack +X and Attack X?** Yes; see below.
 - Both Attack +X and Attack X will inherit all special attack modifiers for a monster or character summon. This includes extra targets, added conditions, attack patterns, etc.
 - Attack X is always a melee attack at the value provided. It can be granted to a non-objective figure that does not have an inherent Attack value.
 - Attack +X depends on the monster's or summon's inherent attack value. For monsters, this attack is always melee. For a Summon, however, *it will inherit any Range characteristic the Summon always has (if any)*.
 
-**I have a Grant ability with an elemental consumption, for example [Boneshaper's Level 1 Dark Tidings](https://github.com/any2cards/frosthaven/blob/master/images/character-ability-cards/frosthaven/BO/fh-dark-tidings.png?raw=true). Who consumes this element? The Boneshaper or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption.
+**I have a Grant (or Control) ability with an elemental consumption. Who consumes this element? The Granter or the target of the Grant?** The granting figure performs any elemental consumptions, and gains earned XP from it (if any). If one Grant ability grants abilities to more than one target, all of them will benefit from one elemental consumption. The target of the Grant still performs any granted abilities like normal, including new abilities enabled by the elemental consumption. For example, Mindthief's Brain Leech (3, top) will add Wound to the controlled enemy's attack, if Ice is consumed. The Mindthief gets the XP from this consumption.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -291,7 +291,9 @@ Examples:
 
 **If a chest reward item has -1's, would I have to add them for the rest of the scenario?** You can choose not to equip it. If you do equip it and don't have a perk to ignore negative item effects, you'll have to add the -1's.
 
-**Do my summons drop coins when they are killed?** No. Only enemy monsters can drop coins. 
+**Do my summons drop coins when they are killed?** No. Only enemy monsters can drop coins.
+
+**Do enemy summons or spawns drop coins when they are killed?** Yes; this is a change from Gloomhaven 1e.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -341,7 +343,7 @@ Examples:
 
 ### <a name="page_59" class="page-number">5.9</a> Scenario Allies
 
-**I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for Banner Spear formations or anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
+**I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -587,6 +589,10 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>A general note on hit point conditional bonuses: </b> Your current hit points are always evaluated before performing an ability, or before suffering any damage. For example, for Numb the Pain (1, top), your hp are evaluated before you suffer any damage for the damage reduction ability. Note that some actions, like Seeing Red (5, top) put an ability divider after self-damage. Anything following the self-damage will refer to your new HP value.</p>
 
 <p><b>Is half my maximum hit point value rounded up, or down?</b> While you should normally have an even number of hit points, if it doesn't specify, don't round it in either direction.</p>
+
+<p><b>Defiance of Death (1, top), Strength in Agony (1, top), etc. - If I use an item to increase my number of targets, do I need to take extra damage?</b> No; just like with element consumption, the benefits for spending health will apply to all attacks made in the attack ability.</p>
+
+<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> No; it says "an" enemy. You can pick whichever enemy you wish.</p>
 
 <p><b>Flurry of Axes (6, top) - Can I use range-increasing items on this action?</b> No; this is not a ranged attack, and has no range value.</p>
 
