@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-03-12*
+*Last Updated 2025-03-20*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -421,6 +421,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **I have a question about Chimeric Formula (9, bot)...** It is impossible for this FAQ to encompass all the potential interactions with this card. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards.
 
+**For my Alchemical Duplication perk, can I share a potion that has already been consumed?** No; you must still have the potion available for your ally to use it.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### ![Spellweaver Icon](/assets/images/03_spellweaver.png) <a name="page_803" class="page-number">8.3</a> Spellweaver
@@ -592,7 +594,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Defiance of Death (1, top), Strength in Agony (1, top), etc. - If I use an item to increase my number of targets, do I need to take extra damage?</b> No; just like with element consumption, the benefits for spending health will apply to all attacks made in the attack ability.</p>
 
-<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> ????No; it says "an" enemy. You can pick whichever enemy you wish.????</p>
+<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> ????No; it says "an" enemy. You can pick whichever enemy you wish.???? </p>
 
 <p><b>Flurry of Axes (6, top) - Can I use range-increasing items on this action?</b> No; this is not a ranged attack, and has no range value.</p>
 
