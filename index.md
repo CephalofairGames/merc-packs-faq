@@ -592,7 +592,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Defiance of Death (1, top), Strength in Agony (1, top), etc. - If I use an item to increase my number of targets, do I need to take extra damage?</b> No; just like with element consumption, the benefits for spending health will apply to all attacks made in the attack ability.</p>
 
-<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> No; it says "an" enemy. You can pick whichever enemy you wish.</p>
+<p><b>Glass Hammer (X, top) - If I have a way to add targets to this attack, do I get more XP?</b> ????No; it says "an" enemy. You can pick whichever enemy you wish.????</p>
 
 <p><b>Flurry of Axes (6, top) - Can I use range-increasing items on this action?</b> No; this is not a ranged attack, and has no range value.</p>
 
