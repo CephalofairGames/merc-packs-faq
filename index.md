@@ -736,7 +736,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ## <a name="page_9" class="page-number">9.0</a> Items (General)
 
-**Reminder on mandatory vs. voluntary item usage** Any items which have a use slot track (for example, Hide Armor) must be used when their conditions are met. Likewise, any passive items (items that last all scenario) always function. All other items are voluntary to use, and can be used when you wish (as long as the item's timing allows it).
+**Reminder on mandatory vs. voluntary item usage** Any items which have a use slot track (for example, Hide Armor) *must* be used when their conditions are met. Likewise, any passive items (items that last all scenario) always function. All other items are voluntary to use.
 
 **What happens if I gain an item I can't gain? Say, because all copies of it are owned by other party members?** When a character gains an item they cannot gain (for any reason), they must sell it immediately.
 
