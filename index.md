@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-03-20*
+*Last Updated 2025-03-23*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -91,6 +91,8 @@ Most of these questions were asked by the community. If you have a question that
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
 
 **Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
+
+**Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
 
 ![divider](/assets/images/divider.png)
 
@@ -349,7 +351,7 @@ Examples:
 
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
 
-### Monster Names 
+### Placeholder 
 
 
 ![divider](/assets/images/divider.png)
@@ -383,7 +385,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
-
+**Scenario 90, Treasure Index 22** <span class="hidden">Both the Mountain Hammer and the Helm of the Mountain are numbered as 129. The Mountain Hammer should be numbered 130.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
