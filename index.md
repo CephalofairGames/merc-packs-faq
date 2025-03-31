@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-03-23*
+*Last Updated 2025-03-31*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -53,6 +53,7 @@
    1. <a href="#page_818">"Crossed Swords"</a>
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
+1. <a href="#page10">Changelog (beginning at v1.0)</a>
 
 ![divider](/assets/images/divider.png)
 
@@ -100,7 +101,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
-**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized in Frosthaven. Gloomhaven 2e uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven Second Edition, and these tiles aren't needed for any scenaarios.
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized in Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven Second Edition, and these tiles aren't needed for any scenaarios.
 
 **How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
@@ -289,7 +290,7 @@ Examples:
 
 ### <a name="page_56" class="page-number">5.6</a> Coin and Loot Questions
 
-**What happens if I run out coin tokens?** There are no more coins in the scenario. Coins in Gloomhaven 2e are intentionally component-limited.
+**What happens if I run out coin tokens?** There are no more coins in the scenario. Coins in Gloomhaven: Second Edition are intentionally component-limited.
 
 **If a chest reward item has -1's, would I have to add them for the rest of the scenario?** You can choose not to equip it. If you do equip it and don't have a perk to ignore negative item effects, you'll have to add the -1's.
 
@@ -351,7 +352,7 @@ Examples:
 
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
 
-### Placeholder 
+### This space is currently empty. 
 
 
 ![divider](/assets/images/divider.png)
@@ -571,7 +572,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Can I apply Plague to an enemy Objective?</b> Yes - Plague is not considered a condition.</p>
 
-<p><b>Do I need Line of Sight for a Plague ability?</b> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in GH2e, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)</p>
+<p><b>Do I need Line of Sight for a Plague ability?</b> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in Gloomhaven: Second Edition, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)</p>
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
 <p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
@@ -764,7 +765,13 @@ Items are listed by their item number.
 
 **Item 018** <span class="hidden"><b>Heavy Basinet - </b> Note that this does not allow you to prevent self-inflicted conditions; it's only those applied by enemies.</span>
 
+<br>
 
+![divider](/assets/images/divider.png)
+<br>
+## <a name="page_10" class="page-number">10.0</a> Changelog (from release, v1.0 onwards)
+
+2025-xx-xx - v1.0 initial public release
 
 
 <script>
