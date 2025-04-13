@@ -91,6 +91,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
 
+**Section 67.3 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
+
 **Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
@@ -130,6 +132,8 @@ Most of these questions were asked by the community. If you have a question that
 **If, during a City Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
+
+**Personal Quest 19, Martial Study** The conclusion section (67.3) mistakenly has the Bolt icon instead of the Angry Face icon. The Angry Face icon is correct.
 
 ![divider-narrow](/assets/images/divider2.png)
 
