@@ -53,7 +53,8 @@
    1. <a href="#page_818">"Crossed Swords"</a>
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
-1. <a href="#page10">Changelog (beginning at v1.0)</a>
+1. <a href="#page10">Compatibility Notes</a>
+1. <a href="#page11">Changelog (beginning at v1.0)</a>
 
 ![divider](/assets/images/divider.png)
 
@@ -492,7 +493,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <details>
 <summary><b>Sun Spoilers</b></summary>
-<br>
+
 <p>(Repeated from Section 5.2) <b>How does Shield interact with Ward?</b> Shield reduces damage before Ward is applied. If I have Shield 2 and Ward and take 6 damage, the damage is first reduced to 4 by Shield, then cut in half to 2 by Ward.</p>
 
 <p><b>Path of Glory (5, bot) - Can I Strengthen and Bless allies who are no longer in my Line of Sight after my Move?</b> No; the Strengthen, Bless is a separate ability performed after the Move is complete.</p>
@@ -775,7 +776,33 @@ Items are listed by their item number.
 
 ![divider](/assets/images/divider.png)
 <br>
-## <a name="page_10" class="page-number">10.0</a> Changelog (from release, v1.0 onwards)
+## <a name="page_10" class="page-number">10.0</a> Compatibility Notes
+
+### Frosthaven characters in Gloomhaven: Second Edition
+
+**Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
+
+###Gloomhaven: Second Edition characters in Frosthaven
+
+**Silent Knife** - Any mechanics referencing a money token (such as Flintlock 3, top, or your Makeshift Projectile perk) instead utilize Loot Tokens. If you put a Loot Token back on the map, return a loot card of your choice (except for the Random Item) to the Loot Deck and reshuffle. Any references to gold are unchanged.
+
+**Tinkerer** - It is impossible for this FAQ to cover all the strange situations or edge cases for Chimeric Formula.
+
+**Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
+
+**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions you give to them, because Prescriptions are still considered your abilities.</span>
+
+**Three Spears** - <span class="hidden">Items with a crafting cost instead of a gold cost are ineligible to be refreshed by your Supplies. If a potion exists in both Gloomhaven: Second Edition and in Frosthaven, you may elect to use its cost from that campaign at your discretion.</span>
+
+###Gloomhaven: Jaws of the Lion characters in other games
+
+**Demolitionist** - If you bring Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied.
+
+<br>
+
+![divider](/assets/images/divider.png)
+<br>
+## <a name="page_11" class="page-number">11.0</a> Changelog (from release, v1.0 onwards)
 
 2025-xx-xx - v1.0 initial public release
 
