@@ -500,7 +500,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Divine Intervention (6, top) - Is the damage I suffer capped by my ally's remaining hit points?</b> No; "would suffer" is not capped by a figure's remaining hit points.</p>
 
-<p><b>Scales of Justice (6, bot) - (1) Can I consume Light even if the attack would not normally consume Light? (2) Will the Null effect also apply to any Curses I draw?</b> (1) No - this only applies to attacks which you can already consume Light on. (2) Yes; this includes all Nulls, including Curses.
+<p><b>Scales of Justice (6, bot) - (1) Can I consume Light even if the attack would not normally consume Light? (2) Will the Null effect also apply to any Curses I draw?</b> (1) No - this only applies to attacks which you can already consume Light on. (2) Yes; this includes all Nulls, including Curses.</p>
 
 <p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1 and doesn't have any round bonuses or persistent effects.</p>
 
