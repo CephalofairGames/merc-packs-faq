@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
 
-*Last Updated 2025-04-15*
+*Last Updated 2025-05-03*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -778,13 +778,17 @@ Items are listed by their item number.
 <br>
 ## <a name="page_10" class="page-number">10.0</a> Compatibility Notes
 
-### Frosthaven characters in Gloomhaven: Second Edition
+### General Note
+
+If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except the random item) back in the loot deck, and then shuffle it.
+
+### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
 
 **Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
 
-###Gloomhaven: Second Edition characters in Frosthaven
+### Gloomhaven: Second Edition characters in Frosthaven
 
-**Silent Knife** - Any mechanics referencing a money token (such as Flintlock 3, top, or your Makeshift Projectile perk) instead utilize Loot Tokens. If you put a Loot Token back on the map, return a loot card of your choice (except for the Random Item) to the Loot Deck and reshuffle. Any references to gold are unchanged.
+**Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
 **Tinkerer** - It is impossible for this FAQ to cover all the strange situations or edge cases for Chimeric Formula.
 
@@ -794,9 +798,9 @@ Items are listed by their item number.
 
 **Three Spears** - <span class="hidden">Items with a crafting cost instead of a gold cost are ineligible to be refreshed by your Supplies. If a potion exists in both Gloomhaven: Second Edition and in Frosthaven, you may elect to use its cost from that campaign at your discretion.</span>
 
-###Gloomhaven: Jaws of the Lion characters in other games
+### Gloomhaven: Jaws of the Lion characters in other games
 
-**Demolitionist** - If you bring Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied.
+**Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied.
 
 <br>
 
