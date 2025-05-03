@@ -728,7 +728,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Bioluminescence (5, bot) - Is the attack bonus cumulative? Can it apply to the other moth?</b> Yes to both.</p>
 
-<p><b>Fury of the Horde (7, top) - Is this referring to Crossed Swords' allies or to the Rage Hornets' allies?</b> It is referring to the hornets' allies. The Crossed Swords itself would qualify for this bonus.
+<p><b>Fury of the Horde (7, top) - Is this referring to Crossed Swords' allies or to the Rage Hornets' allies?</b> It is referring to the hornets' allies. The Crossed Swords itself would qualify for this bonus.</p>
 
 <p><b>How many hand slot items can I bring into a scenario if I take the Armed and Dangerous perk?</b> It's "additional" - you can bring four more hands' worth of items in addition to your normal two.</p>
 
