@@ -53,7 +53,7 @@
    1. <a href="#page_818">"Crossed Swords"</a>
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
-1. <a href="#page10">Compatibility Notes</a>
+1. <a href="#page10">Compatibility Notes for Crossover Characters</a>
 1. <a href="#page11">Changelog (beginning at v1.0)</a>
 
 ![divider](/assets/images/divider.png)
@@ -776,15 +776,17 @@ Items are listed by their item number.
 
 ![divider](/assets/images/divider.png)
 <br>
-## <a name="page_10" class="page-number">10.0</a> Compatibility Notes
+## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
 
-### General Note
+### General Note - Loot vs Money Tokens
 
-If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except the random item) back in the loot deck, and then shuffle it.
+If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back in the loot deck, and then shuffle it.
 
 ![divider-narrow](/assets/images/divider2.png)
 
 ### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
+
+**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (0either city or road). Event cards that do not feature crossover outcomes are resolved normally.
 
 **Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
 
@@ -794,7 +796,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
-**Tinkerer** - It is impossible for this FAQ to cover all the strange situations or edge cases for Chimeric Formula.
+**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with this card, particularly when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
 
 **Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
 
@@ -805,6 +807,8 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 ![divider-narrow](/assets/images/divider2.png)
 
 ### Gloomhaven: Jaws of the Lion characters in other games
+
+Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven)
 
 **Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
 
