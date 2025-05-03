@@ -782,9 +782,13 @@ Items are listed by their item number.
 
 If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except the random item) back in the loot deck, and then shuffle it.
 
+![divider-narrow](/assets/images/divider2.png)
+
 ### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
 
 **Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### Gloomhaven: Second Edition characters in Frosthaven
 
@@ -797,6 +801,8 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 **Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions you give to them, because Prescriptions are still considered your abilities.</span>
 
 **Three Spears** - <span class="hidden">Items with a crafting cost instead of a gold cost are ineligible to be refreshed by your Supplies. If a potion exists in both Gloomhaven: Second Edition and in Frosthaven, you may elect to use its cost from that campaign at your discretion.</span>
+
+![divider-narrow](/assets/images/divider2.png)
 
 ### Gloomhaven: Jaws of the Lion characters in other games
 
