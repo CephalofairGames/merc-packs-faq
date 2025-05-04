@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="override-markdown-styles.css"/>
 
-# **OFFICIAL FAQ FOR GLOOMHAVEN SECOND EDITION**
+# **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
 *Last Updated 2025-05-03*
 
@@ -377,11 +377,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **What about a random scenario from the random dungeon deck? How do those fit in?** Random scenarios can be played in either Casual Mode or Campaign Mode; it is up to you. See above for the differences. Random scenarios do not require a Road Event.
 
-**If I lose a scenario but we choose to replay it, do I keep anything?** You keep all gold (including that gained from loot cards), anything gained from treasure chests, and XP earned from your action cards.
+**If I lose a scenario but we choose to replay it, do I keep anything?** You keep all gold, anything gained from treasure chests, and XP earned from your action cards.
 
 **Why are some scenario markers in grey and some in green?** All are considered to share the same marker, but there's only enough physical markers for the green ones. 
 
-**How much scenario information are we allowed to look at while trying to decide which one to go to next? Can I look at the loot tables, the monsters, etc. before picking in order to get PQ progress?** You can look at anything on the main page(s) of the scenario - including the loot deck, layout, complexity, monster list, presence of treasure tiles, etc. - but not any section links. 
+**How much scenario information are we allowed to look at while trying to decide which one to go to next? Can I look at the monsters, etc. before picking in order to get PQ progress?** You can look at anything on the main page(s) of the scenario - including layout, complexity, monster list, presence of treasure tiles, etc. - but not any section links. 
 
 **If there is a calculation, but no indication of the direction of rounding, what direction do you round?** Usually a calculation will tell you the intended direction of rounding. If it does not, assume it rounds up.
 
@@ -413,7 +413,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Defensive Tactics (5, top) - Does this replace my original Shield or Retaliate ability?** No, Defensive Tactics adds to the first Shield or Retaliate you gain each round. If you use Shield Bash (1, bot) while Defensive Tactics is active, you will gain a total of Shield 2, Retaliate 1.
 
-**Defensive Tactics (5, top) - Does this also apply when I gain Retaliate from a modifier card, or from a persistent effect like Warding Strength (1, bot)?** Yes, it adds to the first Shield or Retaliate you gain each round from your ability or attack modifier cards. A persistent effect is still on one of your cards.
+**Defensive Tactics (5, top) - Does this also apply when I gain Retaliate from a modifier card, or from a persistent effect like Warding Strength (1, bot)?** Yes, it adds to the first Shield or Retaliate you gain each round from your ability or attack modifier cards - but not items. A persistent effect is still on one of your cards.
 
 **Immovable Phalanx (6, bot) - Can I use an item like Boots to enhance my Move ability before turning it into an Attack ability?** No. You need to decide to use a Move ability as an Attack ability before performing the ability; you can't improve an ability you never performed. You can, however, use items which improve attacks once you do so.
 
@@ -453,7 +453,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 ### ![Silent Knife Icon](/assets/images/04_silent_knife.png) <a name="page_804" class="page-number">8.4</a> Silent Knife
 
-**Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, you can occupy the hex with a trap, and it would not spring unless you exited and re-entered the trapped hex.
+**Practiced Reflexes (1, bot) - Can I end this move ability on a trap?** Yes. Traps are sprung when you enter the hex. Because you didn't spring it then, it will not spring unless you exit and re-enter the trapped hex.
 
 **Hired Help (9, top) - If I duplicate a monster who can Summon, such as a Cultist or an Ooze, do I also control their summons?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them).
 
@@ -471,7 +471,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Mud Eruption (2, top) - Can I create an obstacle tile in the same hex as a flying enemy, if I did not push them?** No; obstacles may not be placed in occupied hexes.
 
-**Sentient Growth (2, top) - Can I use this just to heal allies without attacking?** No; a red hex attack ability must be performed, in order to perform any subsequent abilities referencing the pattern.
+**Sentient Growth (2, top) - Can I use this just to heal allies without attacking?** No; a red hex attack ability must be performed, in order to perform any subsequent abilities referencing the attack pattern.
 
 **Brutal Momentum (7, bot) - Do I get both the Move 3 and the attack bonus at the start of my next four turns, or just the move?** You get both at the start of your next four turns.
 
@@ -502,7 +502,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Scales of Justice (6, bot) - (1) Can I consume Light even if the attack would not normally consume Light? (2) Will the Null effect also apply to any Curses I draw?</b> (1) No - this only applies to attacks which you can already consume Light on. (2) Yes; this includes all Nulls, including Curses.</p>
 
-<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1 and doesn't have any round bonuses or persistent effects.</p>
+<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1/X and doesn't have any round bonuses or persistent effects.</p>
 
 <p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
 <span class="hidden"><p><b>Divine Intervention (6, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</p></span>
@@ -531,7 +531,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Circles Spoilers</b></summary>
 <br>
-<p><b>Living Night (1, top) - If one of my Shadow Wolves is killed by an Area of Effect or multi-target effect, would the second become invisible immediately?</b> Yes; remember that all targeting in Gloomhaven is sequential. The first Wolf dies, and the second one would gain Invisible before the next target is chosen.</p>
+<p><b>Living Night (1, top) - If one of my Shadow Wolves is killed by an Area of Effect or multi-target attack or effect, would the second become invisible immediately?</b> Yes; remember that all targeting in Gloomhaven is sequential. The first Wolf dies, and the second one would gain Invisible before the next target is chosen.</p>
 
 <p><b>Wild Animation (1, bot) - Does my Thorn Shooter rush into melee range, because it has no attack?</b> No; see the character board rules for your Summons. It will focus as a normal ranged attack, ignoring disadvantage, and ignoring enemies who already have the condition. <b>This holds for all similar summons, such as the Rift Spirit</b></p>
 
@@ -600,7 +600,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>A general note on hit point conditional bonuses: </b> Your current hit points are always evaluated before performing an ability, or before suffering any damage. For example, for Numb the Pain (1, top), your hp are evaluated before you suffer any damage for the damage reduction ability. Note that some actions, like Seeing Red (5, top) put an ability divider after self-damage. Anything following the self-damage will refer to your new HP value.</p>
 
-<p><b>Is half my maximum hit point value rounded up, or down?</b> While you should normally have an even number of hit points, if it doesn't specify, don't round it in either direction.</p>
+<p><b>Is half my maximum hit point value rounded up, or down?</b> While you should normally have an even number of maximum hit points, if it doesn't specify, don't round it in either direction.</p>
 
 <p><b>Defiance of Death (1, top), Strength in Agony (1, top), etc. - If I use an item to increase my number of targets, do I need to take extra damage?</b> No; just like with element consumption, the benefits for spending health will apply to all attacks made in the attack ability.</p>
 
@@ -661,7 +661,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability. For Prep for Surgery (X, top), you would only add Stun if the enemy was damaged before the attack. And so on.</p>
 
-<p><b>Prep for Surgery (X, bot) - Can I improve attacks or moves before turning them into heals?</b> You must decide whether to convert a move or attack ability into a Heal before performing it; it cannot be improved except by effects that improve heals.</p>
+<p><b>Prep for Surgery (X, bot) - Can I improve attacks or moves before turning them into heals?</b> You must decide whether to convert a move or attack ability into a heal ability before performing it; it cannot be improved except by effects that improve heals.</p>
 
 <p><b>Blood Transfusion (3, bot) - Can I use this on myself</b> Yes; it is not restricted to allies. You would get a Safeguard and one of your Medical Packs.</p>
 
@@ -687,7 +687,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Duskstorm (6, top) - Can I just use this to buff my allies without attacking?</b> No; any abilities referring to red hexes of an attack ability require the attack ability to have been performed.</p>
 
-<p><b>Elemental Juggernaut (7, top) - Can this summon still attack if there are zero strong or waning elements?</b> Yes; Attack 0 is still an attack.  <b>Does it get the element bonuses to Granted attacks?</b> Yes.</p>
+<p><b>Elemental Juggernaut (7, top) - Can this summon still attack if there are zero strong or waning elements?</b> Yes; Attack 0 is still an attack. <b>Does it get the element bonuses to Granted attacks?</b> Yes.</p>
 </details>
 <br>
 
@@ -706,7 +706,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Invocation of Spirit (X, top)</b> Who is performing these attacks? How does this interact with Retaliate?</b> This is the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses will be based on the bear's location. The vermling does not need line of sight for these attacks; only the bear does. Retaliate, however, is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
 
-<p><b>Unbreakable Bond (8, top) Are both of these attack abilities performed from the bear's position or just the first? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack; only the bear does. Retaliate for both attacks is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
+<p><b>Unbreakable Bond (8, top) Are both of these attack abilities performed from the bear's position or just the second one? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack ability; only the bear does. Retaliate for both attacks is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
 
 <p><b>Unbreakable Bond (8, bot) Do I still need to play cards over the next three turns? What does it mean that the bear is taking two turns?</b> You will not play any cards during card selection, or do anything that happens on your turn. Your wounds will not cause damage, and your 'end of turn' conditions will not expire. The bear, on the other hand, is taking two full turns. Conditions such as Disarm and Muddle would end at the end of their first turn; they would not have these for their second turn. Wound would also do damage twice to them - once per turn taken. Any other persistent abilities you have out will function as normal, but will not move their use slots.</p>
 
@@ -768,7 +768,7 @@ Basically, if an item only makes sense if used within another ability or in reac
 
 Items are listed by their item number.
 
-**Stamina Potion - Can this recover X cards as well?** Yes; X cards are Level 1 cards for all purposes.
+**Item 012 Stamina Potion - Can this recover X cards as well?** Yes; X cards are Level 1 cards for all purposes.
 
 **Item 018** <span class="hidden"><b>Heavy Basinet - </b> Note that this does not allow you to prevent self-inflicted conditions; it's only those applied by enemies.</span>
 
@@ -796,7 +796,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
-**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with this card, particularly when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
+**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with this card, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
 
 **Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
 
