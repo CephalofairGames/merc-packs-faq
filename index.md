@@ -53,20 +53,20 @@
    1. <a href="#page_818">"Crossed Swords"</a>
 1. <a href="#page_9">Items (General)</a>
    1. <a href="#page_91">Items (Specific)</a>
-1. <a href="#page10">Compatibility Notes for Crossover Characters</a>
-1. <a href="#page11">Changelog (beginning at v1.0)</a>
+1. <a href="#page_10">Compatibility Notes for Crossover Characters</a>
+1. <a href="#page_11">Changelog (beginning at v1.0)</a>
 
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_0" class="page-number">0.0</a> Introduction
 
-This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. I may end up changing some headings, adding subheadings, moving questions to more appropriate areas, etc. Please use your in-browser Find function, or the Table of Contents (above) to locate answers to specific questions. 
+This is the official FAQ for Gloomhaven Second Edition. It will be continuously updated as more questions are added and existing answers are clarified. Please use the table of contents, above, or your in-browser Find function to locate answers to specific questions. Note that the Find function may find words under spoiler blocks or spoiler tags. 
 
 ![divider](/assets/images/divider2.png)
 
 ### 0.1 Spoilers
 
-I follow official spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please note that your in-browser Find function can also find words behind spoiler tags on this page.
+I follow standard spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, event number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please also note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 ![divider](/assets/images/divider2.png)
 
