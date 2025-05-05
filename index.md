@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-03*
+*Last Updated 2025-05-05*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -65,7 +65,7 @@ This is the official FAQ for Gloomhaven Second Edition. It will be continuously 
 
 ### 0.1 Spoilers
 
-I follow standard spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, event number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-11, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please also note that your in-browser Find function can also find words behind spoiler tags on this page.
+I follow standard spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, event number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-11, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please also note that your in-browser Find function can also find words behind spoiler tags on this page. Note that the existence of the Crossed Swords class is not a spoiler for Gloomhaven: Second Edition.
 
 ![divider](/assets/images/divider2.png)
 
@@ -138,7 +138,7 @@ Most of these questions were asked by the community. If you have a question that
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_33" class="page-number">3.3</a> Events and Traits
-**Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. 
+**Is my Ancestry another trait?** Effectively, yes, your Ancestry (quatryl, human, etc.) can operate as an additional Trait for your character. It operates like all other Traits on your character board. Additionally, if you are using certain classes with Frosthaven ancestries, there may be some unlisted 'crossover outcomes.' Please reference <a href="#page_10">10.0 Compatibility Notes for Crossover Characters</a> for more details, or the rulebook on pg 57.
 
 **If our City Event gives us a negative (or positive) condition in our next scenario, would a new character who came in during that City Phase's Downtime be subject to it?** No. If a character was not present for a City Event, they don't suffer its negative or benefit from its positive effects.
 
@@ -785,7 +785,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 ### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
 
-**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (0either city or road). Event cards that do not feature crossover outcomes are resolved normally.
+**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
 
 **Drifter** - Your perk to exchange Loot Cards has no function in games without a Loot Deck.
 
@@ -795,11 +795,11 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
 
-**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with this card, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
+**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with Chimeric Formula, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
 
 **Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
 
-**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions you give to them, because Prescriptions are still considered your abilities.</span>
+**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw give to them, because Prescriptions are still considered Saw's abilities.</span>
 
 **Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost.</span>
 
@@ -807,7 +807,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 ### Gloomhaven: Jaws of the Lion characters in other games
 
-Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven)
+Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, will work for Gloomhaven: Second Edition as well.
 
 **Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
 
@@ -816,6 +816,8 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 ![divider](/assets/images/divider.png)
 <br>
 ## <a name="page_11" class="page-number">11.0</a> Changelog (from release, v1.0 onwards)
+
+Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
 2025-xx-xx - v1.0 initial public release
 
