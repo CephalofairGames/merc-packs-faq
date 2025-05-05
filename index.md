@@ -13,20 +13,17 @@
    1. <a href="#page_32">Personal Quests</a>
    1. <a href="#page_33">Events and Traits</a>
 1. <a href="#page_4">City General Questions</a>
-   1. <a href="#page_41">Specific Building Questions</a>
-   1. <a href="#page_42">Enhancements</a>
-   1. <a href="#page_43">Building 81 Questions</a>
+   1. <a href="#page_41">Enhancements</a>
 1. <a href="#page_5">General Gameplay Questions (Scenarios)</a>
    1. <a href="#page_51">Rooms, Movement, Forced Movement, and Overlays</a>
-   1. <a href="#page_52">Damage, Shield, Ward, and Brittle</a>
+   1. <a href="#page_52">Damage, Shield, and Ward</a>
    1. <a href="#page_53">Attack Modifier Draws, Advantage, and Disadvantage</a>
    1. <a href="#page_54">Conditions</a>
    1. <a href="#page_55">General Player Ability Questions and Clarifications</a>
-   1. <a href="#page_56">Loot Deck Questions</a>
+   1. <a href="#page_56">Coin and Loot Questions</a>
    1. <a href="#page_57">Objectives</a>
    1. <a href="#page_58">Monster Focus, Abilities, and Stats</a>
    1. <a href="#page_59">Scenario Allies</a>
-   1. <a href="#page_510">Challenges</a>
 1. <a href="#page_6">Monster Questions</a>
 1. <a href="#page_7">General Scenario Questions</a>
    1. <a href="#page_71">Specific Scenario Questions</a>
@@ -155,7 +152,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider-narrow](/assets/images/divider2.png)
 
-### <a name="page_42" class="page-number">4.2</a> Enhancements
+### <a name="page_41" class="page-number">4.1</a> Enhancements
 
 **Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven 1st Edition.
 
