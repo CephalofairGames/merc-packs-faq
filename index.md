@@ -780,7 +780,7 @@ Items are listed by their item number.
 
 ### General Note - Loot vs Money Tokens
 
-If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back in the loot deck, and then shuffle it.
+If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back to the top of the loot deck.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -802,7 +802,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions you give to them, because Prescriptions are still considered your abilities.</span>
 
-**Three Spears** - <span class="hidden">Items with a crafting cost instead of a gold cost are ineligible to be refreshed by your Supplies. If a potion exists in both Gloomhaven: Second Edition and in Frosthaven, you may elect to use its cost from that campaign at your discretion.</span>
+**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
