@@ -6,8 +6,7 @@
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
-1. <a href="#page_1">First Printing Production Errors and Typos</a>
-   1. <a href="#page_11">Second Printing Non-Errata Changes</a>
+1. <a href="#page_01">Errata</a>
 1. <a href="#page_2">Component and Setup Questions</a>
 1. <a href="#page_3">General Gameplay Questions (Outside Scenarios)</a>
    1. <a href="#page_31">Masteries</a>
@@ -66,7 +65,7 @@ This is the official FAQ for Gloomhaven Second Edition. It will be continuously 
 
 ### 0.1 Spoilers
 
-I follow standard spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, event number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-10, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please also note that your in-browser Find function can also find words behind spoiler tags on this page.
+I follow standard spoiler rules in this FAQ. I will spoiler-tag all locked content, and refer to locked game contents by their locked class nickname, envelope symbol, scenario number, event number, or item number. Note that all cards for starter classes (including higher level cards), scenarios 0-1, Personal Quests 01-11, starting items, and abilities/statistics for common monsters are not spoilers, and will not be treated as such. Please also note that your in-browser Find function can also find words behind spoiler tags on this page.
 
 ![divider](/assets/images/divider2.png)
 
@@ -86,9 +85,9 @@ Most of these questions were asked by the community. If you have a question that
 
 ![divider](/assets/images/divider.png)
 
-##  <a name="page_1" class="page-number">1.0</a> First Printing Production Errors and Typos
+##  <a name="page_01" class="page-number">1.0</a> Errata
 
-**Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
+**Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error, and you are not missing any sheets.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
 
@@ -104,7 +103,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
-**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized in Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven Second Edition, and these tiles aren't needed for any scenaarios.
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized, starting in Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenaarios.
 
 **How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
@@ -371,7 +370,7 @@ Examples:
 **I don’t understand the difference between Campaign and Casual mode. What does all this mean?** 
 Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for re-playing already played scenarios, but with zero game impacts.
 - Casual Mode: You get no coins, XP, quest progression, etc. You don’t draw any events, and there's no City Phase afterwards. It is really just playing the game to enjoy it, with zero campaign impact.
-- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn coins, XP, quest progress, and any unlooted treasure chests. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Gloomhaven. After the scenario, you will have a City Phase, where time will pass.
+- Campaign Mode: If you replay a scenario in Campaign Mode, you can earn coins, XP, quest progress, and any unlooted treasure chests. You won’t get the Scenario Rewards if you’ve already won the scenario. You may need to resolve a road event if you’re replaying a scenario outside of Gloomhaven. After the scenario, you will have a City Phase.
 
 **Can I replay a scenario to loot an unlooted treasure chest?** Yes, but it must be replayed in Campaign Mode. You would run the scenario just like you ran it the first time, except you do not receive any Scenario Rewards for completion. (Just the coins, chests, xp, etc.)
 
