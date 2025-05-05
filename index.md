@@ -174,7 +174,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
-**Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases. (For an example of a scenario with this kind of layout, see Scenario <span class="hidden">24</span>.) 
+**Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases.
 
 **If my move ability has Jump, can I decide not to Jump?** Yes, but it must be decided at the start of your move ability. You can't decide to start Jumping after you begin moving, or decide to stop Jumping before the formal end of the move ability. If another effect adds Jump for your move ability mid-move, you remain Jumping until the formal end of your move ability.
 
