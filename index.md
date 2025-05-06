@@ -154,7 +154,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ### <a name="page_41" class="page-number">4.1</a> Enhancements
 
-**Is there a limit on the number of enhancements a character can have?** No, there's no limit. This is a change from Gloomhaven 1st Edition.
+**Is there a limit on the number of enhancements a character can have?** No, there's no limit. *This is a change from Gloomhaven 1st Edition.*
 
 **If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven 1st Edition.*
 
@@ -166,7 +166,7 @@ Most of these questions were asked by the community. If you have a question that
 
 ### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
 
-**What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, letter reminder tokens, Tinkerer devices, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven.*
+**What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, letter reminder tokens, Tinkerer devices, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven 1st Edition.*
 
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
@@ -242,7 +242,7 @@ Examples:
 
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
 
-**Can I target a figure with a condition they're immune to?** Yes. It still won't put the condition on the figure, but this may be important for some effects. *This is a change from Gloomhaven 1e* 
+**Can I target a figure with a condition they're immune to?** Yes. It still won't put the condition on the figure, but this may be important for some effects. *This is a change from Gloomhaven 1st Edition* 
 
 **Can you explain how Curse is a negative condition? Are Curse cards in my modifier deck also negative conditions?** When you are targeted by a Curse ability, you only momentarily have the Curse condition. This is long enough for you to block it with an item or Safeguard, or for it to be blocked by a monster's Curse immunity. It's otherwise removed instantly when a Curse card is added to your remaining attack modifier deck. Once the Curse card is in an attack modifier deck, the Curse is no longer considered a negative condition.
 
@@ -299,7 +299,7 @@ Examples:
 
 **Do my summons drop coins when they are killed?** No. Only enemy monsters can drop coins.
 
-**Do enemy summons or spawns drop coins when they are killed?** Yes; this is a change from Gloomhaven 1e.
+**Do enemy summons or spawns drop coins when they are killed?** Yes. *This is a change from Gloomhaven 1st Edition.*
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -748,7 +748,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **I have an item (such as an Iron Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
-**Will my Spent item with use slots recover its uses if I Long Rest before all of the charges are expended?** Yes, Spent items recover all their use slots whenever they are recovered, whether as part of a long rest or an item recovery ability. A Lost item will not recover its charges on a long rest; it would only recover its charges when you use an ability that can recover Lost items. *This is a change from Gloomhaven 1e.*
+**Will my Spent item with use slots recover its uses if I Long Rest before all of the charges are expended?** Yes, Spent items recover all their use slots whenever they are recovered, whether as part of a long rest or an item recovery ability. A Lost item will not recover its charges on a long rest; it would only recover its charges when you use an ability that can recover Lost items. *This is a change from Gloomhaven 1st Edition.*
 
 **Can I use an item in the middle of my move or attack ability?** Only if it is not itself an ability, and it says something like "during your move ability." If an item allows you to perform another ability (like healing, damaging, destroying an obstacle, etc.), you need to finish your ability first. See below for a more detailed answer. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
@@ -796,7 +796,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 **Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
 
-**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw give to them, because Prescriptions are still considered Saw's abilities.</span>
+**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw gives to them, because Prescriptions are still considered Saw's abilities.</span>
 
 **Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost.</span>
 
