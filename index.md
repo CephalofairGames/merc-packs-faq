@@ -770,7 +770,7 @@ Items are listed by their item number.
 
 **Item 133** <span class="hidden"><b>Heart of the Betrayer - What does this item do?</b> Basically, instead of being attacked by the enemy, you can make them perform an Attack -1 on one of your other enemies. This can just be used to negate an attack, if that enemy is unable to make an attack, or if you don't want them to make an attack.</span>
 
-**Item 136** <span class="hidden"><b>Flea-Bitten Shawl<b> - Note that this item does not affect your summons. If there are multiple 'last in initiative order' effects in play, they are ambiguous with one another, and you can decide which is considered 'really last' when it's important.</span>
+**Item 136** <span class="hidden"><b>Flea-Bitten Shawl</b> - Note that this item does not affect your summons. If there are multiple 'last in initiative order' effects in play, they are ambiguous with one another, and you can decide which is considered 'really last' when it's important.</span>
 
 **Item 142** <span class="hidden"><b>Magma Waders - Do I take the damage from the hazardous terrain I create?</b> No; hazardous terrain damage is only taken when entering a hazardous terrain hex.</span>
 
