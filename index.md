@@ -810,7 +810,7 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 ### Gloomhaven: Jaws of the Lion characters in other games
 
-Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, will work for Gloomhaven: Second Edition as well.
+Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, but will work for Gloomhaven: Second Edition as well.
 
 **Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
 
@@ -822,7 +822,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-2025-xx-xx - v1.0 initial public release
+2025-05-05 - v1.0 initial public release
 
 
 <script>
