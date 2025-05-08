@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-06*
+*Last Updated 2025-05-08*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -14,6 +14,7 @@
    1. <a href="#page_33">Events and Traits</a>
 1. <a href="#page_4">City General Questions</a>
    1. <a href="#page_41">Enhancements</a>
+   1. <a href="#page_42">Imbuement (Spoiler)</a>
 1. <a href="#page_5">General Gameplay Questions (Scenarios)</a>
    1. <a href="#page_51">Rooms, Movement, Forced Movement, and Overlays</a>
    1. <a href="#page_52">Damage, Shield, and Ward</a>
@@ -159,6 +160,14 @@ Most of these questions were asked by the community. If you have a question that
 **If I am enhancing an ability that can only affect multiple targets when an element is consumed or some other condition is met, does it cost double to enhance?** Yes. If an ability has conditional multi-targets, it still costs double. *This is a change from Gloomhaven 1st Edition.*
 
 **My Summon has an inherent multi-target attack. Will enhancing its Range or Attack cost double the normal cost for a summon?** Yes.
+
+![divider-narrow](/assets/images/divider2.png)
+
+### <a name="page_42" class="page-number">4.2</a> Imbuement
+
+**What is imbuement?** It is a locked campaign mechanic. You will eventually unlock it. Until then, you do not need to worry about it.
+
+**Reward Section 133.2** <span class="hidden">Note that scenario xp rewards (that is, xp rewards noted in the gold "Rewards" box) are not doubled, and that "completed" means a successful scenario. This is not triggered (and therefore wasted) on a failed scenario.</span>
 
 ![divider](/assets/images/divider.png)
 
@@ -784,6 +793,10 @@ Items are listed by their item number.
 
 If a mechanic refers to loot tokens or money tokens, it can refer to either, based on what exists in the campaign. Any time you are supposed to return a Frosthaven loot token to a scenario, you must also place one of your loot cards (except for the random item) back to the top of the loot deck.
 
+### Objectives vs. Obstacles with Hit Points
+
+Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
@@ -822,7 +835,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-2025-05-05 - v1.0 initial public release
+2025-xx-xx - v1.0 initial public release
 
 
 <script>
