@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-08*
+*Last Updated 2025-05-12*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -85,9 +85,13 @@ Most of these questions were asked by the community. If you have a question that
 
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
-**Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error, and you are not missing any sheets.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
+**Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error, and this is not an indication that you are missing any punchboards.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
+
+**Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
+
+**Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
 **Section 67.3 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
@@ -397,6 +401,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
+
+**Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
 **Scenario 90, Treasure Index 22** <span class="hidden">Both the Mountain Hammer and the Helm of the Mountain are numbered as 129. The Mountain Hammer should be numbered 130.</span>
 
