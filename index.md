@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-12*
+*Last Updated 2025-05-25*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -656,6 +656,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <br>
 <p><b>A Moment's Peace (1, top) - Do I need line of sight to the enemy whose ability I am revealing?</b> No; "reveal" is not a targeted ability.</p>
 
+<p><b>Solid Bow (1, bot) - Would I need to be adjacent to the enemy to gain the heal?</b> No; it's "self" or "1 ally adjacent...".</p>
+
 <p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> They are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack).</p>
 
 </details>
@@ -841,7 +843,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-2025-xx-xx - v1.0 initial public release
+2025-05-25 - v1.0 initial public release
 
 
 <script>
