@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-25*
+*Last Updated 2025-05-27*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -252,6 +252,8 @@ Examples:
 **Note - Questions about Ward are answered in Section 5.2**
 
 **I have Safeguard, but will receive two curses from an incoming attack. How many does Safeguard block?** Just one. Everything is sequential in Gloomhaven, and the curses are timed one after the other.
+
+**Is it possible to double up on a negative condition when attacking an enemy with Safeguard, such that only one copy is blocked but the other goes through?** Only for Curse; Curse and Bless are the only "stackable" conditions. If you (for example) make an Attack 2 poison, and then Spend your Poison Dagger to add Poison again, the attack still only has one instance of the Poison condition. One Safeguard will still prevent the target from being Poisoned.
 
 **Does removing a summon with a negative condition count as removing a negative condition from it?** No.
 
