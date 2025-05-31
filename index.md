@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-27*
+*Last Updated 2025-05-31*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -568,11 +568,18 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Eclipse Spoilers</b></summary>
 <br>
+<p><b>What's the timing on removing a tear when I go through it?</b> A tear is removed immediately when you enter its hex. You do not lose Invisible until the end of your move (or teleport) ability.</p>
+
 <p><b>Can I place a Tear under my figure?</b> Yes, if it's allowed by the ability. You will not, however, lose Invisible, unless you exit that hex and re-enter it - you need to enter a hex with a Tear to do so.</p>
 
 <p><b>Can I use a Tear that's occupied by an enemy?</b> Yes, but you cannot end your movement in an occupied hex. Remember - you don't lose Invisible until the end of your Move ability.</p>
 
 <p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
+
+<p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
+
+<p><b>Prepare for the Kill (3, top)</b> (1) The 'whenever' clause just lets this card persist until it triggers. It is discarded when it triggers. (2) The tear is removed immediately when you enter its hex, so this will interrupt your movement to gain Strengthen and damage the adjacent enemies. You may continue the move afterwards.</p>
+
 
 </details>
 <br>
