@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-05-31*
+*Last Updated 2025-06-05*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -79,7 +79,9 @@ Most of these questions were asked by the community. If you have a question that
 
 - [/r/Gloomhaven](https://www.reddit.com/r/Gloomhaven/) - The Gloomhaven Subreddit is for both editions of Gloomhaven, Frosthaven, Jaws of the Lion, and the Gloomhaven RPG. Spoilers are strictly moderated. There is a pinned "Small Questions" thread, or you can start your own for bigger questions.
 - [BoardGameGeek Gloomhaven Second Edition Forums](https://boardgamegeek.com/boardgame/390478/gloomhaven-second-edition/forums/0) - Another active forum. Spoiler tags are appreciated, but are completely unmoderated.
-- [Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - Despite its name, the Frosthaven Outpost is for all Cephalofair games. The Outpost is very active, and a great place to get quick responses to questions for all Haven games. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [Gloomhaven Town/Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Town/Outpost is an unofficial Discord Server for all Cephalofair games. The Outpost is very active, and a great place to get quick responses to questions for all Haven games. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
+- [Gloomhaven Second Edition Puzzle Book Hint Guide](https://cephalofairgames.github.io/Gloomhaven-2e-Puzzle-Book-Hint-Guide/) - An official hint and solution guide for the Town Records/Puzzle Book for Gloomhaven: Second Edition.
+- [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq/) - The Frosthaven FAQ for that game. It's largely identical for mechanics.
 
 ![divider](/assets/images/divider.png)
 
@@ -496,6 +498,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Hostile Takeover (2, bot) - If this enemy is summoning this round, will the summoned creature be on our side?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). You can, though, choose not to have this enemy perform their summon ability.
 
+**Cranium Overload (3, top) - All of the attacks in this action are considered melee attacks. All the attacks require line of sight, as is standard for attacks.
+
 **If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
 
 **Does my "Lying Low" (last in initiative) perk also help my Summons?** No; this perk only applies to you, and does not actually change when you are acting in the round.
@@ -834,7 +838,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 **Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw gives to them, because Prescriptions are still considered Saw's abilities.</span>
 
-**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost. Note that you "Well-Connected" perk (involving faction items) has no function outside of Gloomhaven: Second Edition.</span>
+**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost. Note that your "Well-Connected" perk (involving faction items) has no function outside of Gloomhaven: Second Edition.</span>
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -852,7 +856,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-2025-05-25 - v1.0 initial public release
+2025-06-xx - v1.0 initial public release
 
 
 <script>
