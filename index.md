@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-05*
+*Last Updated 2025-06-14*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -856,7 +856,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-2025-06-xx - v1.0 initial public release
+2025-06-17 - v1.0 initial public release
 
 
 <script>
