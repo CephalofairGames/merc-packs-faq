@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-14*
+*Last Updated 2025-06-16*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -81,7 +81,7 @@ Most of these questions were asked by the community. If you have a question that
 - [BoardGameGeek Gloomhaven Second Edition Forums](https://boardgamegeek.com/boardgame/390478/gloomhaven-second-edition/forums/0) - Another active forum. Spoiler tags are appreciated, but are completely unmoderated.
 - [Gloomhaven Town/Frosthaven Outpost Discord Server](http://discord.gg/hPrwrm2) - The Town/Outpost is an unofficial Discord Server for all Cephalofair games. The Outpost is very active, and a great place to get quick responses to questions for all Haven games. Spoilers are well-moderated in general channels, and there are special opt-in open spoiler channels for locked classes or for the whole campaign.
 - [Gloomhaven Second Edition Puzzle Book Hint Guide](https://cephalofairgames.github.io/Gloomhaven-2e-Puzzle-Book-Hint-Guide/) - An official hint and solution guide for the Town Records/Puzzle Book for Gloomhaven: Second Edition.
-- [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq/) - The Frosthaven FAQ for that game. It's largely identical for mechanics.
+- [Frosthaven FAQ](https://cephalofairgames.github.io/frosthaven-faq/) - The Frosthaven FAQ for that game.
 
 ![divider](/assets/images/divider.png)
 
@@ -368,7 +368,7 @@ Examples:
 
 **I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
-![divider-narrow](/assets/images/divider2.png)
+![divider-narrow](/assets/images/divider.png)
 
 ## <a name="page_6" class="page-number">6.0</a> Monster Questions
 
@@ -534,9 +534,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Three Spears Spoilers</b></summary>
 <br>
-<p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with actual gold costs printed on the item card can be refreshed with Supplies.</p>
+<p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with gold costs printed on the item card can be refreshed with Supplies.</p>
 
-<p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
+<p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies, to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
 
 </details>
 <br>
@@ -606,9 +606,9 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Do I need Line of Sight for a Plague ability?</b> Sometimes. For an ability like Path of Pox (1, bot), you would not. Plague is not a condition, and applying it is not a targeted ability. You can perform standalone Plagues to targets out of line of sight, or even without targets at all. On the other hand, an action like Festering Sores (1, top) has both Wound and Plague - applying Wound is a Condition ability, and therefore the whole ability is targeted. (Note that in Gloomhaven: Second Edition, you can't pick and choose parts of an Ability to perform; you either perform all of it or none of it, per rulebook pg 35.)</p>
 
 <p><b>I have questions about the two check perk, Xorn's Propogation...</b></p> 
-<p>(1) Yes, you can control the monster, even if it has already acted in the round - or even if it dies during its own turn. This happens immediately, inserted into the turn order, and it always performs its full card.</p>
+<p>(1) Yes, you can control the monster even if it has already acted in the round - or if it died during its own turn. This happens immediately, inserted into the turn order, and the monster always performs its full card.</p>
 <p>(2) Its elemental interactions are completely separate from the other monsters of its kind. If the ability card has bonuses for elemental consumption, it can consume elements to improve it - and won't benefit from any previous elemental consumptions. It will repeat any elemental infusions, as well. If the element is wild, it can be different from the rest of the monster set. If it infuses elements during your turn, elements still won't be available until after the end of your turn, like normal.</p>
-<p>(3) The monster would still have any conditions it had; this happens before it actually dies, when it would lose those.</p>
+<p>(3) The monster still has any conditions it had; this controlled turn happens before it actually dies.</p>
 <p>(4) If the monster enters any traps or hazards while being controlled, it will remove any traps, and suffer any conditions from them, but can't take further damage.</p>
 <p>(5) If the monster dies during its own turn, it will still have its full ability card to use - and will start fresh on elemental interactions. It would need to consume its own element to gain any benefits, and would infuse its own when it's finished - even if it's acting in the middle of the rest of its monster set.</p>
 
@@ -634,7 +634,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>For my Just a Scratch (2-check) perk, does this Attack 2 need to be at melee?</b> No; it can target the attacker, even at range. It is still considered a melee attack.</p>
 
-<p><b>Can you explain Taunt, the three-check perk? Can I skip certain enemies when I use it?</b> The perk makes sure your Retaliate actions can only rarely be wasted, by forcing enemies you're adjacent to, to make Attack +0 (that is, a melee attack at their default attack value), targeting you. As with all instances of targeting "all", you can choose to target less than "all" enemies.</p>
+<p><b>Can you explain Taunt, the three-check perk? Can I skip certain enemies when I use it?</b> The perk is to ensure you get value out of your Retaliate abilities, no matter what monsters end up doing on their turns. You control your adjacent enemies to make an Attack +0 (that is, a melee attack at their default attack value), targeting you. As with all instances of targeting "all" enemies, you can choose to target less than "all" enemies. Remember that Objectives cannot be controlled.</p>
 
 </details>
 <br>
@@ -646,7 +646,11 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Music Note Spoilers</b></summary>
 <br>
-<p>A few quick reminders on core Note mechanics, that may be easily missed on the board. (1) You can only gain one Note per round from your Actions; some effects (like Increase Cadence, 1 bot) can exceed this. (2) Unlike elemental infusions, you gain Notes immediately when you perform an action with a Note. (3) When you play a Song action, you clear <i>all</i> your Notes, not just the ones that were needed for that specific Song; you can gain a Note with a subsequent action on the same turn, however. (4) All Songs move their use slot tokens at the end of every <i>round</i>, not the end of your turn.</p>
+<p>A few quick reminders on core Note mechanics from the character board that may be easily missed:</p>
+<p>(1) You can only gain <b>one Note per round</b> from your Actions; some effects (like Increase Cadence, 1 bot) can exceed this.</p>
+<p>(2) Unlike elemental infusions, you gain Notes immediately when you perform an action with a Note.</p>
+<p>(3) When you play a Song action, you clear <b>all</b> your Notes, not just the ones that were needed for that specific Song; you can still gain a Note with a subsequent action on the same turn, however.</p>
+<p>(4) All Songs move their use slot tokens at the end of every <i>round</i>, not at the end of your turn.</p>
 
 <p><b>A reminder on ambiguity:</b> A lot of your Songs will look for the "closest ally" or other comparisons that can easily be tied. As always, you can resolve this ambiguity however you wish.</p>
 
@@ -671,7 +675,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Solid Bow (1, bot) - Would I need to be adjacent to the enemy to gain the heal?</b> No; it's "self" or "1 ally adjacent...".</p>
 
-<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> They are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack).</p>
+<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> These attacks are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack).</p>
 
 </details>
 <br>
