@@ -310,7 +310,7 @@ Examples:
 
 ### <a name="page_56" class="page-number">5.6</a> Coin and Loot Questions
 
-**What happens if I run out coin tokens?** There are no more coins in the scenario. Coins in Gloomhaven: Second Edition are intentionally component-limited.
+**What happens if I run out coin tokens?** There are no more coins in the scenario. Coins in Gloomhaven: Second Edition are intentionally component-limited to 25 per scenario.
 
 **If a chest reward item has -1's, would I have to add them for the rest of the scenario?** You can choose not to equip it. If you do equip it and don't have a perk to ignore negative item effects, you'll have to add the -1's.
 
