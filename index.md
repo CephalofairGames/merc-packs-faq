@@ -107,7 +107,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
-**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes were standardized, starting in Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenaarios.
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes have been standardized, since Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
 
 **How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
@@ -229,14 +229,14 @@ Most of these questions were asked by the community. If you have a question that
 
 **I Controlled an enemy to attack, but they drew a positive condition that would apply to them - like a Heal or Invisible Self. Who benefits from this? Can I decide not to allow it?** Anything like "Invisible Self" will apply to the enemy who drew the modifier card. You can decide whether or not any added effect is applied from their modifier draw, however.
 
-**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Spellweaver's "+2 if drawn during a Lost action" card) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as the Iron Helm, that change the modifier card value, are also evaluated before a better/worse card is determined.
+**Can you go into more detail on what draws for Advantage or Disadvantage are considered "ambiguous"? What's considered better or worse when drawn by a monster?** When you're comparing two modifier cards for Advantage or Disadvantage, all non-numeric effects listed on the modifier card (negative conditions, shield, elements, healing, etc.) have a *positive but unknown* value. Conditional numeric bonuses based on the board state (like Spellweaver's "+2 if drawn during a Lost action" card) are evaluated and considered as part of the numeric value, where appropriate. The attack value is considered in cases where a x2 modifier is drawn. Items, such as Item 027 <span class="hidden">Iron Helm</span>, that change the modifier card value, are also evaluated before a better/worse card is determined.
 
-No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage.
+No other considerations for board state are included (such as an element already being strong, an enemy already being poisoned, a lack of extra targets, etc.) Rolling modifiers before the two terminal cards are also not considered; they are all included with either terminal card with Advantage, while all are discarded with Disadvantage. Note that even seemingly "negative" effects (like a self-condition or self-damage) are considered "positive" for ambiguity.
 
 Examples:
 - 2x and Attack 2 vs +2: Ambiguous (2 x 2 = 2 + 2)
 - 2x and Attack 2 vs +1: 2x is better (2 x 2 > 2 + 1)
-- 2x and Attack 2 vs +2 when the target has a Crude Helm: +2 is better (the x2 effect is changed into a +1, and 2 + 1 < 2 + 2)
+- 2x and Attack 2 vs +2 when the target has Item 027 <span class="hidden">Iron Helm: +2 is better (the x2 effect is changed into a +0, and 2 + 0 < 2 + 2)</span>
 - +1 Stun vs +1: +1 Stun is better (Stun has a positive but unknown value, so is always better than just +1)
 - +0 Stun vs +2: Ambiguous (Stun has a positive but unknown value, so it's impossible to determine if its value is better than a +2.)
 - +1 Stun vs +1 Fire: Ambiguous (The two added effects can't be compared to one another, and because both modifiers have different added effects, the numeric value doesn't matter.)
@@ -346,15 +346,15 @@ Examples:
 
 **If a monster is trying to make a multi-target attack this turn, but does not have enough movement to attack any targets, will it move towards its primary focus or towards a position to potentially maximize the attack?** It will move towards its primary focus.
 
-**How does a monster with a multi-target attack choose its destination hex and its additional targets? Do you use focus rules to determine targets other than the primary focus?** As long as a monster is (a) still attacking their primary focus, (b) avoiding additional negative hexes, (c) attacking as many additional targets as possible, (d) minimizing the amount of disadvantage, and (e) minimizing move distance (in that order), players can choose the final destination hex and secondary, tertiary, etc. targets. Unlike Gloomhaven, monsters do not use a focus process for finding additional targets, and players have a lot of latitude in choosing their additional targets. *This is a change from Gloomhaven 1st Edition*
+**How does a monster with a multi-target attack choose its destination hex and its additional targets? Do you use focus rules to determine targets other than the primary focus?** As long as a monster is (a) still attacking their primary focus, (b) avoiding additional negative hexes, (c) attacking as many additional targets as possible, (d) minimizing the amount of disadvantage, and (e) minimizing move distance (in that order), players can choose the final destination hex and secondary, tertiary, etc. targets. Monsters do not use a focus process for finding additional targets, and players have a lot of latitude in choosing their additional targets. *This is a change from Gloomhaven 1st Edition*
 
 **When a monster is attacking more than one target, what order are those attacks made in?** The actual order of attacks is ambiguous. Players can determine the attack order once all targets are determined. The primary focus does not need to be attacked first. If a target has a Retaliate value, it's possible to kill a monster before all its attacks are made. This applies to both Target X and red hex AoE attack abilities.
 
-**How does a monster move if it has a move but no attacks on its action card this turn?** It finds focus and moves as if it were making a melee attack, even if this takes it out of range for its non-attack abilities. 
+**How does a monster move if it has a move but no attacks on its monster ability card this turn?** It finds focus and moves as if it were making a melee attack, even if this takes it out of range for its non-attack abilities. 
 
-**How do monster Pushes and Pulls work? Can I choose a path which prevents them from pushing or pulling me less than the maximum amount?** A path must be chosen that pushes or pulls you the maximum amount possible, considering the whole path. You cannot, for example, choose a hex that would stop a push by a wall or obstacle if there’s another valid path which avoids it. If there is nearby Icy Terrain, monsters will consider its effect while trying to maximize their forced movement abilities. *This is a change from Gloomhaven 1st Edition.* 
+**How do monster Pushes and Pulls work? Can I choose a path which prevents them from pushing or pulling me less than the maximum amount?** A path must be chosen that pushes or pulls you the maximum amount possible, considering the whole path. You cannot, for example, choose a hex that would stop a push by a wall or obstacle if there’s another valid path which avoids it. *This is a change from Gloomhaven 1st Edition.* 
 
-**How do monster Infusions and Consumptions work?** Frosthaven works differently from Gloomhaven 1st Edition, here. If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. Note that some abilities - like "suffer damage" - are not targeted, and will be performed even if no enemies are in range.
+**How do monster Infusions and Consumptions work?** If there's an Infusion or Consumption on their ability card, those elements will be Infused or Consumed if **any** monster in the set performs **any** ability on it, even if that ability isn't modified by the elemental consumption. Note that some abilities - like "suffer damage" - are not targeted, and will be performed even if no enemies are in range.
 - Example 1 - Earth Demons' Nothing Special says "Move +0 Attack +0, Infuse Earth." If they can neither move nor attack this round, Earth will not be infused.
 - Example 2 - The Earth Demons' Ground Slam says, "Move -1, Attack -1 target all adjacent; consume earth to add Push 1". Even if no Earth Demons can attack, they will still consume the Earth as long as at least 1 of them moves, because they are still performing an ability on the card.
 
@@ -366,7 +366,7 @@ Examples:
 
 ### <a name="page_59" class="page-number">5.9</a> Scenario Allies
 
-**I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles, icy, and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
+**I have a Scenario Ally (or enemy) who "can't be interacted with." What does this mean?** A figure who "can't be interacted with" occupies their space. They can be moved through by allies, but not by enemies. They cannot be targeted by any attacks or abilities, cannot be damaged, and will never draw focus. They are affected normally by obstacles and difficult terrain - but do not treat traps or hazardous terrain as negative hexes. They do not spring traps and cannot be affected by them. They cannot be used for anything that counts allies or ally positioning except things explicitly called out in the scenario rules.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -392,7 +392,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **If I lose a scenario but we choose to replay it, do I keep anything?** You keep all gold, anything gained from treasure chests, and XP earned from your action cards.
 
-**Why are some scenario markers in grey and some in green?** All are considered to share the same marker, but there's only enough physical markers for the green ones. 
+**Why are some scenario markers in grey and some in green?** Gray markers either indicate information that's only needed on scenario setup, or markers that exceed the component limit. All are considered to share the same marker.
 
 **How much scenario information are we allowed to look at while trying to decide which one to go to next? Can I look at the monsters, etc. before picking in order to get PQ progress?** You can look at anything on the main page(s) of the scenario - including layout, complexity, monster list, presence of treasure tiles, etc. - but not any section links. 
 
@@ -776,7 +776,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **What happens if I own a Reputation-based item but no longer have the Reputation to qualify for it?** You keep it. If you sell it, however, you cannot buy it back unless your faction reputation goes back up.
 
-**I have an item (such as an Iron Helm) that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
+**I have an item that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
 **Will my Spent item with use slots recover its uses if I Long Rest before all of the charges are expended?** Yes, Spent items recover all their use slots whenever they are recovered, whether as part of a long rest or an item recovery ability. A Lost item will not recover its charges on a long rest; it would only recover its charges when you use an ability that can recover Lost items. *This is a change from Gloomhaven 1st Edition.*
 
