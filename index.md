@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-16*
+*Last Updated 2025-06-17*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -87,8 +87,6 @@ Most of these questions were asked by the community. If you have a question that
 
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
-**Note - Room Tiles 8 and 14 are intentionally missing. This is not a production error, and this is not an indication that you are missing any punchboards.** See <a href="#page_2">Component and Setup Questions</a> for more details. 
-
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
@@ -107,11 +105,11 @@ Most of these questions were asked by the community. If you have a question that
 
 **General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
-**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes have been standardized, since Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes have been standardized since Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
 
 **How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
-**How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled in the Available deck. The remainder will become available, later, or used for Inspiration retirements.
+**How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled to create the Available deck. The remainder will become available later, or used for Inspiration retirements.
 
 ![divider](/assets/images/divider.png)
 
@@ -153,7 +151,11 @@ Most of these questions were asked by the community. If you have a question that
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_4" class="page-number">4.0</a> City General Questions
-**How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with a number inside to actually increase to that Prosperity.
+**How does the Prosperity track work? What are the grey boxes? Do I need to check the big boxes with numbers?** The grey boxes are just there for help counting; they appear every 5 boxes. You need to mark off the big box with the new Prosperity Level below it to actually increase to that Prosperity.
+
+**Does increasing Prosperity automatically make new items available?** Yes; see the chart on page 52 of the rulebook.
+
+**If an event or scenario outcome has me losing Prosperity, can this drop me down below my current Prosperity Level?** When the party loses X prosperity, erase the previous X boxes, but never erase a numbered box or further. 
 
 **What is Imbuement on the campaign sheet? Should I use the Imbuement track?** Ignore it until you're instructed otherwise.
 
@@ -498,7 +500,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Hostile Takeover (2, bot) - If this enemy is summoning this round, will the summoned creature be on our side?** No. In all cases for all classes, when you are controlling a monster, you don’t control their summons. Their summons will be enemies to you (and to them). You can, though, choose not to have this enemy perform their summon ability.
 
-**Cranium Overload (3, top) - All of the attacks in this action are considered melee attacks. All the attacks require line of sight, as is standard for attacks.
+**Cranium Overload (3, top)** - All of the attacks in this action are considered melee attacks. All the attacks require line of sight, as is standard for attacks.
 
 **If I Control a monster to attack using my deck, and they draw an "Invisible, Self" modifier, who benefits?** "Self" refers to the acting figure - so the monster would turn invisible. You, however, are in control of your modifier deck, and make all decisions that need to be made regarding it. You can choose not to apply it. 
 
@@ -577,8 +579,6 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Can I place a Tear under my figure?</b> Yes, if it's allowed by the ability. You will not, however, lose Invisible, unless you exit that hex and re-enter it - you need to enter a hex with a Tear to do so.</p>
 
 <p><b>Can I use a Tear that's occupied by an enemy?</b> Yes, but you cannot end your movement in an occupied hex. Remember - you don't lose Invisible until the end of your Move ability.</p>
-
-<p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
 
 <p><b>How does Teleport interact with Tears?</b> You don't move through any intervening hexes with a Teleport. If you want to use a Tear while teleporting, you must end the Teleport in the Tear to lose Invisbile.</p>
 
@@ -688,6 +688,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <summary><b>Saw Spoilers</b></summary>
 <br>
 <p><b>What happens to an active Prescription if Saw exhausts?</b> Even though Prescriptions are in your allies' active areas, the card is still owned by you. If you exhaust, they will be lost.</p>
+
+<p><b>What happens to Medical Packs in other players' hands if Saw exhausts?</b> Medical packs already in other players' hands are unaffected by Saw exhausting.</p>
 
 <p><b>When do I evaluate if a monster is considered "damaged" for Vital Strikes or other abilities?</b> You evaluate this before you start performing your ability. For example, for Vaccine (X, top), you only gain a second target if the first monster is damaged before you begin your attack ability. For Prep for Surgery (X, top), you would only add Stun if the enemy was damaged before the attack. And so on.</p>
 
