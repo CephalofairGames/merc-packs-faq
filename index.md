@@ -524,7 +524,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1/X and doesn't have any round bonuses or persistent effects.</p>
 
 <p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
-<span class="hidden"><p><b>Divine Intervention (6, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</p></span>
+<p><b><span class="hidden">Divine Intervention (6, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</span></p>
 
 </details>
 <br>
