@@ -89,8 +89,6 @@ Most of these questions were asked by the community. If you have a question that
 
 **Rulebook p27, Suffer Damage and p30, Loot** - The Loot symbol was used erroneously for the Suffer Damage ability. It should be on pg30 on the Loot header.
 
-**Rulebook p31, Recover** - Recover is not a targeted ability.
-
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
@@ -869,7 +867,7 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
 2025-06-17 - v1.0 initial public release
-2025-06-18 - Rulebook errata added
+2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
 
 
 <script>
