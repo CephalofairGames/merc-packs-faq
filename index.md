@@ -408,6 +408,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Do I need to kill enemies that have not yet spawned in order to beat a scenario with a goal of "When all enemies in it are dead"?** Yes. Enemies on set spawns for specific rounds are still considered "in the scenario" and must be defeated in order to fulfill that win condition.
 
+**Does Escaping count as "leaving a room" for battle goals?** Yes. Escaping is considered leaving a room.
+
 ![divider-narrow](/assets/images/divider2.png)
 
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
