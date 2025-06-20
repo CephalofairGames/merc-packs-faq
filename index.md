@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-18*
+*Last Updated 2025-06-20*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -525,7 +525,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Scales of Justice (6, bot) - (1) Can I consume Light even if the attack would not normally consume Light? (2) Will the Null effect also apply to any Curses I draw?</b> (1) No - this only applies to attacks which you can already consume Light on. (2) Yes; this includes all Nulls, including Curses.</p>
 
-<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1/X and doesn't have any round bonuses or persistent effects.</p>
+<p><b>If I draw my card recovery perk during an attack, can I recover the card I am using for this attack?</b> Yes, as long as it is Level 1/X, that was the final ability on the card, and it doesn't have any round bonuses or persistent effects.</p>
 
 <p>Spoiler related to the Imbuement mechanic, once unlocked:</p> 
 <p><span class="hidden"><b>Divine Intervention (6, bot) - Will this negate any conditions on the monster's positive modifier card?</b> No; if the modifier is positive and has an effect, it will be +0 with the effect.</span></p>
@@ -543,6 +543,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <p><b>Can I spend supplies to refresh an item without a gold cost - such as a solo scenario item?</b> No; only items with gold costs printed on the item card can be refreshed with Supplies.</p>
 
 <p><b>Giant Club (4, bot) - Do I need to have line of sight to my allies, to give them items at the end of my movement?</b> No; giving items to allies is not a targeted ability.</p>
+
+<p><b>What happens if I draw a "Gain the Scroll of Relocation or Sharpened Dirk" modifier while making an attack with the Sharpened Dirk?</b> Items are returned to their supply immediately when used; the Dirk would be available to gain, again, via this modifier.</p>
 
 </details>
 <br>
@@ -868,6 +870,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 
 2025-06-17 - v1.0 initial public release
 2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
+2025-06-20 - Three Spears question added
 
 
 <script>
