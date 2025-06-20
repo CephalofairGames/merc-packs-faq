@@ -137,7 +137,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
-**Personal Quest 19, Martial Study** The conclusion section (67.3) mistakenly has the Bolt icon instead of the Angry Face icon. The Angry Face icon is correct.
+**Personal Quest 19, Martial Study** The conclusion section (67.2) mistakenly has the Bolt icon instead of the Angry Face icon. The Angry Face icon is correct.
 
 ![divider-narrow](/assets/images/divider2.png)
 
