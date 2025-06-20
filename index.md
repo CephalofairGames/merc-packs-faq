@@ -95,7 +95,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
-**Section 67.3 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
+**Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
 **Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
 
