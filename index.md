@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-20*
+*Last Updated 2025-06-21*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -150,6 +150,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **If an event has us losing XP, can we go below a level threshold?** No. You cannot lose XP beyond the minimum for your current level.
 
+**Road Event 44** <span class="hidden"><b>Is this event meant to be the same front and back?</b> Yes.</span>
+
 ![divider](/assets/images/divider.png)
 
 ## <a name="page_4" class="page-number">4.0</a> City General Questions
@@ -218,6 +220,8 @@ Most of these questions were asked by the community. If you have a question that
 **I have an ability that references the damage a monster or I have "suffered." Is this the total damage I dealt?** No. While there's no cap to damage dealt, "damage suffered" is the result of that damage, after all ward, brittle, or negation - and is capped by the figure's remaining HP. This goes for all figures with HP. Damage suffered is basically the equivalent of moving an hp dial.
 
 **I have an ability which refers to the damage a figure "would suffer." Is this likewise capped by the figure's HP?** No. "would suffer" isn't capped - it's after shield, ward, brittle, etc., but before any damage is actually suffered.
+
+**If damage is redirected from one figure to another via an ability or effect, what is the source of the damage?** The original source of the damage is not "remembered"; the source of the damage becomes the effect that redirected it. 
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -871,6 +875,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-17 - v1.0 initial public release
 2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
 2025-06-20 - Three Spears question added
+2025-06-21 - Ruling on damage redirection, R44 note
 
 
 <script>
