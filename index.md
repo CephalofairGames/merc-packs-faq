@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-21*
+*Last Updated 2025-06-23*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -670,6 +670,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Ode to the Gambler (3, top) - What happens if I draw a rolling Null (or Curse)?</b> A rolling null will always make an attack's final damage 0, unless you have a way to disregard or change it - like if you had Disadvantage for the attack.</p> 
 
+<p><b>Symphonic Medley (3, bot) - Do these Song actions still clear all the Notes on my board?</b> Yes. Each Song played via this ability also clears all the Notes on your board.</p> 
+
 
 </details>
 <br>
@@ -876,6 +878,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
 2025-06-20 - Three Spears question added
 2025-06-21 - Ruling on damage redirection, R44 note
+2025-06-23 - Music Note clarification for Level 3 action.
 
 
 <script>
