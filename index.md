@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-23*
+*Last Updated 2025-06-25*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -687,6 +687,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Solid Bow (1, bot) - Would I need to be adjacent to the enemy to gain the heal?</b> No; it's "self" or "1 ally adjacent...".</p>
 
+<p><b>Predator and Prey (9, top) - Does the Great Archinotl get a 100-initiative extra turn in the round it's summoned?</b> No; summons don't get turns during the round in which they are summoned, including extra turns.</p>
+
 <p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> These attacks are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack).</p>
 
 </details>
@@ -794,6 +796,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **What happens if I own a Reputation-based item but no longer have the Reputation to qualify for it?** You keep it. If you sell it, however, you cannot buy it back unless your faction reputation goes back up.
 
+**Can I gain a Reputation-based item if I lack the required Reputation?** You cannot purchase Reputation-based items you don't qualify for, but if you could gain them via other means (say, a chest or an event card), you do not need to meet the reputation requirements.
+
 **I have an item that modifies the monster's attack modifier draw. How does that work if the monster has Advantage or Disadvantage?** The effects of the item should be applied *before* the modifier is chosen. *This is a change from a Gloomhaven 1e FAQ ruling.*
 
 **Will my Spent item with use slots recover its uses if I Long Rest before all of the charges are expended?** Yes, Spent items recover all their use slots whenever they are recovered, whether as part of a long rest or an item recovery ability. A Lost item will not recover its charges on a long rest; it would only recover its charges when you use an ability that can recover Lost items. *This is a change from Gloomhaven 1st Edition.*
@@ -879,6 +883,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-20 - Three Spears question added
 2025-06-21 - Ruling on damage redirection, R44 note
 2025-06-23 - Music Note clarification for Level 3 action.
+2025-06-25 - question on reputation items and Angry Face 9 question.
 
 
 <script>
