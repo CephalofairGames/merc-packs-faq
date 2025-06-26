@@ -95,9 +95,13 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
+**Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
+
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
 **Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
+
+**Section 112.3 (Scenario 54), Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
 
@@ -886,7 +890,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-21 - Ruling on damage redirection, R44 note
 2025-06-23 - Music Note clarification for Level 3 action.
 2025-06-25 - question on reputation items and Angry Face 9 question.
-2025-06-26 - Two Minis ruling on a Level 1 card for LoS
+2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc54/Sc 56) due to graphic design errors in printed versions.
 
 
 <script>
