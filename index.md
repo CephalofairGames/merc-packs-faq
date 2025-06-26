@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-25*
+*Last Updated 2025-06-26*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -750,6 +750,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Disorienting Roar (1, bot)</b> - Note that this Move 3 Jump triggers on attacks, not attack abilities. It cannot change the red hex pattern of an attack ability like Forceful Swipe (X, top) once the first attack is made, and the bear would need to remain in the grey hex. It could, however, add more potential targets for any Target 2+ attack abilities.</p>
 
+<p><b>Spirit Swap (1, top) - Does the Bear need line of sight to the Vermling to teleport them adjacent?</b> No. While teleporting other figures is normally classified as Forced Movement, thereby requiring Line of Sight, this is a Command action. Commands are generally exempted from Line of Sight requirements, per the class mat.</p>
+
 <p><b>Invocation of Spirit (X, top) - Who is performing these attacks? How does this interact with Retaliate?</b> This is the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses will be based on the bear's location. The vermling does not need line of sight for these attacks; only the bear does. Retaliate, however, is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
 
 <p><b>Unbreakable Bond (8, top) Are both of these attack abilities performed from the bear's position or just the second one? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack ability; only the bear does. Retaliate for both attacks is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
@@ -884,6 +886,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-21 - Ruling on damage redirection, R44 note
 2025-06-23 - Music Note clarification for Level 3 action.
 2025-06-25 - question on reputation items and Angry Face 9 question.
+2025-06-26 - Two Minis ruling on a Level 1 card for LoS
 
 
 <script>
