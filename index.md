@@ -4,7 +4,8 @@
 
 *Last Updated 2025-06-27*
 
-**For information about this FAQ, see <a href="#page_0">Section 0</a>**
+**For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
+Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
 
 1. <a href="#page_01">Errata</a>
 1. <a href="#page_2">Component and Setup Questions</a>
@@ -886,7 +887,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, but will work for Gloomhaven: Second Edition as well.
 
-**Demolitionist** - If you bring the Demolitionist into other games, and use the Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
+**Demolitionist** - If you bring the Demolitionist into other games, and use the Level X Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
 
 <br>
 
@@ -897,13 +898,13 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
 - 2025-06-17 - v1.0 initial public release
-- 2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
+- 2025-06-18 - Rulebook errata added; Recover errata added, but then removed for insignificance
 - 2025-06-20 - Three Spears question added
 - 2025-06-21 - Ruling on damage redirection, R44 note
 - 2025-06-23 - Music Note clarification for Level 3 action.
 - 2025-06-25 - question on reputation items and Angry Face 9 question.
-- 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc54/Sc 56) due to graphic design errors in printed versions.
-- 2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Errata and Section 3.2
+- 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc 54/Sc 56) due to graphic design errors in printed versions.
+- 2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Section 1.0 and Section 3.2. The circle is complete.
 
 
 <script>
