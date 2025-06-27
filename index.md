@@ -97,6 +97,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
+**Section 21.1 (Personal Quest 22)** The conclusion section should tell you to open the Two Minis class envelope (to match the Personal Quest card), not the Angry Face class envelope.
+
 **Section 47.4 (Personal Quest 17)** The conclusion section should tell you to open the Lightning Bolt class envelope (to match the Personal Quest card), not the Two Minis class envelope.
 
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
@@ -143,9 +145,11 @@ Most of these questions were asked by the community. If you have a question that
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
-**Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon is correct.
+**Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
-**Personal Quest 19, Martial Study** The conclusion section (67.2) mistakenly has the Lightning Bolts icon instead of the Angry Face icon. The Angry Face icon is correct.
+**Personal Quest 19, Martial Study** The conclusion section (67.2) mistakenly has the Lightning Bolts icon instead of the Angry Face icon. The Angry Face icon on the PQ card is correct.
+
+**Personal Quest 22, Trophy Hunt** The conclusion section (21.1) mistakenly has the Angry Face icon instead of the Two Minis icon. The Two Minis icon on the PQ card is correct.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -899,7 +903,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-23 - Music Note clarification for Level 3 action.
 2025-06-25 - question on reputation items and Angry Face 9 question.
 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc54/Sc 56) due to graphic design errors in printed versions.
-2025-06-27 - Added above errata to Section 7.1 and added PQ 17 errata in both Errata and Section 3.2
+2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Errata and Section 3.2
 
 
 <script>
