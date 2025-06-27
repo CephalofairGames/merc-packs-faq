@@ -772,7 +772,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Unbreakable Bond (8, top) Are both of these attack abilities performed from the bear's position or just the second one? How does this interact with retaliate?</b> Only the second attack ability is performed from the bear's hex. This is still the Vermling making attacks, but acting as if they occupied the hex the bear occupies. Any situational bonuses for the second attack will be based on the bear's location. The vermling does not need line of sight for the second attack ability; only the bear does. Retaliate for both attacks is based on the vermling's <i>actual</i> position, and will only cause damage if the vermling itself is within the enemy's retaliate range.</p>
 
-<p><b>Unbreakable Bond (8, bot) Do I still need to play cards over the next three turns? What does it mean that the bear is taking two turns?</b> You will not play any cards during card selection, or do anything that happens on your turn. Your wounds will not cause damage, and your 'end of turn' conditions will not expire. The bear, on the other hand, is taking two full turns. Conditions such as Disarm and Muddle would end at the end of their first turn; they would not have these for their second turn. Wound would also do damage twice to them - once per turn taken. Any other persistent abilities you have out will function as normal, but will not move their use slots.</p>
+<p><b>Unbreakable Bond (8, bot) Do I still need to play cards over the next three turns? What does it mean that the bear is taking two turns?</b> You will not play any cards during card selection, or do anything that happens on your turn. Your wounds will not cause damage, and your 'end of turn' conditions will not expire. The bear, on the other hand, is taking two full turns. Conditions such as Disarm and Muddle would end at the end of their first turn; they would not have these for their second turn. Wound would also do damage twice to them - once per turn taken. Any other persistent abilities you have out will function as normal, but will not move their use slots. Because the Vermling has no initiative during this time, they are considered last in initiative order for focusing purposes.</p>
 
 <p><b>Jaws of Death (9, top) Do I just repeat the attack ability, or does the bear also get to move again?</b> You are repeating the entire <i>action</i> - that is, the entire card half. There is no limit to the number of times you can repeat this action, as long as every attack is killing an enemy. (Note that objectives are destroyed, rather than killed.)</p>
 
@@ -896,14 +896,14 @@ Crossover character sheets can be found at [Cephalofair's website](https://cepha
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-2025-06-17 - v1.0 initial public release
-2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
-2025-06-20 - Three Spears question added
-2025-06-21 - Ruling on damage redirection, R44 note
-2025-06-23 - Music Note clarification for Level 3 action.
-2025-06-25 - question on reputation items and Angry Face 9 question.
-2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc54/Sc 56) due to graphic design errors in printed versions.
-2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Errata and Section 3.2
+- 2025-06-17 - v1.0 initial public release
+- 2025-06-18 - Rulebook errata added; Recover errata removed for insignificance
+- 2025-06-20 - Three Spears question added
+- 2025-06-21 - Ruling on damage redirection, R44 note
+- 2025-06-23 - Music Note clarification for Level 3 action.
+- 2025-06-25 - question on reputation items and Angry Face 9 question.
+- 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc54/Sc 56) due to graphic design errors in printed versions.
+- 2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Errata and Section 3.2
 
 
 <script>
