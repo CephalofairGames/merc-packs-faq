@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-26*
+*Last Updated 2025-06-27*
 
 **For information about this FAQ, see <a href="#page_0">Section 0</a>**
 
@@ -97,6 +97,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
+**Section 47.4 (Personal Quest 17)** The conclusion section should tell you to open the Lightning Bolt class envelope (to match the Personal Quest card), not the Two Minis class envelope.
+
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
 **Section 93.2, conclusion to City Event 27** <span class="hidden">This should give you Military reputation, not Demonic.</span>
@@ -141,7 +143,9 @@ Most of these questions were asked by the community. If you have a question that
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
 
-**Personal Quest 19, Martial Study** The conclusion section (67.2) mistakenly has the Bolt icon instead of the Angry Face icon. The Angry Face icon is correct.
+**Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon is correct.
+
+**Personal Quest 19, Martial Study** The conclusion section (67.2) mistakenly has the Lightning Bolts icon instead of the Angry Face icon. The Angry Face icon is correct.
 
 ![divider-narrow](/assets/images/divider2.png)
 
@@ -421,6 +425,10 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
 **Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
+
+**Scenario 54, Section 112.3 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
+
+**Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
 
 **Scenario 90, Treasure Index 22** <span class="hidden">Both the Mountain Hammer and the Helm of the Mountain are numbered as 129. The Mountain Hammer should be numbered 130.</span>
 
@@ -891,6 +899,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 2025-06-23 - Music Note clarification for Level 3 action.
 2025-06-25 - question on reputation items and Angry Face 9 question.
 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc54/Sc 56) due to graphic design errors in printed versions.
+2025-06-27 - Added above errata to Section 7.1 and added PQ 17 errata in both Errata and Section 3.2
 
 
 <script>
