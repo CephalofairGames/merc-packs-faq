@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-27*
+*Last Updated 2025-06-28*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -434,6 +434,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 **Scenario 54, Section 112.3 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
 
 **Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
+
+**Scenario 88, Section 42.3** <span class="hidden">The Arcane Construct's stats return to normal on odd rounds.</span>
 
 **Scenario 90, Treasure Index 22** <span class="hidden">Both the Mountain Hammer and the Helm of the Mountain are numbered as 129. The Mountain Hammer should be numbered 130.</span>
 
@@ -905,6 +907,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-06-25 - question on reputation items and Angry Face 9 question.
 - 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc 54/Sc 56) due to graphic design errors in printed versions.
 - 2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Section 1.0 and Section 3.2. The circle is complete.
+- 2025-06-28 - Clarification on Sc 88
 
 
 <script>
