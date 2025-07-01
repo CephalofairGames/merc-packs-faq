@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-06-28*
+*Last Updated 2025-07-01*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -96,6 +96,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
+**Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
+
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Section 21.1 (Personal Quest 22)** The conclusion section should tell you to open the Two Minis class envelope (to match the Personal Quest card), not the Angry Face class envelope.
@@ -116,7 +118,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **General -** Be sure you go through the Welcome to Gloomhaven booklet, even if you are not using the built-in organizer. This contains important setup instructions for Event Decks, Personal Quests, etc.
 
-**I cannot find Room tiles 8 or 14. Am I missing a board?** No - room tile sizes and shapes have been standardized since Frosthaven. Gloomhaven: Second Edition uses the same numbers for the same shapes. There are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
+**I cannot find Room tiles 8 or 14. Am I missing a board?** No - there are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
 
 **How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
@@ -198,13 +200,15 @@ Most of these questions were asked by the community. If you have a question that
 
 ## <a name="page_5" class="page-number">5.0</a> General Gameplay Questions (Scenario)
 
-### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Forced Movement, and Overlays
+### <a name="page_51" class="page-number">5.1</a> Rooms, Movement, Teleport, Forced Movement, and Overlays
 
 **What is considered an ‘empty’ hex vs ‘featureless’, etc.?** A ‘featureless’ hex has no overlay tiles (other than corridors or pressure plates), but may have a figure. An ‘empty’ hex has neither overlay tiles nor figures. Note that tokens (loot tokens, letter reminder tokens, Tinkerer devices, etc.) won’t make a hex non-empty. It is possible to summon or spawn on hexes with loot tokens. *This is a change from Gloomhaven 1st Edition.*
 
 **Can I teleport over gaps between room tiles? If so, how do I measure the distance? There's no hexes to count.** Yes, as long as the destination tile is revealed, and the map tiles aren't free-floating (see below). The gap area between rooms is considered part of the wall. You can use extra corridor overlays to measure the distance, if it's not apparent. 
 
 **Can I teleport to a revealed room tile that is totally disconnected from other room tiles?** Completely disconnected room tiles are an unmeasurable distance apart. Only teleports that ignore distance would work in these cases.
+
+**Can I teleport into the hex I currently occupy?** Yes. While Move 0 is not a valid ability, Teleport 0 is.
 
 **If my move ability has Jump, can I decide not to Jump?** Yes, but it must be decided at the start of your move ability. You can't decide to start Jumping after you begin moving, or decide to stop Jumping before the formal end of the move ability. If another effect adds Jump for your move ability mid-move, you remain Jumping until the formal end of your move ability.
 
@@ -435,6 +439,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
 
+**Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
+
 **Scenario 88, Section 42.3** <span class="hidden">The Arcane Construct's stats return to normal on odd rounds.</span>
 
 **Scenario 90, Treasure Index 22** <span class="hidden">Both the Mountain Hammer and the Helm of the Mountain are numbered as 129. The Mountain Hammer should be numbered 130.</span>
@@ -624,6 +630,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
 <br>
+<p><b>A general reminder on Targeting and Order</b> All targeting in Gloomhaven is sequential - that is, you complete a full Attack before selecting and attacking the next target in a multi-target or red hex attack. This can be especially relevant with some of your Attack Modifier Cards that give enemies Poison or Plague.</p>
+
 <p><b>Do I still get the bonuses from giving poison to one of my allies, if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
 <p><b>Can I give Poison to an allied Objective?</b> No - Objectives cannot ever gain Poison, so you cannot give it to them.</p>
@@ -908,6 +916,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-06-26 - Two Minis ruling on a Level 1 card for LoS. Two boss special rules errata (Sc 54/Sc 56) due to graphic design errors in printed versions.
 - 2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Section 1.0 and Section 3.2. The circle is complete.
 - 2025-06-28 - Clarification on Sc 88
+- 2025-07-01 - Teleport 0, note for Cthulhu re: targeting, note about Sc 62 map overview
 
 
 <script>
