@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-01*
+*Last Updated 2025-07-02*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -89,6 +89,8 @@ Most of these questions were asked by the community. If you have a question that
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
 **Rulebook p27, Suffer Damage and p30, Loot** - The Loot symbol was used erroneously for the Suffer Damage ability. It should be on pg30 on the Loot header.
+
+**Campaign Sheet, "Read Section 26.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *26.1*. There is no Section 26.5.
 
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
@@ -917,6 +919,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-06-27 - Added above errata to Section 7.1 and added PQ 17 & 22 errata in both Section 1.0 and Section 3.2. The circle is complete.
 - 2025-06-28 - Clarification on Sc 88
 - 2025-07-01 - Teleport 0, note for Cthulhu re: targeting, note about Sc 62 map overview
+- 2025-07-02 - Added Campaign Sheet errata.
 
 
 <script>
