@@ -90,7 +90,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Rulebook p27, Suffer Damage and p30, Loot** - The Loot symbol was used erroneously for the Suffer Damage ability. It should be on pg30 on the Loot header.
 
-**Campaign Sheet**, "Read Section 26.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *26.1*. There is no Section 26.5.
+**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5.
 
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
