@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-02*
+*Last Updated 2025-07-06*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -122,6 +122,8 @@ Most of these questions were asked by the community. If you have a question that
 
 **I cannot find Room tiles 8 or 14. Am I missing a board?** No - there are no 8 or 14 room tiles in Gloomhaven: Second Edition; these tiles aren't needed for any scenarios.
 
+**The Welcome to Gloomhaven booklet has me sorting out 3 decks marked with star symbols, but I only have 2.** Bless Cards are the third; they are shared between players and monsters so do not have star symbols.
+
 **How many of each Event deck do I use?** You shuffle cards 1-20 of each deck to create the available events. Please see the Welcome to Gloomhaven booklet. 
 
 **How many of the Personal Quests are added when I begin the campaign?** You start with Personal Quests 01-11, shuffled to create the Available deck. The remainder will become available later, or used for Inspiration retirements.
@@ -149,6 +151,8 @@ Most of these questions were asked by the community. If you have a question that
 **If, during a City Phase, I no longer qualify for retirement (for example, if I had a quest to collect gold but spent below the threshold), do I still retire?** No. If you no longer meet the requirements for your PQ, you no longer retire.
 
 **If I abandon a character or PQ in the middle of a PQ that unlocks scenarios, what happens to the scenarios?** They all become Incomplete and are re-locked. Any opened chests remain looted.
+
+**Personal Quest 05, Seeker of Xorn** <span class="hidden">If Safeguard or another condition blocks you from gaining Poison, it does not advance the quest.</span>
 
 **Personal Quest 17, Living on the Edge** The conclusion section (47.4) mistakenly has the Two Minis icon instead of the Lightning Bolts icon. The Lightning Bolts icon on the PQ card is correct.
 
@@ -437,6 +441,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 **Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
+**Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
+
 **Scenario 54, Section 112.3 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
 
 **Scenario 56 Errata** <span class="hidden">The Gloom treats all x0/Null/Curse cards as +0, not as x0.</span> 
@@ -632,7 +638,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 <details>
 <summary><b>Cthulhu Spoilers</b></summary>
 <br>
-<p><b>A general reminder on Targeting and Order</b> All targeting in Gloomhaven is sequential - that is, you complete a full Attack before selecting and attacking the next target in a multi-target or red hex attack. This can be especially relevant with some of your Attack Modifier Cards that give enemies Poison or Plague.</p>
+<p><b>A general reminder on Targeting and Order</b> All targeting in Gloomhaven is sequential - that is, you complete a full Attack before selecting and attacking the next target in a multi-target or red hex attack. This can be especially relevant with some of your Attack Modifier Cards that give enemies Poison or Plague. If you perform a targeted ability that does something to all monsters with Plague, and more monsters gain Plague during it, those monsters can be added to your targets.</p>
 
 <p><b>Do I still get the bonuses from giving poison to one of my allies, if they prevent the condition (such as with Safeguard)?</b> Yes. You have fulfilled the requirement, even if they don't keep the poison.</p>
 
@@ -920,6 +926,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-06-28 - Clarification on Sc 88
 - 2025-07-01 - Teleport 0, note for Cthulhu re: targeting, note about Sc 62 map overview
 - 2025-07-02 - Added Campaign Sheet errata.
+- 2025-07-06 - Added some small clarifications for a PQ, setup, and Cthulhu.
 
 
 <script>
