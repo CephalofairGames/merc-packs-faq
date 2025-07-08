@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-06*
+*Last Updated 2025-07-08*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -101,6 +101,8 @@ Most of these questions were asked by the community. If you have a question that
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
+
+**Section 10.1 (Merchant conclusion to Scenario 27)** This should add Event R-37 in addition to Event R-38.
 
 **Section 21.1 (Personal Quest 22)** The conclusion section should tell you to open the Two Minis class envelope (to match the Personal Quest card), not the Angry Face class envelope.
 
@@ -440,6 +442,8 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 ### <a name="page_71" class="page-number">7.1</a> Specific Scenario Questions
 
 **Scenario 26 Errata** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
+
+**Scenario 27, Section 10.1 Errata** <span class="hidden">This should add Event R-37 in addition to R-38.</span>
 
 **Scenario 44** <span class="hidden">The effects of the Elemental Tethers apply to any Demons from the beginning of the scenario until destroyed.</span>
 
@@ -927,6 +931,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-01 - Teleport 0, note for Cthulhu re: targeting, note about Sc 62 map overview
 - 2025-07-02 - Added Campaign Sheet errata.
 - 2025-07-06 - Added some small clarifications for a PQ, setup, and Cthulhu.
+- 2025-07-08 - Added Scenario 27/Section 10.1 Errata
 
 
 <script>
