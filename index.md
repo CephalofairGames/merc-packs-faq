@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-08*
+*Last Updated 2025-07-09*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -174,6 +174,8 @@ Most of these questions were asked by the community. If you have a question that
 **If an event has us losing XP, can we go below a level threshold?** No. You cannot lose XP beyond the minimum for your current level.
 
 **Road Event 44** <span class="hidden"><b>Is this event meant to be the same front and back?</b> Yes.</span>
+
+**City Event 51** can be added in two different places. If you're instructed to add it and it's already been added (or removed from the deck after being added), do nothing.
 
 ![divider](/assets/images/divider.png)
 
@@ -932,6 +934,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-02 - Added Campaign Sheet errata.
 - 2025-07-06 - Added some small clarifications for a PQ, setup, and Cthulhu.
 - 2025-07-08 - Added Scenario 27/Section 10.1 Errata
+- 2025-07-09 - Added note that there's two times you might be instructed to add C-51 to the event deck.
 
 
 <script>
