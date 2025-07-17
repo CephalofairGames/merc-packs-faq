@@ -88,15 +88,35 @@ Most of these questions were asked by the community. If you have a question that
 
 ##  <a name="page_01" class="page-number">1.0</a> Errata
 
+#### Major Errata
+
+**A large number of events were designed to be unlocked when a new class envelope was unlocked.** A new Campaign Sheet will be provided by Cephalofair that has these event unlocks at the bottom of the page, alongside the unlocked class icons. Here  are the proper event unlocks that should be added when you unlock a locked class, in the order they are listed on the Campaign Sheet.
+- Sun: R-50, R-51
+- Three Spears: R-47, C-78
+- Circles: R-44, R-45
+- Eclipse: R-46, C-81
+- Cthulhu: C-76, C-77
+- Lightning Bolts: C-73, R-40
+- Music Note: R-49, C-80
+- Angry Face: C-74, C-75
+- Saw: R-48, C-79
+- Triangles: R-42, R-43
+- Two Minis: R-52, R-53
+- Crossed Swords: R-54
+
+**City Event 57** should be added to the deck once you reach 13 Reputation with any Faction. (This will also be included on the updated, printable campaign sheet.)
+
+**Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
+
+#### Other Errata
+
 **Rulebook p27, Suffer Damage and p30, Loot** - The Loot symbol was used erroneously for the Suffer Damage ability. It should be on pg30 on the Loot header.
 
-**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5.
+**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5. (This will be included on an updated, printable campaign sheet.)
 
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
 **Scenario 8** Scenario Goals should read, <span class="hidden">"The scenario is complete when the Bandit Commander and all revealed enemies are dead"</span>
-
-**Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
 **Scenario 62** The map layout has Tile 06 with only slots and no tabs. The flat side should be laid adjacent to the other tiles, with the tab side facing out.
 
@@ -119,20 +139,6 @@ Most of these questions were asked by the community. If you have a question that
 **Section 112.3 (Scenario 54), Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
-
-**A large number of events were designed to be unlocked when a new class envelope was unlocked.** A new Campaign Sheet will be provided by Cephalofair that has these event unlocks at the bottom of the page, alongside the unlocked class icons. Here  are the proper event unlocks that are added when you unlock a locked class, in the order they are listed on the Campaign Sheet.
-- Sun: R-50, R-51
-- Three Spears: R-47, C-78
-- Circles: R-44, R-45
-- Eclipse: R-46, C-81
-- Cthulhu: C-76, C-77
-- Lightning Bolts: C-73, R-40
-- Music Note: R-49, C-80
-- Angry Face: C-74, C-75
-- Saw: R-48, C-79
-- Triangles: R-42, R-43
-- Two Minis: R-52, R-53
-- Crossed Swords: R-54
 
 ![divider](/assets/images/divider.png)
 
