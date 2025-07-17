@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-09*
+*Last Updated 2025-07-17*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -102,11 +102,15 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
-**Section 10.1 (Merchant conclusion to Scenario 27)** This should add Event R-37 in addition to Event R-38.
+**Section 10.1 (Merchant conclusion to Scenario 27)** This should add Events R-37 and C-57, in addition to Event R-38.
 
 **Section 21.1 (Personal Quest 22)** The conclusion section should tell you to open the Two Minis class envelope (to match the Personal Quest card), not the Angry Face class envelope.
 
 **Section 47.4 (Personal Quest 17)** The conclusion section should tell you to open the Lightning Bolt class envelope (to match the Personal Quest card), not the Two Minis class envelope.
+
+**Section 50.2** This should also add Event C-57 to the City Event Deck
+
+**Section 57.3** This should also add Event C-57 to the City Event Deck.
 
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
@@ -115,6 +119,20 @@ Most of these questions were asked by the community. If you have a question that
 **Section 112.3 (Scenario 54), Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
+
+**A large number of events were designed to be unlocked when a new class envelope was unlocked. A new Campaign Sheet will be provided by Cephalofair that has these event unlocks at the bottom of the page, alongside the unlocked class icons. Here  are the proper event unlocks that are added when you unlock a locked class, in the order they are listed on the Campaign Sheet.**
+- Sun: R-50, R-51
+- Three Spears: R-47, C-78
+- Circles: R-44, R-45
+- Eclipse: R-46, C-81
+- Cthulhu: C-76, C-77
+- Lightning Bolts: C-73, R-40
+- Music Note: R-49, C-80
+- Angry Face: C-74, C-75
+- Saw: R-48, C-79
+- Triangles: R-42, R-43
+- Two Minis: R-52, R-53
+- Crossed Swords: R-54
 
 ![divider](/assets/images/divider.png)
 
@@ -935,6 +953,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-06 - Added some small clarifications for a PQ, setup, and Cthulhu.
 - 2025-07-08 - Added Scenario 27/Section 10.1 Errata
 - 2025-07-09 - Added note that there's two times you might be instructed to add C-51 to the event deck.
+- 2025-07-17 - Major errata for event unlocks when characters were unlocked, plus C-57.
 
 
 <script>
