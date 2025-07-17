@@ -122,15 +122,11 @@ Most of these questions were asked by the community. If you have a question that
 
 **Scenario 56, page 69, Special Rules** <span class="hidden">The Gloom treats all Null/x0 cards as +0, not as Null/x0</span>
 
-**Section 10.1 (Merchant conclusion to Scenario 27)** This should add Events R-37 and C-57, in addition to Event R-38.
+**Section 10.1 (Merchant conclusion to Scenario 27)** This should add Event R-37, in addition to Event R-38.
 
 **Section 21.1 (Personal Quest 22)** The conclusion section should tell you to open the Two Minis class envelope (to match the Personal Quest card), not the Angry Face class envelope.
 
 **Section 47.4 (Personal Quest 17)** The conclusion section should tell you to open the Lightning Bolt class envelope (to match the Personal Quest card), not the Two Minis class envelope.
-
-**Section 50.2** This should also add Event C-57 to the City Event Deck
-
-**Section 57.3** This should also add Event C-57 to the City Event Deck.
 
 **Section 67.2 (Personal Quest 19)** The conclusion section should tell you to open the Angry Face class envelope (to match the Personal Quest card), not the Bolt class envelope.
 
