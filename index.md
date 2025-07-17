@@ -120,7 +120,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Items 129/130** Both Items 129 and 130 are marked as 129. <span class="hidden">Of these, the Helm of the Mountain is correctly numbered as 129; the Mountain Hammer should be item 130.</span>
 
-**A large number of events were designed to be unlocked when a new class envelope was unlocked. A new Campaign Sheet will be provided by Cephalofair that has these event unlocks at the bottom of the page, alongside the unlocked class icons. Here  are the proper event unlocks that are added when you unlock a locked class, in the order they are listed on the Campaign Sheet.**
+**A large number of events were designed to be unlocked when a new class envelope was unlocked.** A new Campaign Sheet will be provided by Cephalofair that has these event unlocks at the bottom of the page, alongside the unlocked class icons. Here  are the proper event unlocks that are added when you unlock a locked class, in the order they are listed on the Campaign Sheet.
 - Sun: R-50, R-51
 - Three Spears: R-47, C-78
 - Circles: R-44, R-45
