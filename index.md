@@ -92,7 +92,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **If possible, please download the [Revised Campaign Sheet](https://drive.google.com/file/d/1fF6p_ZzkNMfWytOifGr0NqBBwopWfzmY/view?usp=sharing).** It handles the next two Major Errata items. If you wish to continue to use the in-box sheets, please see below for details.
 
-**A number of events were designed to be unlocked when a new class envelope was unlocked.** Below are the proper event unlocks that should be added when you unlock a locked class, in the order they are listed on the Campaign Sheet. (The revised campaign sheet, above, handles this errata.)
+**A number of events were designed to be unlocked when a new class envelope was unlocked.** Below are the proper event unlocks that should be added when you unlock a locked class, in the order they are listed on the Campaign Sheet. *The revised campaign sheet, above, handles this errata.*
 - Sun: R-50, R-51
 - Three Spears: R-47, C-78
 - Circles: R-44, R-45
@@ -106,7 +106,7 @@ Most of these questions were asked by the community. If you have a question that
 - Two Minis: R-52, R-53
 - Crossed Swords: R-54
 
-**City Event 57** should be added to the deck once you reach 13 Reputation with any Faction. (The revised campaign sheet, above, handles this errata.)
+**City Event 57** should be added to the deck once you reach 13 Reputation with any Faction. *The revised campaign sheet, above, handles this errata.*
 
 **Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
@@ -114,7 +114,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Rulebook p27, Suffer Damage and p30, Loot** - The Loot symbol was used erroneously for the Suffer Damage ability. It should be on pg30 on the Loot header.
 
-**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5. (The revised campaign sheet handles this errata.)
+**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5. *The revised campaign sheet, above, handles this errata.*
 
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
