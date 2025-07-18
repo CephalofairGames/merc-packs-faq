@@ -2,7 +2,7 @@
 
 # **OFFICIAL FAQ FOR GLOOMHAVEN: SECOND EDITION**
 
-*Last Updated 2025-07-17*
+*Last Updated 2025-07-18*
 
 **For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
 Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
@@ -90,7 +90,9 @@ Most of these questions were asked by the community. If you have a question that
 
 #### Major Errata
 
-**A large number of events were designed to be unlocked when a new class envelope was unlocked.** A new Campaign Sheet will be provided by Cephalofair that has these event unlocks at the bottom of the page, alongside the unlocked class icons. Here  are the proper event unlocks that should be added when you unlock a locked class, in the order they are listed on the Campaign Sheet.
+**If possible, please download the [Revised Campaign Sheet](https://drive.google.com/file/d/1fF6p_ZzkNMfWytOifGr0NqBBwopWfzmY/viewhttps://drive.google.com/file/d/1fF6p_ZzkNMfWytOifGr0NqBBwopWfzmY/view).** It handles the next two Major Errata items. If you wish to continue to use the in-box sheets, please see below for details.
+
+**A number of events were designed to be unlocked when a new class envelope was unlocked.** Below are the proper event unlocks that should be added when you unlock a locked class, in the order they are listed on the Campaign Sheet. (The revised campaign sheet, above, handles this errata.)
 - Sun: R-50, R-51
 - Three Spears: R-47, C-78
 - Circles: R-44, R-45
@@ -104,7 +106,7 @@ Most of these questions were asked by the community. If you have a question that
 - Two Minis: R-52, R-53
 - Crossed Swords: R-54
 
-**City Event 57** should be added to the deck once you reach 13 Reputation with any Faction. (This will also be included on the updated, printable campaign sheet.)
+**City Event 57** should be added to the deck once you reach 13 Reputation with any Faction. (The revised campaign sheet, above, handles this errata.)
 
 **Scenario 26** Monsters on tiles 2-D and 10-B should not be set up at the start of the scenario, with the exception of the City Archers located adjacent to the wall section overlays.
 
@@ -112,7 +114,7 @@ Most of these questions were asked by the community. If you have a question that
 
 **Rulebook p27, Suffer Damage and p30, Loot** - The Loot symbol was used erroneously for the Suffer Damage ability. It should be on pg30 on the Loot header.
 
-**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5. (This will be included on an updated, printable campaign sheet.)
+**Campaign Sheet**, "Read Section 29.5 when you have at least 6 Demon Reputation and have completed Scenario 11." should direct you to Section *29.1*. There is no Section 29.5. (The revised campaign sheet handles this errata.)
 
 **Personal Quest 12** - The scenario number should be 65, not 67. The scenario name is correct.
 
@@ -956,6 +958,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-07-08 - Added Scenario 27/Section 10.1 Errata
 - 2025-07-09 - Added note that there's two times you might be instructed to add C-51 to the event deck.
 - 2025-07-17 - Major errata for event unlocks when characters were unlocked, plus C-57.
+- 2025-07-18 - Campaign sheet link added
 
 
 <script>
