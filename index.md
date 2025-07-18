@@ -90,7 +90,7 @@ Most of these questions were asked by the community. If you have a question that
 
 #### Major Errata
 
-**If possible, please download the [Revised Campaign Sheet](https://drive.google.com/file/d/1fF6p_ZzkNMfWytOifGr0NqBBwopWfzmY/viewhttps://drive.google.com/file/d/1fF6p_ZzkNMfWytOifGr0NqBBwopWfzmY/view).** It handles the next two Major Errata items. If you wish to continue to use the in-box sheets, please see below for details.
+**If possible, please download the [Revised Campaign Sheet](https://drive.google.com/file/d/1fF6p_ZzkNMfWytOifGr0NqBBwopWfzmY/view?usp=sharing).** It handles the next two Major Errata items. If you wish to continue to use the in-box sheets, please see below for details.
 
 **A number of events were designed to be unlocked when a new class envelope was unlocked.** Below are the proper event unlocks that should be added when you unlock a locked class, in the order they are listed on the Campaign Sheet. (The revised campaign sheet, above, handles this errata.)
 - Sun: R-50, R-51
