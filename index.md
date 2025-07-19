@@ -752,7 +752,7 @@ Generally, scenarios are played in Campaign Mode. Casual Mode is primarily for r
 
 <p><b>Predator and Prey (9, top) - Does the Great Archinotl get a 100-initiative extra turn in the round it's summoned?</b> No; summons don't get turns during the round in which they are summoned, including extra turns.</p>
 
-<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> These attacks are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack).</p>
+<p><b>What's the timing of the extra Attack 2 I gain from my "-1, Attack 2 Range 5" modifier cards?</b> These attacks are performed immediately after the attack in which you draw them, and after any retaliate you may suffer from it. They are considered "added effects" and are thus part of the attack ability you were already performing. Because of this, they will retain any bonuses (or penalties) you had for that attack ability (but not any bonuses or penalties you just had for one attack). Even though it's part of the same attack ability, you can attack enemies that were (or will be) targeted by the attack ability.</p>
 
 </details>
 <br>
