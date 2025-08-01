@@ -1,8 +1,8 @@
 # gloomhaven2e-faq
 
-This is the Official FAQ for Gloomhaven: Second Edition. It is maintained by William Wilson (dwarf74). 
+This is the Official FAQ for assorted Cephalofair small releases, such as the Mercenary Packs and ConQuests promo packs. It is maintained by William Wilson (dwarf74). 
 
-https://cephalofairgames.github.io/gloomhaven2e-faq/
+https://cephalofairgames.github.io/merc-packs-faq/
 
 If you have a question that is not answered here, please consult Section 0 of the FAQ for community links.
 
