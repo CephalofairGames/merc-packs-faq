@@ -2,14 +2,14 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-07-31*
+*Last Updated 2025-08-01*
 
-1. <a href="page_01">Mercenary Pack General Rules</a>
-   1. <a href="page_02">Anaphi</a>
-   1. <a href="page_03">Cassandra</a>
-   1. <a href="page_04">Hail</a>
-   1. <a href="page_05">Satha</a>
-1. <a href="page_20">ConQuests 2025</a>
+1. <a href="#page_01">Mercenary Pack General Rules</a>
+   1. <a href="#page_02">Anaphi</a>
+   1. <a href="#page_03">Cassandra</a>
+   1. <a href="#page_04">Hail</a>
+   1. <a href="#page_05">Satha</a>
+1. <a href="#page_20">ConQuests 2025</a>
 1. <a href="#page_10">General Compatibility Notes for Crossover Characters</a>
 1. <a href="#page_11">Changelog (beginning at v1.0)</a>
 
@@ -57,6 +57,8 @@
 **Dimensional Divide (2, top)** – If the element is consumed, the Push is added only to the Push, and the Pull is added only to the Pull.
 
 **Enfeebling Hex (4, top) – How long does the -1 stay in the monster deck?** Until the end of the scenario.
+
+**Constant Flux (5, bottom) - Can this target one ally and one enemy?** Yes. It can target two allies, two enemies, or one ally and one enemy.
 
 **Tear Reality (7, top) – What does ‘as if you occupied’ mean?** See General Rules, above.
 
@@ -106,9 +108,11 @@
 
 **Can ConQuests be completed with Inspiration?** Yes, but if a ConQuest is completed with Inspiration there is no specific character considered to have completed the Personal Quest, so no one would earn the associated lineage reward (although you would still gain prosperity and unlock envelopes as normal).
 
+**Can these open character envelopes in a Frosthaven canmpaign? How about the Crossed Swords class in Gloomhaven** As a promo add-on, this will need to be decided by your table. An ideal use for these is to unlock cross-game classes, or Mercenry Pack characters. The recommendation is that these shouldn't be used to unlock 'standard' classes in Frosthaven, or the Crossed Swords class in Gloomhaven, because those are not normally unlocked through completing Personal Quests.
+
 **Conquer Your Demons** - Note that to succeed in this PQ, you must spawn at least two of every kind of standard demon available in the relevant box. For Gloomhaven 2e and Frosthaven, this is all six elemental demons, plus chaos demons.
 
-**Consequences of Combat** - The self-strengthen is applied after the attack is completely resolved. 
+**Consequences of Combat** - The self-strengthen is applied after the attack is completely resolved.
 
 ![divider](/assets/images/divider.png)
 <br>
