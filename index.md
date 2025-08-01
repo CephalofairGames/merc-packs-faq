@@ -4,9 +4,6 @@
 
 *Last Updated 2025-07-31*
 
-**For information about this FAQ, including how to ask questions of your own, see <a href="#page_0">Section 0</a>.** 
-Note there is a changelog in <a href="#page_11">Section 11</a> if you are looking for recent rulings.
-
 1. <a href="page_01">Mercenary Pack General Rules</a>
    1. <a href="page_02">Anaphi</a>
    1. <a href="page_03">Cassandra</a>
@@ -28,7 +25,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 **Which games can these characters be used in** Mercenary Pack characters are compatible with any game in the series. They have a QR code which will lead you to rules that may not appear in the characters' boxes. Their solo scenarios, however, require the characters' "home" game components - Jaws of the Lion for Anaphi; Gloomhaven Second Edition for Hail and Cassandra; and Frosthaven for Satha.
 
-### <a name="page_02">1.1 Anaphi</a>
+### <a name="page_02">1.1</a> Anaphi
 
 **Surrounding Shadows (1) – What does ‘as if I occupied’ mean here?** See general rules, above.
 
@@ -47,7 +44,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 ![divider](/assets/images/divider2.png)
 
-### <a name="page_03">1.2 Cassandra</a>
+### <a name="page_03">1.2</a> Cassandra
 
 **Do 'revealed cards' include drawn cards or discards?** No; only cards that have been flipped to their faces on top of the draw deck are considered 'revealed.'
 
@@ -63,7 +60,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 ![divider](/assets/images/divider2.png)
 
-### <a name="page_04">1.3 Hail</a>
+### <a name="page_04">1.3</a> Hail
 
 **General, on Enhancement Costs** – Cards that are conditionally Lost cards (such as Fleeting Interest, 1 top) cost half to enhance.
 
@@ -85,7 +82,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 ![divider](/assets/images/divider2.png)
 
-### <a name="page_05">1.4 Satha</a>
+### <a name="page_05">1.4</a> Satha
 
 **Stand Firm (2, top)** – The bonus being ‘cumulative’ means that you gain Shield 1 for each attack, stacking the final value. So if you are attacked four times, you will have Shield 1 on the first one from this action, all the way up to Shield 4 for the fourth. This additional shield lasts for the rest of the round.
 
@@ -95,7 +92,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_20">2.0 ConQuests</a>
+## <a name="page_20">2.0</a> ConQuests
 
 **What if I draw a ConQuest and don't meet the Prosperity requirement?** There's no need to add ConQuests to the available pool before you reach Prosperity 5. If you've already added them to your pool but don't meet the requirements, simply draw again.
 
@@ -107,7 +104,7 @@ Note there is a changelog in <a href="#page_11">Section 11</a> if you are lookin
 
 ![divider](/assets/images/divider.png)
 <br>
-## <a name="page_10" class="page-number">10.0</a> Compatibility Notes for Crossover Characters
+## <a name="page_10" class="page-number">3.0</a> Compatibility Notes for Crossover Characters
 
 ### General Note - Loot vs Money Tokens
 
