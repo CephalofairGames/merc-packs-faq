@@ -48,7 +48,7 @@
 
 ### <a name="page_03" class="page-number">1.2</a> Cassandra
 
-**Do 'revealed cards' include drawn cards or discards?** No; only cards that have been flipped to their faces on top of the draw deck are considered 'revealed.'
+**Do 'revealed cards' include drawn cards or discards?** No; only cards that have been flipped to their faces, on top of the draw deck, are considered 'revealed.' This is especially important for the two-check perk. 
 
 **Envision the Course (1, top) – What is a ‘linked hex’?** Linked hexes are considered adjacent for the purpose of movement . There is no line-of-sight between linked hexes, but figures can find focus through linked hexes.
 
@@ -63,6 +63,8 @@
 **Tear Reality (7, top) – What does ‘as if you occupied’ mean?** See General Rules, above.
 
 **Ancestry Note** - Cassandra is an Aesther for any situations that check Ancestry (such as some event cards).
+
+**Solo Item** - <span class="hidden">The Basin has two sides but is *not* a flip item. You choose the side you bring before the scenario. This is described in the solo scenario rules.</span>
 
 ![divider](/assets/images/divider2.png)
 
