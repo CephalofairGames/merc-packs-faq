@@ -132,7 +132,7 @@ Any mechanic referring to either objectives, or obstacles with hit points, is re
 
 Note that only major rulings and/or clarifications will be listed here. Typo fixes and the like will not be reflected, below.
 
-- 2025-07-31 - v1.0 initial release
+- 2025-08-01 - v1.0 initial release
 
 
 
