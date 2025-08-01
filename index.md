@@ -10,7 +10,7 @@
    1. <a href="page_04">Hail</a>
    1. <a href="page_05">Satha</a>
 1. <a href="page_20">ConQuests 2025</a>
-1. <a href="#page_10">Compatibility Notes for Crossover Characters</a>
+1. <a href="#page_10">General Compatibility Notes for Crossover Characters</a>
 1. <a href="#page_11">Changelog (beginning at v1.0)</a>
 
 ![divider](/assets/images/divider.png)
@@ -42,6 +42,8 @@
 
 **Her Highness (9, bot)** – If the Heal targets you, enemies adjacent to you still only take damage once.
 
+**Ancestry Note** - Anaphi is a Vermling for any situations that check Ancestry (such as some event cards).
+
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_03">1.2</a> Cassandra
@@ -57,6 +59,8 @@
 **Enfeebling Hex (4, top) – How long does the -1 stay in the monster deck?** Until the end of the scenario.
 
 **Tear Reality (7, top) – What does ‘as if you occupied’ mean?** See General Rules, above.
+
+**Ancestry Note** - Cassandra is an Aesther for any situations that check Ancestry (such as some event cards).
 
 ![divider](/assets/images/divider2.png)
 
@@ -80,6 +84,8 @@
 
 **Perk: Enchanter** The 5 gold reduction is applied at the very end of calculating enhancement costs.
 
+**Ancestry Note** - Hail is an Aesther for any situations that check Ancestry (such as some event cards).
+
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_05">1.4</a> Satha
@@ -89,6 +95,8 @@
 **Armory (5, top)** – Unlike (so far) every other use slot ability in the game, advancing this one is voluntary (that is, it has a trigger condition with ‘you may’ and a result of ‘any number of slots). You may choose to advance it 0 slots on an attack.
 
 **Send them Reeling (7, bot)** – This usually cannot include shields gained from items, because those are (generally) momentary for one attack. It can, however, include round-long or persistent shields, such as from Stand Firm (2, top).
+
+**Ancestry Note** - Satha is a Human for any situations that check Ancestry (such as some event cards).
 
 ![divider](/assets/images/divider.png)
 
@@ -113,38 +121,6 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 ### Objectives vs. Obstacles with Hit Points
 
 Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
-
-![divider-narrow](/assets/images/divider2.png)
-
-### Frosthaven characters in Gloomhaven: Second Edition and Jaws of the Lion
-
-**General** - Make note of the event cards rule for Frosthaven Crossover Classes on pg 57 of the rulebook. If the name of a Frosthaven ancestry (Algox, Lurker, or Unfettered) appears anywhere in the narrative text of an event card, that card features a crossover outcome. If you are playing the matching ancestry, you may read the crossover outcome by referencing section XX.1, where XX is the event number (either city or road). Event cards that do not feature crossover outcomes are resolved normally.
-
-**Drifter** - Your Scavenger perk (which lets you exchange Loot Cards) has no function in games without a Loot Deck.
-
-![divider-narrow](/assets/images/divider2.png)
-
-### Gloomhaven: Second Edition characters in Frosthaven
-
-**Silent Knife** - See the General Note at the top of this section for rules involving money vs. loot tokens. Any specific references to gold are unchanged.
-
-**Tinkerer** - It is impossible for this FAQ to encompass all the potential interactions with Chimeric Formula, *particularly* when involving characters from other games. Your group is empowered to interpret ambiguity for your own table. If you are not confident in your group's capability to fairly interpret potentially contradictory rules, I would recommend only using this on simpler cards and avoiding broken interactions.
-
-**Saw and Frosthaven Building 42** - <span class="hidden">Your Devout perk will work just as normal for the Temple, once it is built. Even though the cost for blessings is different between the games, you don't get any refunds.</span>
-
-**Saw and Drifter** - <span class="hidden">Drifter's abilities which move tokens backwards will not work on any Prescriptions Saw gives to them, because Prescriptions are still considered Saw's abilities.</span>
-
-**Three Spears** - <span class="hidden">Items without gold costs may not be refreshed with Supplies. As a house rule recommendation, you may treat potions that are both in Frosthaven and Gloomhaven: Second Edition as having the Gloomhaven version's gold cost. Note that your "Well-Connected" perk (involving faction items) has no function outside of Gloomhaven: Second Edition.</span>
-
-![divider-narrow](/assets/images/divider2.png)
-
-### Gloomhaven: Jaws of the Lion characters in other games
-
-Crossover character sheets can be found at [Cephalofair's website](https://cephalofair.com/pages/frosthaven). They are technically for Frosthaven, but will work for Gloomhaven: Second Edition as well.
-
-**Demolitionist** - If you bring the Demolitionist into other games, and use the Level X Rubble card, you will need to bring destruction tokens over as well. When you (and only you) destroy any obstacle through items or abilities, place a destruction token in the hex(es) it previously occupied. Hexes with only destruction tokens are considered featureless, and the destruction token should be removed if a new overlay is placed in its hex.
-
-<br>
 
 ![divider](/assets/images/divider.png)
 <br>
