@@ -25,7 +25,7 @@
 
 **Which games can these characters be used in** Mercenary Pack characters are compatible with any game in the series. They have a QR code which will lead you to rules that may not appear in the characters' boxes. Their solo scenarios, however, require the characters' "home" game components - Jaws of the Lion for Anaphi; Gloomhaven Second Edition for Hail and Cassandra; and Frosthaven for Satha.
 
-### <a name="page_02">1.1</a> Anaphi
+### <a name="page_02" class="page-number">1.1</a> Anaphi
 
 **Surrounding Shadows (1) – What does ‘as if I occupied’ mean here?** See general rules, above.
 
@@ -46,7 +46,7 @@
 
 ![divider](/assets/images/divider2.png)
 
-### <a name="page_03">1.2</a> Cassandra
+### <a name="page_03" class="page-number">1.2</a> Cassandra
 
 **Do 'revealed cards' include drawn cards or discards?** No; only cards that have been flipped to their faces on top of the draw deck are considered 'revealed.'
 
@@ -64,7 +64,7 @@
 
 ![divider](/assets/images/divider2.png)
 
-### <a name="page_04">1.3</a> Hail
+### <a name="page_04" class="page-number">1.3</a> Hail
 
 **General, on Enhancement Costs** – Cards that are conditionally Lost cards (such as Fleeting Interest, 1 top) cost half to enhance.
 
@@ -88,7 +88,7 @@
 
 ![divider](/assets/images/divider2.png)
 
-### <a name="page_05">1.4</a> Satha
+### <a name="page_05" class="page-number">1.4</a> Satha
 
 **Stand Firm (2, top)** – The bonus being ‘cumulative’ means that you gain Shield 1 for each attack, stacking the final value. So if you are attacked four times, you will have Shield 1 on the first one from this action, all the way up to Shield 4 for the fourth. This additional shield lasts for the rest of the round.
 
@@ -100,7 +100,7 @@
 
 ![divider](/assets/images/divider.png)
 
-## <a name="page_20">2.0</a> ConQuests
+## <a name="page_20" class="page-number">2.0</a> ConQuests
 
 **What if I draw a ConQuest and don't meet the Prosperity requirement?** There's no need to add ConQuests to the available pool before you reach Prosperity 5. If you've already added them to your pool but don't meet the requirements, simply draw again.
 
