@@ -138,11 +138,14 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 
 - 2025-08-01 - v1.0 initial release
 
-    body {
+
+<script>
+	
+	    body {
         background-color: #f0f0f0; /* Light gray background */
     }
 
-<script>
+	
 	function reveal(obj) {
 	  console.log(this);
 	  obj.className = "visible";
