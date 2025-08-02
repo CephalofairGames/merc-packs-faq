@@ -42,6 +42,8 @@
 
 **Her Highness (9, bot)** – If the Heal targets you, enemies adjacent to you still only take damage once.
 
+**Spotlight Scenario Errata** - A Harrowing Deal: The numbers as printed in the Map Layout area of "A Harrowing Deal" should read 42 / 43 / 17
+
 **Ancestry Note** - Anaphi is a Vermling for any situations that check Ancestry (such as some event cards).
 
 ![divider](/assets/images/divider2.png)
