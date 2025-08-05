@@ -92,6 +92,8 @@
 
 **Ancestry Note** - Hail is an Aesther for any situations that check Ancestry (such as some event cards).
 
+**Solo Item Errata** - <span class="hidden">Instead of "During your turn," the reverse of this card should read, "**At the end of your turn**, if you have spent 3 or more resolve this turn, flip this card over."</span>
+
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_05" class="page-number">1.4</a> Satha
