@@ -23,7 +23,7 @@
 
 **When are these characters unlocked?** These are considered Starter Classes, and are available immediately, unless you decide otherwise.
 
-**Which games can these characters be used in** Mercenary Pack characters are compatible with any game in the series. Their solo scenarios, however, require the characters' "home" game components - Jaws of the Lion for Anaphi; Gloomhaven Second Edition for Hail and Cassandra; and Frosthaven for Satha.
+**Which games can these characters be used in?** Mercenary Pack characters are compatible with any game in the series. Their solo scenarios, however, require the characters' "home" game components - Jaws of the Lion for Anaphi; Gloomhaven Second Edition for Hail and Cassandra; and Frosthaven for Satha.
 
 ### <a name="page_02" class="page-number">1.1</a> Anaphi
 
