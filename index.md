@@ -23,7 +23,7 @@
 
 **When are these characters unlocked?** These are considered Starter Classes, and are available immediately, unless you decide otherwise.
 
-**Which games can these characters be used in?** These Mercenary Packs are designed to meet the same standard of balance found in Frosthaven and Gloomhaven (2025, or Second Edition). When using these characters with the original Gloomhaven game, players may find that certain scenarios are slightly easier or more difficult depending on scenario/classes being played due to this revised and rebalanced system.
+**Which games can these characters be used in?** These Mercenary Packs are designed to meet the same standard of balance found in Frosthaven and Gloomhaven (2025). When using these characters with the original Gloomhaven game, players may find that certain scenarios are slightly easier or more difficult depending on scenario/classes being played due to this revised and rebalanced system.
 
 ### <a name="page_02" class="page-number">1.1</a> Anaphi
 
