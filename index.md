@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-08-04*
+*Last Updated 2025-08-13*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -23,7 +23,7 @@
 
 **When are these characters unlocked?** These are considered Starter Classes, and are available immediately, unless you decide otherwise.
 
-**Which games can these characters be used in?** Mercenary Pack characters are compatible with any game in the series. Their solo scenarios, however, require the characters' "home" game components - Jaws of the Lion for Anaphi; Gloomhaven Second Edition for Hail and Cassandra; and Frosthaven for Satha.
+**Which games can these characters be used in?** These Mercenary Packs are designed to meet the same standard of balance found in Frosthaven and Gloomhaven (2025, or Second Edition). When using these characters with the original Gloomhaven game, players may find that certain scenarios are slightly easier or more difficult depending on scenario/classes being played due to this revised and rebalanced system.
 
 ### <a name="page_02" class="page-number">1.1</a> Anaphi
 
@@ -140,6 +140,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 
 - 2025-08-01 - v1.0 initial release
 - 2025-08-04 - Added errata for Hail's solo scenario item
+- 2025-08-13 - Wording change on compatibility for clarity.
 
 
 
