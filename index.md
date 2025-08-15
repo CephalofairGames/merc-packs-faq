@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-08-13*
+*Last Updated 2025-08-15*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -86,6 +86,8 @@
 
 **Closed for Business (8, bot)** – Note that the enemy has already ended their move ability adjacent to you. If you push them away from you, making them out of range, they cannot choose to move more, or refocus on a different enemy.
 
+**Fired Up (9, top) - Is the damage each individual, or combined together?** - Each point of damage is its own source.
+
 **Perk: Minor Imbuement** – Note that “Hail gains 1 resolve” on the monster modifier card is considered a positive effect with unknown value for the monsters. This can affect the card chosen with advantage or disadvantage. Also note that this modifier card is only added to the monster deck if Hail is participating in the scenario. 
 
 **Perk: Enchanter** The 5 gold reduction is applied at the very end of calculating enhancement costs.
@@ -141,6 +143,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-01 - v1.0 initial release
 - 2025-08-04 - Added errata for Hail's solo scenario item
 - 2025-08-13 - Wording change on compatibility for clarity.
+- 2025-08-15 - Hail "Fired Up" clarification
 
 
 
