@@ -116,7 +116,7 @@
 
 **Can ConQuests be completed with Inspiration?** Yes, but if a ConQuest is completed with Inspiration there is no specific character considered to have completed the Personal Quest, so no one would earn the associated lineage reward (although you would still gain prosperity and unlock envelopes as normal).
 
-**Can these open character envelopes in a Frosthaven canmpaign? How about the Crossed Swords class in Gloomhaven** As a promo add-on, this will need to be decided by your table. An ideal use for these is to unlock cross-game classes, or Mercenry Pack characters. The recommendation is that these shouldn't be used to unlock 'standard' classes in Frosthaven, or the Crossed Swords class in Gloomhaven, because those are not normally unlocked through completing Personal Quests.
+**Can these open character envelopes in a Frosthaven canmpaign? How about the Crossed Swords class in Gloomhaven** As a promo add-on, this will need to be decided by your table. An ideal use for these is to unlock cross-game classes, or Mercenary Pack characters. The recommendation is that these shouldn't be used to unlock 'standard' classes in Frosthaven, or the Crossed Swords class in Gloomhaven, because those are not normally unlocked through completing Personal Quests.
 
 **Conquer Your Demons** - Note that to succeed in this PQ, you must spawn at least two of every kind of standard demon available in the relevant box. For Gloomhaven 2e and Frosthaven, this is all six elemental demons, plus chaos demons.
 
