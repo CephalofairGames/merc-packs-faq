@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-08-15*
+*Last Updated 2025-08-19*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -36,7 +36,8 @@
 **Level 5 Cards General** – As both of Anaphi's lvl 5 cards use the second mini, she cannot have both cards in her active area at the same time. (You're meant to choose one and not pick the other card at higher levels.)
 
 **My Loyal Friend (5) – What does the added text mean here?** Damage on Summons is normally tracked by placing damage tokens on their card. When damage tokens equal to the summon’s maximum health are present, the Summon dies and usually the card is removed. Rosie works slightly differently than normal Summons, however; for one thing, you don’t remove her card when she dies. For another, her special rules allow you to – effectively – re-summon her at the start of your third turn after she dies. (You don’t gain any more XP for this re-summoning.)
-**What happens if there is no hex adjacent to me for the Mind-linked Rat to be re-summoned?** The card text reads ‘may,’ so it may be held until the start of any turn you wish, once all damage tokens are removed. 
+**What happens if there is no hex adjacent to me for the Mind-linked Rat to be re-summoned?** The card text reads ‘may,’ so it may be held until the start of any turn you wish, once all damage tokens are removed.
+**What if Rosie is dealt more than 3 damage?** Summons (and everything else) can only suffer up to their remaining hp in damage. Rosie can never have more than 3 damage tokens on her card.
 
 **Revel in Misery (6, top)** - Note that the enemy has to have a negative condition before you initate the attack ability, in order to get the bless. Also note that you get a maximum of one Bless per attack ability, not per individual attack.
 
@@ -144,6 +145,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-04 - Added errata for Hail's solo scenario item
 - 2025-08-13 - Wording change on compatibility for clarity.
 - 2025-08-15 - Hail "Fired Up" clarification
+- 2025-08-19 - Clarification on Anaphi "Rosie"  summon max health 
 
 
 
