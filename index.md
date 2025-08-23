@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-08-19*
+*Last Updated 2025-08-22*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -12,6 +12,8 @@
 1. <a href="#page_20">ConQuests 2025</a>
 1. <a href="#page_10">General Compatibility Notes for Crossover Characters</a>
 1. <a href="#page_11">Changelog (beginning at v1.0)</a>
+
+You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive.google.com/file/d/16TmmCKa6zVVObj2qM-vIj9RcEAC3nfMT/view?usp=sharing).
 
 ![divider](/assets/images/divider.png)
 
@@ -72,6 +74,8 @@
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_04" class="page-number">1.3</a> Hail
+
+**What is the new condition with a green heart?** - This is *Safeguard*, a new condition in Gloomhaven (2025). The next time a figure with Safeguard would gain one or more negative conditions, prevent one of the conditions, and safeguard is then removed. Players may choose which condition to prevent if there is more than one, including when safeguard is on a monster. Safeguard can prevent a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.
 
 **General, on Enhancement Costs** – Cards that are conditionally Lost cards (such as Fleeting Interest, 1 top) cost half to enhance.
 
@@ -146,6 +150,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-13 - Wording change on compatibility for clarity.
 - 2025-08-15 - Hail "Fired Up" clarification
 - 2025-08-19 - Clarification on Anaphi "Rosie"  summon max health 
+- 2025-08-22 - Added a link to the GH Rulebook PDF, and posted Safeguard rules in Hail's section.
 
 
 
