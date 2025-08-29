@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-08-22*
+*Last Updated 2025-08-28*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -26,6 +26,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 **When are these characters unlocked?** These are considered Starter Classes, and are available immediately, unless you decide otherwise.
 
 **Which games can these characters be used in?** These Mercenary Packs are designed to meet the same standard of balance found in Frosthaven and Gloomhaven (2025). When using these characters with the original Gloomhaven game, players may find that certain scenarios are slightly easier or more difficult depending on scenario/classes being played due to this revised and rebalanced system.
+
+**A general note about Masteries** - Mercenary Pack masteries use the most recent Gloomhaven (2025) rules. Unless the mastery says something along the lines of "in a single scenario...", masteries are, by default, tracked over multiple scenarios.
 
 ### <a name="page_02" class="page-number">1.1</a> Anaphi
 
@@ -151,6 +153,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-15 - Hail "Fired Up" clarification
 - 2025-08-19 - Clarification on Anaphi "Rosie"  summon max health 
 - 2025-08-22 - Added a link to the GH Rulebook PDF, and posted Safeguard rules in Hail's section.
+- 2025-08-28 - Mastery note in general rules
 
 
 
