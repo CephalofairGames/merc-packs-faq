@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-08-28*
+*Last Updated 2025-10-17*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -50,6 +50,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 **Spotlight Scenario Errata** - A Harrowing Deal: The numbers as printed in the Map Layout area of "A Harrowing Deal" should read 42 / 43 / 17
 
 **Ancestry Note** - Anaphi is a Vermling for any situations that check Ancestry (such as some event cards).
+
+**Jaws of the Lion Compatibility** - Anaphi should not be anyone's first character for Jaws of the Lion. However, if she is played during the intro scenarios where other players are using A/B cards, her player should just use any 6 (or 8) of her cards, matching the numbers of cards the other players have.
 
 ![divider](/assets/images/divider2.png)
 
@@ -154,6 +156,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-19 - Clarification on Anaphi "Rosie"  summon max health 
 - 2025-08-22 - Added a link to the GH Rulebook PDF, and posted Safeguard rules in Hail's section.
 - 2025-08-28 - Mastery note in general rules
+- 2025-10-17 - Anaphi in JotL
 
 
 
