@@ -29,6 +29,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **A general note about Masteries** - Mercenary Pack masteries use the most recent Gloomhaven (2025) rules. Unless the mastery says something along the lines of "in a single scenario...", masteries are, by default, tracked over multiple scenarios.
 
+![divider](/assets/images/divider2.png)
+
 ### <a name="page_02" class="page-number">1.1</a> Anaphi
 
 **Surrounding Shadows (1) – What does ‘as if I occupied’ mean here?** See general rules, above.
