@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-10-17*
+*Last Updated 2025-11-20*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -60,6 +60,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 ### <a name="page_03" class="page-number">1.2</a> Cassandra
 
 **Do 'revealed cards' include drawn cards or discards?** No; only cards that have been flipped to their faces, on top of the draw deck, are considered 'revealed.' This is especially important for the two-check perk. 
+
+**Another party member has abilities that also peek at cards. Will these count as "revealed" for my abilities and perks?** Yes; while Cassandra is in the party, all other deck-peeking abilities should be considered to "reveal" cards as well.
 
 **Envision the Course (1, top) – What is a ‘linked hex’?** Linked hexes are considered adjacent for the purpose of movement . There is no line-of-sight between linked hexes, but figures can find focus through linked hexes.
 
@@ -159,6 +161,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-22 - Added a link to the GH Rulebook PDF, and posted Safeguard rules in Hail's section.
 - 2025-08-28 - Mastery note in general rules
 - 2025-10-17 - Anaphi in JotL
+- 2025-11-20 - Other allies' Reveal abilities for Cassandra's stuff
 
 
 
