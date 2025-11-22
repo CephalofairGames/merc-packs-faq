@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-11-20*
+*Last Updated 2025-11-22*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -93,6 +93,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Trial and Success (X, top) – If I make this a multi-target attack, can I get more than one +1 out of it?** Yes; you get to add a +1 for each enemy killed. If you kill one enemy as part of a multi-target attack, you will get the +1 sticker before attacking the next enemy.
 
+**Beneath Me (3, top) - If an ally has already made an attack during the round in which this Irritation is played, can the benefit trigger for the next attack?** No; the trigger condition of 'first time each round' has already occurred, for this round.
+
 **Trying to Remember (5, top)** – You can only gain a Curse once when this action is played.
 
 **Kill That One First (8, top) – Can I skip the Strengthen on the enemy?** No. If you choose to perform a non-mandatory ability, you must perform the entirety of the ability. (See the GH2e rulebook, pg 35.)
@@ -162,6 +164,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-08-28 - Mastery note in general rules
 - 2025-10-17 - Anaphi in JotL
 - 2025-11-20 - Other allies' Reveal abilities for Cassandra's stuff
+- 2025-11-22 - Hail 'Beneath Me' clarification
 
 
 
