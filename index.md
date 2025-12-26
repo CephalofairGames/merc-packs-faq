@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2025-11-22*
+*Last Updated 2025-12-26*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -49,7 +49,7 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Her Highness (9, bot)** – If the Heal targets you, enemies adjacent to you still only take damage once.
 
-**Spotlight Scenario Errata** - A Harrowing Deal: The numbers as printed in the Map Layout area of "A Harrowing Deal" should read 42 / 43 / 17
+**Spotlight Scenario Errata** - A Harrowing Deal: The numbers as printed in the Map Layout area of "A Harrowing Deal" should read 22 / 23 / 9
 
 **Ancestry Note** - Anaphi is a Vermling for any situations that check Ancestry (such as some event cards).
 
@@ -92,6 +92,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 **Abundant Nuisance (X, bot) – What happens with Poison while Hail has this Irritation active?** Poison still blocks healing, but is not removed after doing so.
 
 **Trial and Success (X, top) – If I make this a multi-target attack, can I get more than one +1 out of it?** Yes; you get to add a +1 for each enemy killed. If you kill one enemy as part of a multi-target attack, you will get the +1 sticker before attacking the next enemy.
+
+**Fading Presence (3,bot) - If I teleport back at the end of my turn, which hex do I loot with my end-of-turn looting?** End of turn looting takes place after all abilities are performed and your turn formally ends. You will loot the hex you originally occupied.
 
 **Beneath Me (3, top) - If an ally has already made an attack during the round in which this Irritation is played, can the benefit trigger for the next attack?** No; the trigger condition of 'first time each round' has already occurred, for this round.
 
@@ -165,6 +167,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-10-17 - Anaphi in JotL
 - 2025-11-20 - Other allies' Reveal abilities for Cassandra's stuff
 - 2025-11-22 - Hail 'Beneath Me' clarification
+= 2025-12-26 - Hail's 'Fading Presence' interaction with end of turn looting
 
 
 
