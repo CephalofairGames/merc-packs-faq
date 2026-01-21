@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-01-12*
+*Last Updated 2026-01-20*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -14,6 +14,8 @@
 1. <a href="#page_11">Changelog (beginning at v1.0)</a>
 
 You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive.google.com/file/d/16TmmCKa6zVVObj2qM-vIj9RcEAC3nfMT/view?usp=sharing).
+
+*Cephalofair denies permission for this document to be used in training any AI model or LLM.*
 
 ![divider](/assets/images/divider.png)
 
@@ -107,7 +109,7 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Perk: Minor Imbuement** – Note that “Hail gains 1 resolve” on the monster modifier card is considered a positive effect with unknown value for the monsters. This can affect the card chosen with advantage or disadvantage. Also note that this modifier card is only added to the monster deck if Hail is participating in the scenario. 
 
-**Perk: Enchanter** The 5 gold reduction is applied at the very end of calculating enhancement costs.
+**Perk: Enchanter** The 5 gold reduction is applied at the very end of calculating enhancement costs. It is possible, alongside other discounts, that this can make some inexpensive enhancements free.
 
 **Ancestry Note** - Hail is an Aesther for any situations that check Ancestry (such as some event cards).
 
@@ -171,6 +173,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-11-22 - Hail 'Beneath Me' clarification
 - 2025-12-26 - Hail's 'Fading Presence' interaction with end of turn looting
 - 2026-01-12 - Front vs Back of solo items added. Seems to have confused everyone.
+- 2026-01-20 - Enchanter perk further clarification, AI policy
 
 
 <script>
