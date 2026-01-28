@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-01-20*
+*Last Updated 2026-01-28*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -65,6 +65,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Another party member has abilities that also peek at cards. Will these count as "revealed" for my abilities and perks?** Yes; while Cassandra is in the party, all other deck-peeking abilities should be considered to "reveal" cards as well.
 
+**For cards referencing 'positive' or 'negative' modifier draws, how is +0 treated? What about other added effects?** Only the actual numeric value of the modifier card is considered for these cards; that is, the value by which the attack is modified. Nothing else is considered for these. A +0 is neither positive nor negative, and therefore isn't counted as either. (Technically, x2 and Null also aren't positive or negative, but these are handled by the card text.)
+
 **Envision the Course (1, top) – What is a ‘linked hex’?** Linked hexes are considered adjacent for the purpose of movement . There is no line-of-sight between linked hexes, but figures can find focus through linked hexes.
 
 **Otherworldly Journey (1, bot)** – Note that a figure cannot be teleported into a hex it could not normally occupy (like an Obstacle for a non-flying enemy.)
@@ -118,6 +120,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_05" class="page-number">1.4</a> Satha
+
+**Shared Glory (1, bot) - What happens if a Summon is granted the Loot? How about a scenario ally?** If a Summon performs the loot ability, its summoner will get anything it loots, and it can cause the first ability on this action to trigger. If a scenario ally is granted a loot, it will just remove any loot tokens or coins from the map to no effect. The first ability on the action will not trigger, in this case, and the token is returned to the scenario supply.
 
 **Stand Firm (2, top)** – The bonus being ‘cumulative’ means that you gain Shield 1 for each attack, stacking the final value. So if you are attacked four times, you will have Shield 1 on the first one from this action, all the way up to Shield 4 for the fourth. This additional shield lasts for the rest of the round.
 
@@ -174,6 +178,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2025-12-26 - Hail's 'Fading Presence' interaction with end of turn looting
 - 2026-01-12 - Front vs Back of solo items added. Seems to have confused everyone.
 - 2026-01-20 - Enchanter perk further clarification, AI policy
+- 2026-01-28 - Clarification on modifier definitions for Cassandra; Satha granting loot to unconventional targets
 
 
 <script>
