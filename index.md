@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-01-28*
+*Last Updated 2026-02-10*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -71,7 +71,7 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Otherworldly Journey (1, bot)** – Note that a figure cannot be teleported into a hex it could not normally occupy (like an Obstacle for a non-flying enemy.)
 
-**Dimensional Divide (2, top)** – If the element is consumed, the Push is added only to the Push, and the Pull is added only to the Pull.
+**Dimensional Divide (2, top)** – If the element is consumed, the Push is added only to the Push, and the Pull is added only to the Pull. If you add a target to this attack, it will have neither Push nor Pull.
 
 **Enfeebling Hex (4, top) – How long does the -1 stay in the monster deck?** Until the end of the scenario.
 
@@ -179,6 +179,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-12 - Front vs Back of solo items added. Seems to have confused everyone.
 - 2026-01-20 - Enchanter perk further clarification, AI policy
 - 2026-01-28 - Clarification on modifier definitions for Cassandra; Satha granting loot to unconventional targets
+- 2026-02-10 - Dimensional Divide (Cassandra) add'l clarification
 
 
 <script>
