@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-02-10*
+*Last Updated 2026-02-14*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -35,6 +35,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 ### <a name="page_02" class="page-number">1.1</a> Anaphi
 
+**Ancestry Note** - Anaphi is a Vermling for any situations that check Ancestry (such as some event cards).
+
 **Surrounding Shadows (1) – What does ‘as if I occupied’ mean here?** See general rules, above.
 
 **Endless Biting (1) – What happens if the Duskrat Swarm is reduced to 0 health by an Attack? Can it still Heal 1?**  No; it is killed when it has accumulated damage equal to its health.
@@ -53,17 +55,19 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Spotlight Scenario Errata** - A Harrowing Deal: The numbers as printed in the Map Layout area of "A Harrowing Deal" should read 22 / 23 / 9
 
-**Ancestry Note** - Anaphi is a Vermling for any situations that check Ancestry (such as some event cards).
-
 **Jaws of the Lion Compatibility** - Anaphi should not be anyone's first character for Jaws of the Lion. However, if she is played during the intro scenarios where other players are using A/B cards, her player should just use any 6 (or 8) of her cards, matching the numbers of cards the other players have.
 
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_03" class="page-number">1.2</a> Cassandra
 
+**Ancestry Note** - Cassandra is an Aesther for any situations that check Ancestry (such as some event cards).
+
 **Do 'revealed cards' include drawn cards or discards?** No; only cards that have been flipped to their faces, on top of the draw deck, are considered 'revealed.' This is especially important for the two-check perk. 
 
 **Another party member has abilities that also peek at cards. Will these count as "revealed" for my abilities and perks?** Yes; while Cassandra is in the party, all other deck-peeking abilities should be considered to "reveal" cards as well.
+
+**Can Divination abilities be used on objectives?** No; objectives can never attack and thus don't have a modifier deck. In an exceptional scenario where they could attack per the scenario rules, they would become valid targets.
 
 **For cards referencing 'positive' or 'negative' modifier draws, how is +0 treated? What about other added effects?** Only the actual numeric value of the modifier card is considered for these cards; that is, the value by which the attack is modified. Nothing else is considered for these. A +0 is neither positive nor negative, and therefore isn't counted as either. (Technically, x2 and Null also aren't positive or negative, but these are handled by the card text.)
 
@@ -79,13 +83,13 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Tear Reality (7, top) – What does ‘as if you occupied’ mean?** See General Rules, above.
 
-**Ancestry Note** - Cassandra is an Aesther for any situations that check Ancestry (such as some event cards).
-
 **Solo Item** - <span class="hidden">The Basin has two sides but is *not* a flip item. You choose the side you bring before the scenario. This is described in the solo scenario rules.</span>
 
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_04" class="page-number">1.3</a> Hail
+
+**Ancestry Note** - Hail is an Aesther for any situations that check Ancestry (such as some event cards).
 
 **What is the new condition with a green heart?** - This is *Safeguard*, a new condition in Gloomhaven (2025). The next time a figure with Safeguard would gain one or more negative conditions, prevent one of the conditions, and safeguard is then removed. Players may choose which condition to prevent if there is more than one, including when safeguard is on a monster. Safeguard can prevent a figure from adding a curse card to their deck, but does not prevent a drawn curse card from taking effect.
 
@@ -113,13 +117,13 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Perk: Enchanter** The 5 gold reduction is applied at the very end of calculating enhancement costs. It is possible, alongside other discounts, that this can make some inexpensive enhancements free.
 
-**Ancestry Note** - Hail is an Aesther for any situations that check Ancestry (such as some event cards).
-
 **Solo Item Errata and Notes** - Instead of "During your turn," the front of this card should read, "**At the end of your turn**, if you have spent 3 or more resolve this turn, flip this card over." The side with this text is the front of the solo item, and the side it starts with every scenario.
 
 ![divider](/assets/images/divider2.png)
 
 ### <a name="page_05" class="page-number">1.4</a> Satha
+
+**Ancestry Note** - Satha is a Human for any situations that check Ancestry (such as some event cards).
 
 **Shared Glory (1, bot) - What happens if a Summon is granted the Loot? How about a scenario ally?** If a Summon performs the loot ability, its summoner will get anything it loots, and it can cause the first ability on this action to trigger. If a scenario ally is granted a loot, it will just remove any loot tokens or coins from the map to no effect. The first ability on the action will not trigger, in this case, and the token is returned to the scenario supply.
 
@@ -128,8 +132,6 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 **Armory (5, top)** – Unlike (so far) every other use slot ability in the game, advancing this one is voluntary (that is, it has a trigger condition with ‘you may’ and a result of ‘any number of slots). You may choose to advance it 0 slots on an attack.
 
 **Send them Reeling (7, bot)** – This usually cannot include shields gained from items, because those are (generally) momentary for one attack. It can, however, include round-long or persistent shields, such as from Stand Firm (2, top).
-
-**Ancestry Note** - Satha is a Human for any situations that check Ancestry (such as some event cards).
 
 **Solo Item** - The side which starts with "Whenever you long rest..." is the front of this item, and the side it starts on every scenario. 
 
@@ -180,6 +182,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-20 - Enchanter perk further clarification, AI policy
 - 2026-01-28 - Clarification on modifier definitions for Cassandra; Satha granting loot to unconventional targets
 - 2026-02-10 - Dimensional Divide (Cassandra) add'l clarification
+- 2025-02-14 - Cassandra and Objectives; also put ancestry notes as first in the sections.
 
 
 <script>
