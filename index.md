@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-02-14*
+*Last Updated 2026-03-28*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -133,6 +133,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Send them Reeling (7, bot)** – This usually cannot include shields gained from items, because those are (generally) momentary for one attack. It can, however, include round-long or persistent shields, such as from Stand Firm (2, top).
 
+**Solo Scenario Goal** <span class="hidden">In the scenario goal, "four rounds after..." does not include the round in which the bell rang, so it effectively ends at the end of Round 5 after the tracker starts.</span>
+
 **Solo Item** - The side which starts with "Whenever you long rest..." is the front of this item, and the side it starts on every scenario. 
 
 ![divider](/assets/images/divider.png)
@@ -182,7 +184,8 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-01-20 - Enchanter perk further clarification, AI policy
 - 2026-01-28 - Clarification on modifier definitions for Cassandra; Satha granting loot to unconventional targets
 - 2026-02-10 - Dimensional Divide (Cassandra) add'l clarification
-- 2025-02-14 - Cassandra and Objectives; also put ancestry notes as first in the sections.
+- 2026-02-14 - Cassandra and Objectives; also put ancestry notes as first in the sections.
+- 2026-03-28 - Satha solo scenario clarification. 
 
 
 <script>
