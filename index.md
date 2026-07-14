@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-03-28*
+*Last Updated 2026-07-14*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -163,6 +163,10 @@ If a mechanic refers to loot tokens or money tokens, it can refer to either, bas
 
 Any mechanic referring to either objectives, or obstacles with hit points, is referring to either.
 
+### Gloomhaven and Mercenary Pack Solo Scenarios in Frosthaven
+
+For all solo scenarios played during a Frosthaven campaign with crossover characters, use a loot deck of 15 coin cards.
+
 ![divider](/assets/images/divider.png)
 <br>
 ## <a name="page_11" class="page-number">11.0</a> Changelog (from release, v1.0 onwards)
@@ -186,6 +190,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-02-10 - Dimensional Divide (Cassandra) add'l clarification
 - 2026-02-14 - Cassandra and Objectives; also put ancestry notes as first in the sections.
 - 2026-03-28 - Satha solo scenario clarification. 
+- 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven
 
 
 <script>
