@@ -2,7 +2,7 @@
 
 # **Official FAQ for Mercenary Packs and ConQuests**
 
-*Last Updated 2026-07-14*
+*Last Updated 2026-10-05*
 
 1. <a href="#page_01">Mercenary Pack General Rules</a>
    1. <a href="#page_02">Anaphi</a>
@@ -127,6 +127,8 @@ You can [download the Gloomhaven (2025) Rulebook in PDF form here](https://drive
 
 **Shared Glory (1, bot) - What happens if a Summon is granted the Loot? How about a scenario ally?** If a Summon performs the loot ability, its summoner will get anything it loots, and it can cause the first ability on this action to trigger. If a scenario ally is granted a loot, it will just remove any loot tokens or coins from the map to no effect. The first ability on the action will not trigger, in this case, and the token is returned to the scenario supply.
 
+**Wolf Pack Tactics (X, bot)** - (1) You can pick any revealed enemy to get closer to; it doesn't need to be the closest enemy. (2) "Closer" is determined by movement path, which means you can count around impassable hexes. (3) If you have added movement (for example via Take Command), only the final hex needs to be closer to the selected enemy.
+
 **Stand Firm (2, top)** – The bonus being ‘cumulative’ means that you gain Shield 1 for each attack, stacking the final value. So if you are attacked four times, you will have Shield 1 on the first one from this action, all the way up to Shield 4 for the fourth. This additional shield lasts for the rest of the round.
 
 **Armory (5, top)** – Unlike (so far) every other use slot ability in the game, advancing this one is voluntary (that is, it has a trigger condition with ‘you may’ and a result of ‘any number of slots). You may choose to advance it 0 slots on an attack.
@@ -191,6 +193,7 @@ Note that only major rulings and/or clarifications will be listed here. Typo fix
 - 2026-02-14 - Cassandra and Objectives; also put ancestry notes as first in the sections.
 - 2026-03-28 - Satha solo scenario clarification. 
 - 2026-07-14 - Crossover Solo scenario loot deck in Frosthaven
+- 2026-10-05 - Satha 'Wolf Pack Tactics' clarification
 
 
 <script>
